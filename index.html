@@ -1,0 +1,1615 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>🧡🤒 De Liefhebbers — Oranje Koorts Dashboard 🤒🧡</title>
+<style>
+  :root{
+    --oranje:#FF6B00;
+    --oranje-licht:#FF8A33;
+    --oranje-donker:#CC4F00;
+    --rood:#AE1C28;
+    --blauw:#21468B;
+    --inkt:#1a0e08;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{
+    font-family:'Helvetica Neue',Arial,sans-serif;
+    background:linear-gradient(135deg,#fff4e6 0%,#ffe0c2 50%,#ffd1a3 100%);
+    color:var(--inkt);
+    min-height:100vh;
+    padding-bottom:60px;
+  }
+
+  header{
+    background:linear-gradient(135deg,var(--oranje) 0%,var(--oranje-donker) 100%);
+    color:white;
+    padding:24px 16px 32px;
+    text-align:center;
+    box-shadow:0 4px 20px rgba(255,107,0,0.4);
+    position:relative;
+    overflow:hidden;
+  }
+  header::before{
+    content:"🧡🤒🥵🥶🚑🏥🇳🇱🏆⚽";
+    position:absolute;
+    top:0;left:0;right:0;bottom:0;
+    font-size:120px;
+    opacity:0.06;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    flex-wrap:wrap;
+    pointer-events:none;
+  }
+  header h1{
+    font-size:28px;
+    font-weight:900;
+    letter-spacing:-0.5px;
+    text-shadow:2px 2px 0 rgba(0,0,0,0.2);
+    position:relative;
+    z-index:1;
+  }
+  header .ondertitel{
+    margin-top:8px;
+    font-size:14px;
+    font-weight:600;
+    opacity:0.95;
+    position:relative;
+    z-index:1;
+  }
+  header .groepsnaam{
+    margin-top:14px;
+    background:rgba(255,255,255,0.2);
+    backdrop-filter:blur(10px);
+    padding:8px 16px;
+    border-radius:20px;
+    display:inline-block;
+    font-size:13px;
+    font-weight:700;
+    position:relative;
+    z-index:1;
+  }
+
+  .container{max-width:760px;margin:0 auto;padding:16px}
+
+  /* INKLAPBARE BLOKKEN */
+  .blok{
+    background:white;
+    border-radius:16px;
+    margin-bottom:12px;
+    box-shadow:0 4px 15px rgba(0,0,0,0.06);
+    overflow:hidden;
+    border:2px solid transparent;
+    transition:border-color 0.2s;
+  }
+  .blok.belangrijk{border-color:var(--oranje)}
+  .blok-kop{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    padding:14px 16px;
+    cursor:pointer;
+    user-select:none;
+    background:linear-gradient(to right,#fff,#fff5eb);
+    transition:background 0.2s;
+  }
+  .blok-kop:hover{background:#fff0e0}
+  .blok-titel{
+    font-size:16px;
+    font-weight:900;
+    color:var(--oranje-donker);
+    display:flex;
+    align-items:center;
+    gap:10px;
+  }
+  .blok-titel .icon{font-size:22px}
+  .blok-badge{
+    background:var(--oranje);
+    color:white;
+    font-size:10px;
+    font-weight:900;
+    padding:2px 8px;
+    border-radius:10px;
+    margin-left:6px;
+  }
+  .chevron{
+    font-size:18px;
+    color:var(--oranje);
+    transition:transform 0.3s;
+    font-weight:900;
+  }
+  .blok.open .chevron{transform:rotate(180deg)}
+  .blok-inhoud{
+    max-height:0;
+    overflow:hidden;
+    transition:max-height 0.4s ease-in-out;
+  }
+  .blok.open .blok-inhoud{max-height:8000px}
+  .blok-inhoud-inner{padding:0 16px 16px}
+
+  /* AFTELLEN */
+  .aftel-blok{
+    background:linear-gradient(135deg,var(--blauw),#2d5aa8);
+    color:white;
+    padding:18px 16px;
+    border-radius:16px;
+    text-align:center;
+    margin-top:-16px;
+    margin-bottom:12px;
+    box-shadow:0 4px 15px rgba(33,70,139,0.3);
+  }
+  .aftel-blok .label{font-size:12px;font-weight:700;opacity:0.9;text-transform:uppercase;letter-spacing:1px}
+  .aftel-blok .countdown{
+    display:flex;
+    justify-content:center;
+    gap:10px;
+    margin-top:10px;
+  }
+  .aftel-blok .unit{
+    background:rgba(255,255,255,0.15);
+    border-radius:10px;
+    padding:8px 10px;
+    min-width:55px;
+  }
+  .aftel-blok .nummer{
+    font-size:26px;
+    font-weight:900;
+    line-height:1;
+  }
+  .aftel-blok .eenheid{
+    font-size:10px;
+    text-transform:uppercase;
+    opacity:0.8;
+    margin-top:2px;
+  }
+
+  /* KOORTSMETER 88°C */
+  .koortsmeter-blok{
+    background:white;
+    padding:18px 18px 22px;
+  }
+  .koorts-uitleg{
+    font-size:12px;
+    color:#666;
+    margin-bottom:14px;
+    font-style:italic;
+    line-height:1.4;
+  }
+  .meter-container{
+    position:relative;
+    margin:36px 0 8px;
+  }
+  .meter-bar{
+    height:38px;
+    background:linear-gradient(90deg,
+      #4a90d9 0%,
+      #6cb8e6 6%,
+      #ffd1a3 18%,
+      #ffa500 38%,
+      #ff6b00 58%,
+      #ff3d00 75%,
+      #c00 88%,
+      #ff8c00 95%,
+      #ffd700 100%);
+    border-radius:20px;
+    position:relative;
+    box-shadow:inset 0 2px 8px rgba(0,0,0,0.2);
+    overflow:hidden;
+  }
+  .meter-bar::after{
+    content:"🏆";
+    position:absolute;
+    right:8px;
+    top:50%;
+    transform:translateY(-50%);
+    font-size:22px;
+    filter:drop-shadow(0 1px 2px rgba(0,0,0,0.3));
+  }
+  .meter-marker{
+    position:absolute;
+    top:-8px;
+    bottom:-8px;
+    width:4px;
+    background:white;
+    border:2px solid var(--inkt);
+    border-radius:3px;
+    transition:left 0.6s ease;
+    z-index:3;
+    box-shadow:0 2px 6px rgba(0,0,0,0.3);
+  }
+  .meter-marker::before{
+    content:"🤒";
+    position:absolute;
+    top:-28px;
+    left:50%;
+    transform:translateX(-50%);
+    font-size:24px;
+    filter:drop-shadow(0 1px 2px rgba(0,0,0,0.4));
+  }
+  .meter-marker::after{
+    content:attr(data-temp);
+    position:absolute;
+    top:-52px;
+    left:50%;
+    transform:translateX(-50%);
+    background:var(--inkt);
+    color:var(--oranje);
+    padding:3px 8px;
+    border-radius:6px;
+    font-size:12px;
+    font-weight:900;
+    white-space:nowrap;
+    box-shadow:0 2px 6px rgba(0,0,0,0.3);
+  }
+  .meter-schaal{
+    display:flex;
+    justify-content:space-between;
+    margin-top:8px;
+    padding:0 2px;
+    font-size:9px;
+    color:#666;
+    font-weight:700;
+  }
+  .meter-mijlpalen{
+    margin-top:14px;
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    gap:6px;
+    font-size:11px;
+  }
+  .mijlpaal{
+    padding:6px 9px;
+    background:#fff5eb;
+    border-radius:6px;
+    border-left:3px solid var(--oranje-licht);
+  }
+  .mijlpaal strong{color:var(--oranje-donker)}
+  .mijlpaal.peak{
+    border-left-color:#ffd700;
+    background:linear-gradient(to right,#fff8dc,#fffacd);
+    grid-column:span 2;
+    text-align:center;
+    font-weight:700;
+  }
+  .diagnose-box{
+    margin-top:14px;
+    padding:10px 14px;
+    background:linear-gradient(135deg,#fff5eb,#ffe7d0);
+    border-radius:10px;
+    text-align:center;
+    border:2px dashed var(--oranje);
+  }
+  .diagnose-box .diagnose-titel{
+    font-size:11px;
+    color:#666;
+    font-weight:700;
+    text-transform:uppercase;
+    letter-spacing:1px;
+  }
+  .diagnose-box .diagnose-tekst{
+    font-size:14px;
+    font-weight:900;
+    color:var(--oranje-donker);
+    margin-top:4px;
+  }
+
+  /* WERELDKLOKKEN */
+  .klokken-grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fill,minmax(110px,1fr));
+    gap:8px;
+  }
+  .klok-tegel{
+    background:linear-gradient(135deg,#fafafa,#f0f0f0);
+    border-radius:10px;
+    padding:10px 8px;
+    text-align:center;
+    border:1px solid #e5e5e5;
+    transition:transform 0.15s;
+  }
+  .klok-tegel:hover{transform:translateY(-2px)}
+  .klok-tegel.hoofdklok{
+    background:linear-gradient(135deg,var(--oranje),var(--oranje-donker));
+    color:white;
+    border-color:var(--oranje-donker);
+    box-shadow:0 3px 10px rgba(255,107,0,0.3);
+  }
+  .klok-vlag{font-size:18px;line-height:1}
+  .klok-stad{
+    font-size:10px;
+    font-weight:700;
+    margin-top:4px;
+    line-height:1.2;
+    color:inherit;
+    opacity:0.9;
+  }
+  .klok-tijd{
+    font-size:18px;
+    font-weight:900;
+    margin-top:4px;
+    font-variant-numeric:tabular-nums;
+    line-height:1;
+    color:var(--oranje-donker);
+  }
+  .klok-tegel.hoofdklok .klok-tijd{color:white}
+  .klok-datum{
+    font-size:9px;
+    color:#888;
+    margin-top:2px;
+    font-weight:600;
+  }
+  .klok-tegel.hoofdklok .klok-datum{color:rgba(255,255,255,0.85)}
+
+  /* DASHBOARD STATS */
+  .dashboard-grid{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    gap:10px;
+  }
+  .stat-tegel{
+    background:linear-gradient(135deg,#fff5eb,#ffe7d0);
+    padding:12px;
+    border-radius:14px;
+    text-align:center;
+    border:2px solid var(--oranje-licht);
+  }
+  .stat-tegel .waarde{
+    font-size:24px;
+    font-weight:900;
+    color:var(--oranje-donker);
+    line-height:1;
+  }
+  .stat-tegel .label{
+    font-size:11px;
+    font-weight:600;
+    color:#666;
+    margin-top:4px;
+    text-transform:uppercase;
+    letter-spacing:0.5px;
+  }
+  .stat-tegel .emoji{font-size:20px;display:block;margin-bottom:4px}
+
+  /* SELECTIE */
+  .selectie-sub{
+    font-size:11px;
+    color:#888;
+    margin-bottom:12px;
+    font-style:italic;
+  }
+  .selectie-update{
+    text-align:center;
+    font-size:10px;
+    color:#aaa;
+    margin-top:10px;
+    font-style:italic;
+  }
+  .positie-kop{
+    font-size:11px;
+    font-weight:900;
+    color:#888;
+    margin-top:12px;
+    text-transform:uppercase;
+    letter-spacing:0.5px;
+  }
+  .positie-kop:first-child{margin-top:0}
+  .speler-rij{
+    display:flex;
+    align-items:center;
+    gap:10px;
+    padding:8px 0;
+    border-bottom:1px dashed #eee;
+  }
+  .speler-rij:last-child{border-bottom:none}
+  .speler-naam{
+    flex:1;
+    font-size:13px;
+    font-weight:600;
+  }
+  .speler-positie{
+    font-size:10px;
+    color:#999;
+    text-transform:uppercase;
+    margin-left:6px;
+  }
+  .kans-bar{
+    flex:0 0 90px;
+    height:8px;
+    background:#eee;
+    border-radius:4px;
+    overflow:hidden;
+  }
+  .kans-fill{height:100%;border-radius:4px;transition:width 0.6s ease}
+  .kans-hoog{background:linear-gradient(90deg,#28a745,#20c997)}
+  .kans-midden{background:linear-gradient(90deg,#ff6b00,#ffa500)}
+  .kans-laag{background:linear-gradient(90deg,#dc3545,#ff6b6b)}
+  .kans-percentage{
+    font-size:11px;
+    font-weight:900;
+    min-width:35px;
+    text-align:right;
+  }
+  .speler-status{
+    font-size:14px;
+    width:18px;
+    text-align:center;
+  }
+
+  /* WEDSTRIJD */
+  .wedstrijd{
+    display:flex;
+    align-items:center;
+    gap:10px;
+    padding:10px;
+    background:#fff5eb;
+    border-radius:10px;
+    margin-bottom:8px;
+    border-left:4px solid var(--oranje);
+  }
+  .wedstrijd.oranje-match{border-left-color:var(--rood);background:#fff5f5}
+  .wedstrijd .datum{
+    font-weight:900;
+    color:var(--oranje-donker);
+    font-size:11px;
+    min-width:70px;
+  }
+  .wedstrijd .teams{flex:1;font-size:13px;font-weight:700}
+  .wedstrijd .tijd{
+    font-size:10px;
+    color:#666;
+    font-weight:600;
+    text-align:right;
+    min-width:80px;
+  }
+
+  /* VOLLEDIG SPEELSCHEMA */
+  .speeldag-kop{
+    background:var(--blauw);
+    color:white;
+    padding:8px 12px;
+    border-radius:8px;
+    font-size:13px;
+    font-weight:900;
+    margin:14px 0 8px;
+  }
+  .speeldag-kop:first-child{margin-top:0}
+  .mini-wedstrijd{
+    display:grid;
+    grid-template-columns:60px 1fr 90px;
+    gap:8px;
+    align-items:center;
+    padding:7px 10px;
+    background:#fafafa;
+    border-radius:8px;
+    margin-bottom:4px;
+    font-size:12px;
+    border-left:3px solid #ddd;
+  }
+  .mini-wedstrijd.oranje{
+    background:linear-gradient(to right,#fff5eb,#ffe7d0);
+    border-left-color:var(--oranje);
+    font-weight:700;
+  }
+  .mini-tijd{
+    font-weight:900;
+    color:var(--oranje-donker);
+    font-size:11px;
+  }
+  .mini-stad{
+    font-size:10px;
+    color:#888;
+    text-align:right;
+    font-style:italic;
+    line-height:1.2;
+  }
+  .groep-filter{
+    display:flex;
+    gap:5px;
+    flex-wrap:wrap;
+    margin-bottom:12px;
+  }
+  .groep-btn{
+    padding:4px 9px;
+    font-size:11px;
+    background:white;
+    border:2px solid #eee;
+    border-radius:14px;
+    cursor:pointer;
+    font-weight:700;
+    transition:all 0.15s;
+  }
+  .groep-btn.actief{
+    background:var(--oranje);
+    color:white;
+    border-color:var(--oranje);
+  }
+  .groepen-overzicht{
+    margin-bottom:14px;
+    padding:10px;
+    background:#fff8f1;
+    border-radius:10px;
+  }
+  .groep-rij{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:4px 0;
+    font-size:12px;
+    border-bottom:1px dotted #eee;
+  }
+  .groep-rij:last-child{border-bottom:none}
+  .groep-rij.eigen{
+    background:#fff5eb;
+    margin:0 -10px;
+    padding:6px 10px;
+    border-radius:6px;
+    font-weight:900;
+  }
+  .groep-letter{
+    font-weight:900;
+    color:var(--oranje-donker);
+    min-width:32px;
+  }
+  .groep-teams{
+    flex:1;
+    font-size:11px;
+    color:#444;
+  }
+
+  /* FILTERS NIEUWS */
+  .filter-titel{
+    font-size:11px;
+    font-weight:700;
+    color:#666;
+    text-transform:uppercase;
+    letter-spacing:1px;
+    margin-bottom:8px;
+  }
+  .filter-knoppen{
+    display:flex;
+    gap:6px;
+    flex-wrap:wrap;
+  }
+  .filter-btn{
+    padding:6px 12px;
+    border-radius:20px;
+    border:2px solid #eee;
+    background:white;
+    font-size:12px;
+    font-weight:700;
+    cursor:pointer;
+    transition:all 0.2s;
+  }
+  .filter-btn.actief{
+    background:var(--oranje);
+    border-color:var(--oranje);
+    color:white;
+    box-shadow:0 2px 8px rgba(255,107,0,0.3);
+  }
+
+  /* NIEUWSITEMS */
+  .nieuws-item{
+    background:#fafafa;
+    border-radius:12px;
+    padding:14px;
+    margin-bottom:10px;
+    border-left:4px solid var(--oranje);
+  }
+  .nieuws-item.algemeen{border-left-color:var(--blauw)}
+  .nieuws-item.hot{border-left-color:var(--rood);background:linear-gradient(to right,#fafafa,#fff5f5)}
+  .nieuws-meta{
+    display:flex;
+    align-items:center;
+    gap:8px;
+    margin-bottom:8px;
+    flex-wrap:wrap;
+  }
+  .badge{
+    font-size:10px;
+    font-weight:900;
+    padding:3px 8px;
+    border-radius:12px;
+    text-transform:uppercase;
+    letter-spacing:0.5px;
+  }
+  .badge-oranje{background:var(--oranje);color:white}
+  .badge-algemeen{background:var(--blauw);color:white}
+  .badge-hot{background:var(--rood);color:white;animation:pulse 1.5s infinite}
+  @keyframes pulse{0%,100%{opacity:1}50%{opacity:0.7}}
+  .nieuws-bron{font-size:11px;color:#888;font-weight:600}
+  .nieuws-datum{font-size:11px;color:#aaa;margin-left:auto}
+  .nieuws-kop{
+    font-size:14px;
+    font-weight:900;
+    color:var(--inkt);
+    margin-bottom:6px;
+    line-height:1.3;
+  }
+  .nieuws-samenvatting{
+    font-size:12px;
+    color:#555;
+    line-height:1.5;
+  }
+
+  /* WIST-JE-DATJE */
+  .quote-blok{
+    font-style:italic;
+    color:#444;
+    font-size:13px;
+    line-height:1.5;
+    padding:8px;
+    text-align:center;
+  }
+  .knop-ludiek{
+    background:var(--oranje);
+    color:white;
+    border:none;
+    padding:10px 20px;
+    border-radius:20px;
+    font-weight:700;
+    cursor:pointer;
+    font-size:13px;
+    margin-top:8px;
+    box-shadow:0 3px 10px rgba(255,107,0,0.3);
+    transition:transform 0.1s;
+  }
+  .knop-ludiek:active{transform:scale(0.95)}
+
+  /* TICKER */
+  .ticker-wrap{
+    background:var(--inkt);
+    color:var(--oranje);
+    overflow:hidden;
+    padding:10px 0;
+    margin-bottom:12px;
+    border-radius:10px;
+    position:relative;
+  }
+  .ticker-wrap::before,.ticker-wrap::after{
+    content:"";
+    position:absolute;
+    top:0;bottom:0;
+    width:30px;
+    z-index:2;
+  }
+  .ticker-wrap::before{left:0;background:linear-gradient(to right,var(--inkt),transparent)}
+  .ticker-wrap::after{right:0;background:linear-gradient(to left,var(--inkt),transparent)}
+  .ticker{
+    display:inline-block;
+    white-space:nowrap;
+    animation:ticker-scroll 60s linear infinite;
+    font-weight:700;
+    font-size:13px;
+  }
+  .ticker span{margin:0 30px}
+  @keyframes ticker-scroll{0%{transform:translateX(0)}100%{transform:translateX(-50%)}}
+
+  /* GLOBAL KNOPPEN */
+  .global-acties{
+    display:flex;
+    gap:8px;
+    margin-bottom:12px;
+    justify-content:center;
+  }
+  .mini-knop{
+    background:white;
+    border:2px solid var(--oranje);
+    color:var(--oranje-donker);
+    padding:6px 12px;
+    border-radius:18px;
+    font-size:11px;
+    font-weight:700;
+    cursor:pointer;
+  }
+  .mini-knop:hover{background:#fff5eb}
+
+  footer{
+    text-align:center;
+    padding:24px 16px;
+    color:#999;
+    font-size:11px;
+  }
+  footer .emoji-rij{font-size:24px;margin-bottom:8px}
+
+  @media(max-width:480px){
+    header h1{font-size:22px}
+    .kans-bar{flex:0 0 70px}
+    .mini-wedstrijd{grid-template-columns:55px 1fr 75px;font-size:11px}
+    .meter-mijlpalen{grid-template-columns:1fr;font-size:11px}
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>🧡🤒 ORANJE KOORTS 🤒🧡</h1>
+  <div class="ondertitel">Live nieuwsfeed richting WK 2026 🇳🇱🏆</div>
+  <div class="groepsnaam">🧡🤒 De Liefhebbers 🤒🧡🇳🇱🏆🎒</div>
+</header>
+
+<div class="container">
+
+  <!-- AFTELKLOK -->
+  <div class="aftel-blok">
+    <div class="label">⚽ Nog tot Nederland — Japan ⚽</div>
+    <div class="countdown" id="countdown">
+      <div class="unit"><div class="nummer" id="d-dagen">--</div><div class="eenheid">dagen</div></div>
+      <div class="unit"><div class="nummer" id="d-uren">--</div><div class="eenheid">uren</div></div>
+      <div class="unit"><div class="nummer" id="d-min">--</div><div class="eenheid">min</div></div>
+      <div class="unit"><div class="nummer" id="d-sec">--</div><div class="eenheid">sec</div></div>
+    </div>
+    <div style="font-size:11px;margin-top:10px;opacity:0.85">14 juni 2026 • 22:00 NL • AT&T Stadium, Dallas</div>
+  </div>
+
+  <!-- TICKER -->
+  <div class="ticker-wrap">
+    <div class="ticker">
+      <span>🏆 Oranje favoriet in Groep F 🇳🇱</span>
+      <span>📋 Selectie bekend op 27 mei om 14:45</span>
+      <span>⚽ 104 wedstrijden • 48 landen • 16 speelsteden</span>
+      <span>🥵 Tunesië-duel om 01:00 Nederlandse tijd</span>
+      <span>💉 Memphis en Timber nog niet hersteld</span>
+      <span>🏆 Oranje favoriet in Groep F 🇳🇱</span>
+      <span>📋 Selectie bekend op 27 mei om 14:45</span>
+      <span>⚽ 104 wedstrijden • 48 landen • 16 speelsteden</span>
+      <span>🥵 Tunesië-duel om 01:00 Nederlandse tijd</span>
+      <span>💉 Memphis en Timber nog niet hersteld</span>
+    </div>
+  </div>
+
+  <!-- ALLES IN/UITKLAPPEN -->
+  <div class="global-acties">
+    <button class="mini-knop" onclick="alleBlokken(true)">📂 Alles open</button>
+    <button class="mini-knop" onclick="alleBlokken(false)">📁 Alles dicht</button>
+  </div>
+
+  <!-- 1. KOORTSMETER -->
+  <div class="blok belangrijk open" id="blok-koorts">
+    <div class="blok-kop" onclick="toggleBlok('blok-koorts')">
+      <div class="blok-titel">
+        <span class="icon">🌡️</span>
+        <span>Nationale Koortsmeter</span>
+        <span class="blok-badge" id="koortsbadge">--°C</span>
+      </div>
+      <span class="chevron">⌃</span>
+    </div>
+    <div class="blok-inhoud">
+      <div class="blok-inhoud-inner koortsmeter-blok">
+        <div class="koorts-uitleg">
+          🏆 De schaal loopt tot <strong>88°C</strong> — het jaar van ons grootste succes ooit, het EK in <strong>1988</strong>.
+          Hoe dichter bij de aftrap, hoe hoger de koorts.
+        </div>
+
+        <div class="meter-container">
+          <div class="meter-bar"></div>
+          <div class="meter-marker" id="koorts-marker" data-temp="--°C" style="left:0%"></div>
+        </div>
+
+        <div class="meter-schaal">
+          <span>36°</span>
+          <span>45°</span>
+          <span>55°</span>
+          <span>65°</span>
+          <span>75°</span>
+          <span>88°🏆</span>
+        </div>
+
+        <div class="meter-mijlpalen">
+          <div class="mijlpaal"><strong>36–38°</strong> Normaal</div>
+          <div class="mijlpaal"><strong>38–42°</strong> Lichte koorts</div>
+          <div class="mijlpaal"><strong>42–55°</strong> Oranjekoorts</div>
+          <div class="mijlpaal"><strong>55–75°</strong> Liefhebbersniveau</div>
+          <div class="mijlpaal peak"><strong>88° 🏆</strong> EK 1988 / Wereldtitel-niveau</div>
+        </div>
+
+        <div class="diagnose-box">
+          <div class="diagnose-titel">📋 Huidige stand</div>
+          <div class="diagnose-tekst" id="koortsdiagnose">--</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 6. NIEUWS -->
+  <div class="blok open" id="blok-nieuws">
+    <div class="blok-kop" onclick="toggleBlok('blok-nieuws')">
+      <div class="blok-titel">
+        <span class="icon">📰</span>
+        <span>De Liefhebbers Feed</span>
+      </div>
+      <span class="chevron">⌃</span>
+    </div>
+    <div class="blok-inhoud">
+      <div class="blok-inhoud-inner">
+
+        <div style="margin-bottom:12px">
+          <div class="filter-titel">🔍 Filter het nieuws</div>
+          <div class="filter-knoppen">
+            <button class="filter-btn actief" data-filter="alles">🌍 Alles</button>
+            <button class="filter-btn" data-filter="oranje">🧡 Alleen Oranje</button>
+            <button class="filter-btn" data-filter="algemeen">⚽ Alleen WK-algemeen</button>
+            <button class="filter-btn" data-filter="hot">🔥 Hot</button>
+          </div>
+        </div>
+
+        <div id="nieuws-container">
+          <div id="nieuws-loading" style="text-align:center;padding:20px;color:#888;font-size:13px">
+            📡 Nieuws wordt geladen...
+          </div>
+          <div id="nieuws-error" style="display:none;text-align:center;padding:20px;color:#dc3545;font-size:13px">
+            ⚠️ Kon nieuws niet laden. <a href="javascript:laadNieuws()" style="color:var(--oranje-donker);font-weight:700">Opnieuw proberen</a>
+          </div>
+          <div id="nieuws-lijst"></div>
+        </div>
+        <div id="nieuws-update-info" style="text-align:center;font-size:10px;color:#aaa;margin-top:10px;font-style:italic"></div>
+
+      </div>
+    </div>
+  </div>
+
+  <!-- 2. DASHBOARD STATS -->
+  <div class="blok belangrijk open" id="blok-stats">
+    <div class="blok-kop" onclick="toggleBlok('blok-stats')">
+      <div class="blok-titel">
+        <span class="icon">📊</span>
+        <span>Liefhebbers Dashboard</span>
+      </div>
+      <span class="chevron">⌃</span>
+    </div>
+    <div class="blok-inhoud">
+      <div class="blok-inhoud-inner">
+        <div class="dashboard-grid">
+          <div class="stat-tegel">
+            <span class="emoji">📋</span>
+            <div class="waarde">26</div>
+            <div class="label">Spelers in selectie</div>
+          </div>
+          <div class="stat-tegel">
+            <span class="emoji">🎯</span>
+            <div class="waarde">3</div>
+            <div class="label">Groepswedstrijden</div>
+          </div>
+          <div class="stat-tegel">
+            <span class="emoji">🏟️</span>
+            <div class="waarde">3</div>
+            <div class="label">Speelsteden Oranje</div>
+          </div>
+          <div class="stat-tegel">
+            <span class="emoji">🚑</span>
+            <div class="waarde">3</div>
+            <div class="label">Geblesseerde uitvallers</div>
+          </div>
+          <div class="stat-tegel">
+            <span class="emoji">⚽</span>
+            <div class="waarde">104</div>
+            <div class="label">Totaal WK-wedstrijden</div>
+          </div>
+          <div class="stat-tegel">
+            <span class="emoji">🌍</span>
+            <div class="waarde">48</div>
+            <div class="label">Deelnemende landen</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 3. WAARSCHIJNLIJKE SELECTIE -->
+  <div class="blok belangrijk open" id="blok-selectie">
+    <div class="blok-kop" onclick="toggleBlok('blok-selectie')">
+      <div class="blok-titel">
+        <span class="icon">🔮</span>
+        <span>Waarschijnlijke WK-selectie</span>
+      </div>
+      <span class="chevron">⌃</span>
+    </div>
+    <div class="blok-inhoud">
+      <div class="blok-inhoud-inner">
+        <div class="selectie-sub">Op basis van actuele nieuwsbronnen, voorselectie van 55 en blessures (update 19 mei 2026 — selectie wordt 27 mei bekend)</div>
+
+        <div class="positie-kop">🧤 Keepers</div>
+        <div class="speler-rij"><span class="speler-status">✅</span><span class="speler-naam">Bart Verbruggen<span class="speler-positie">K</span></span><div class="kans-bar"><div class="kans-fill kans-hoog" style="width:99%"></div></div><span class="kans-percentage">99%</span></div>
+        <div class="speler-rij"><span class="speler-status">✅</span><span class="speler-naam">Mark Flekken<span class="speler-positie">K</span></span><div class="kans-bar"><div class="kans-fill kans-hoog" style="width:90%"></div></div><span class="kans-percentage">90%</span></div>
+        <div class="speler-rij"><span class="speler-status">✅</span><span class="speler-naam">Robin Roefs<span class="speler-positie">K</span></span><div class="kans-bar"><div class="kans-fill kans-hoog" style="width:82%"></div></div><span class="kans-percentage">82%</span></div>
+
+        <div class="positie-kop">🛡️ Verdedigers</div>
+        <div class="speler-rij"><span class="speler-status">✅</span><span class="speler-naam">Virgil van Dijk<span class="speler-positie">CV</span></span><div class="kans-bar"><div class="kans-fill kans-hoog" style="width:100%"></div></div><span class="kans-percentage">100%</span></div>
+        <div class="speler-rij"><span class="speler-status">✅</span><span class="speler-naam">Denzel Dumfries<span class="speler-positie">RV</span></span><div class="kans-bar"><div class="kans-fill kans-hoog" style="width:98%"></div></div><span class="kans-percentage">98%</span></div>
+        <div class="speler-rij"><span class="speler-status">✅</span><span class="speler-naam">Micky van de Ven<span class="speler-positie">CV</span></span><div class="kans-bar"><div class="kans-fill kans-hoog" style="width:96%"></div></div><span class="kans-percentage">96%</span></div>
+        <div class="speler-rij"><span class="speler-status">✅</span><span class="speler-naam">Nathan Aké<span class="speler-positie">CV</span></span><div class="kans-bar"><div class="kans-fill kans-hoog" style="width:92%"></div></div><span class="kans-percentage">92%</span></div>
+        <div class="speler-rij"><span class="speler-status">✅</span><span class="speler-naam">Jan Paul van Hecke<span class="speler-positie">CV</span></span><div class="kans-bar"><div class="kans-fill kans-hoog" style="width:88%"></div></div><span class="kans-percentage">88%</span></div>
+        <div class="speler-rij"><span class="speler-status">✅</span><span class="speler-naam">Stefan de Vrij<span class="speler-positie">CV</span></span><div class="kans-bar"><div class="kans-fill kans-hoog" style="width:82%"></div></div><span class="kans-percentage">82%</span></div>
+        <div class="speler-rij"><span class="speler-status">🤕</span><span class="speler-naam">Jurriën Timber<span class="speler-positie">CV</span></span><div class="kans-bar"><div class="kans-fill kans-midden" style="width:60%"></div></div><span class="kans-percentage">60%</span></div>
+        <div class="speler-rij"><span class="speler-status">✅</span><span class="speler-naam">Ian Maatsen<span class="speler-positie">LV</span></span><div class="kans-bar"><div class="kans-fill kans-hoog" style="width:72%"></div></div><span class="kans-percentage">72%</span></div>
+
+        <div class="positie-kop">⚙️ Middenvelders</div>
+        <div class="speler-rij"><span class="speler-status">✅</span><span class="speler-naam">Frenkie de Jong<span class="speler-positie">M</span></span><div class="kans-bar"><div class="kans-fill kans-hoog" style="width:99%"></div></div><span class="kans-percentage">99%</span></div>
+        <div class="speler-rij"><span class="speler-status">✅</span><span class="speler-naam">Tijjani Reijnders<span class="speler-positie">M</span></span><div class="kans-bar"><div class="kans-fill kans-hoog" style="width:99%"></div></div><span class="kans-percentage">99%</span></div>
+        <div class="speler-rij"><span class="speler-status">✅</span><span class="speler-naam">Ryan Gravenberch<span class="speler-positie">M</span></span><div class="kans-bar"><div class="kans-fill kans-hoog" style="width:99%"></div></div><span class="kans-percentage">99%</span></div>
+        <div class="speler-rij"><span class="speler-status">✅</span><span class="speler-naam">Quinten Timber<span class="speler-positie">M</span></span><div class="kans-bar"><div class="kans-fill kans-hoog" style="width:85%"></div></div><span class="kans-percentage">85%</span></div>
+        <div class="speler-rij"><span class="speler-status">✅</span><span class="speler-naam">Teun Koopmeiners<span class="speler-positie">M</span></span><div class="kans-bar"><div class="kans-fill kans-hoog" style="width:78%"></div></div><span class="kans-percentage">78%</span></div>
+        <div class="speler-rij"><span class="speler-status">✅</span><span class="speler-naam">Guus Til<span class="speler-positie">M</span></span><div class="kans-bar"><div class="kans-fill kans-midden" style="width:60%"></div></div><span class="kans-percentage">60%</span></div>
+
+        <div class="positie-kop">⚡ Aanvallers</div>
+        <div class="speler-rij"><span class="speler-status">✅</span><span class="speler-naam">Cody Gakpo<span class="speler-positie">A</span></span><div class="kans-bar"><div class="kans-fill kans-hoog" style="width:100%"></div></div><span class="kans-percentage">100%</span></div>
+        <div class="speler-rij"><span class="speler-status">✅</span><span class="speler-naam">Donyell Malen<span class="speler-positie">A/SP</span></span><div class="kans-bar"><div class="kans-fill kans-hoog" style="width:96%"></div></div><span class="kans-percentage">96%</span></div>
+        <div class="speler-rij"><span class="speler-status">✅</span><span class="speler-naam">Jeremie Frimpong<span class="speler-positie">A</span></span><div class="kans-bar"><div class="kans-fill kans-hoog" style="width:82%"></div></div><span class="kans-percentage">82%</span></div>
+        <div class="speler-rij"><span class="speler-status">🤕</span><span class="speler-naam">Memphis Depay<span class="speler-positie">SP</span></span><div class="kans-bar"><div class="kans-fill kans-midden" style="width:70%"></div></div><span class="kans-percentage">70%</span></div>
+        <div class="speler-rij"><span class="speler-status">✅</span><span class="speler-naam">Wout Weghorst<span class="speler-positie">SP</span></span><div class="kans-bar"><div class="kans-fill kans-hoog" style="width:75%"></div></div><span class="kans-percentage">75%</span></div>
+        <div class="speler-rij"><span class="speler-status">✅</span><span class="speler-naam">Brian Brobbey<span class="speler-positie">SP</span></span><div class="kans-bar"><div class="kans-fill kans-midden" style="width:58%"></div></div><span class="kans-percentage">58%</span></div>
+        <div class="speler-rij"><span class="speler-status">✅</span><span class="speler-naam">Noa Lang<span class="speler-positie">A</span></span><div class="kans-bar"><div class="kans-fill kans-midden" style="width:55%"></div></div><span class="kans-percentage">55%</span></div>
+        <div class="speler-rij"><span class="speler-status">🤕</span><span class="speler-naam">Justin Kluivert<span class="speler-positie">A</span></span><div class="kans-bar"><div class="kans-fill kans-midden" style="width:52%"></div></div><span class="kans-percentage">52%</span></div>
+        <div class="speler-rij"><span class="speler-status">🤕</span><span class="speler-naam">Crysencio Summerville<span class="speler-positie">A</span></span><div class="kans-bar"><div class="kans-fill kans-midden" style="width:50%"></div></div><span class="kans-percentage">50%</span></div>
+
+        <div class="positie-kop" style="color:#dc3545">🚑 Geblesseerd / niet in beeld</div>
+        <div class="speler-rij" style="opacity:0.6"><span class="speler-status">🏥</span><span class="speler-naam">Matthijs de Ligt<span class="speler-positie">geopereerd</span></span><div class="kans-bar"><div class="kans-fill kans-laag" style="width:0%"></div></div><span class="kans-percentage">0%</span></div>
+        <div class="speler-rij" style="opacity:0.6"><span class="speler-status">🏥</span><span class="speler-naam">Xavi Simons<span class="speler-positie">knie</span></span><div class="kans-bar"><div class="kans-fill kans-laag" style="width:0%"></div></div><span class="kans-percentage">0%</span></div>
+        <div class="speler-rij" style="opacity:0.6"><span class="speler-status">🏥</span><span class="speler-naam">Jerdy Schouten<span class="speler-positie">kruisband</span></span><div class="kans-bar"><div class="kans-fill kans-laag" style="width:0%"></div></div><span class="kans-percentage">0%</span></div>
+        <div class="speler-rij" style="opacity:0.6"><span class="speler-status">🚫</span><span class="speler-naam">Georginio Wijnaldum<span class="speler-positie">door Koeman bevestigd</span></span><div class="kans-bar"><div class="kans-fill kans-laag" style="width:0%"></div></div><span class="kans-percentage">0%</span></div>
+
+        <div class="selectie-update">🔄 Laatst bijgewerkt: <span id="laatste-update"></span></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 4. PROGRAMMA ORANJE -->
+  <div class="blok open" id="blok-oranje-programma">
+    <div class="blok-kop" onclick="toggleBlok('blok-oranje-programma')">
+      <div class="blok-titel">
+        <span class="icon">🇳🇱</span>
+        <span>Programma Oranje — Groep F</span>
+      </div>
+      <span class="chevron">⌃</span>
+    </div>
+    <div class="blok-inhoud">
+      <div class="blok-inhoud-inner">
+        <div class="wedstrijd">
+          <div class="datum">3 JUN<br><span style="font-size:9px;color:#999">21:00</span></div>
+          <div class="teams">🇳🇱 Nederland – Algerije 🇩🇿 <span style="color:#888;font-size:10px">(oefen)</span></div>
+          <div class="tijd">De Kuip<br>Rotterdam</div>
+        </div>
+        <div class="wedstrijd">
+          <div class="datum">8 JUN<br><span style="font-size:9px;color:#999">20:45</span></div>
+          <div class="teams">🇳🇱 Nederland – Oezbekistan 🇺🇿 <span style="color:#888;font-size:10px">(oefen)</span></div>
+          <div class="tijd">New York</div>
+        </div>
+        <div class="wedstrijd oranje-match">
+          <div class="datum">14 JUN<br><span style="font-size:9px;color:#999">22:00</span></div>
+          <div class="teams">🇳🇱 Nederland – Japan 🇯🇵 <span style="color:var(--rood);font-size:10px;font-weight:900">START!</span></div>
+          <div class="tijd">AT&T Stadium<br>Dallas</div>
+        </div>
+        <div class="wedstrijd oranje-match">
+          <div class="datum">20 JUN<br><span style="font-size:9px;color:#999">19:00</span></div>
+          <div class="teams">🇳🇱 Nederland – Zweden 🇸🇪</div>
+          <div class="tijd">NRG Stadium<br>Houston</div>
+        </div>
+        <div class="wedstrijd oranje-match">
+          <div class="datum">26 JUN<br><span style="font-size:9px;color:#999">01:00 🌙</span></div>
+          <div class="teams">🇹🇳 Tunesië – Nederland 🇳🇱 <span style="color:#666;font-size:10px">⚠️ nacht</span></div>
+          <div class="tijd">Arrowhead<br>Kansas City</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 5. VOLLEDIG WK-SPEELSCHEMA -->
+  <div class="blok" id="blok-volledig">
+    <div class="blok-kop" onclick="toggleBlok('blok-volledig')">
+      <div class="blok-titel">
+        <span class="icon">🌍</span>
+        <span>Volledig WK-speelschema</span>
+        <span class="blok-badge">104</span>
+      </div>
+      <span class="chevron">⌃</span>
+    </div>
+    <div class="blok-inhoud">
+      <div class="blok-inhoud-inner">
+
+        <div class="groepen-overzicht">
+          <div style="font-size:12px;font-weight:900;color:var(--oranje-donker);margin-bottom:6px">📋 Alle 12 groepen</div>
+          <div class="groep-rij"><span class="groep-letter">A</span><span class="groep-teams">Mexico • Tsjechië • Zuid-Afrika • Zuid-Korea</span></div>
+          <div class="groep-rij"><span class="groep-letter">B</span><span class="groep-teams">Bosnië • Canada • Qatar • Zwitserland</span></div>
+          <div class="groep-rij"><span class="groep-letter">C</span><span class="groep-teams">Brazilië • Haïti • Marokko • Schotland</span></div>
+          <div class="groep-rij"><span class="groep-letter">D</span><span class="groep-teams">Australië • Paraguay • Turkije • VS</span></div>
+          <div class="groep-rij"><span class="groep-letter">E</span><span class="groep-teams">Curaçao • Duitsland • Ecuador • Ivoorkust</span></div>
+          <div class="groep-rij eigen"><span class="groep-letter">F 🧡</span><span class="groep-teams">NEDERLAND • Japan • Zweden • Tunesië</span></div>
+          <div class="groep-rij"><span class="groep-letter">G</span><span class="groep-teams">Argentinië • Ierland • Iran • Nieuw-Zeeland</span></div>
+          <div class="groep-rij"><span class="groep-letter">H</span><span class="groep-teams">België • Egypte • Noorwegen • Senegal</span></div>
+          <div class="groep-rij"><span class="groep-letter">I</span><span class="groep-teams">Colombia • Denemarken • Ghana • Uruguay</span></div>
+          <div class="groep-rij"><span class="groep-letter">J</span><span class="groep-teams">Costa Rica • Frankrijk • Saoedi-Arabië • Wales</span></div>
+          <div class="groep-rij"><span class="groep-letter">K</span><span class="groep-teams">Cap Verde • Spanje • Italië • Nigeria</span></div>
+          <div class="groep-rij"><span class="groep-letter">L</span><span class="groep-teams">Algerije • Congo • Kroatië • Portugal</span></div>
+        </div>
+
+        <div class="groep-filter">
+          <button class="groep-btn actief" data-fase="groep">Groepsfase</button>
+          <button class="groep-btn" data-fase="ko1">1/16</button>
+          <button class="groep-btn" data-fase="ko2">1/8</button>
+          <button class="groep-btn" data-fase="ko3">¼F</button>
+          <button class="groep-btn" data-fase="ko4">½F</button>
+          <button class="groep-btn" data-fase="ko5">Finale</button>
+        </div>
+
+        <!-- GROEPSFASE -->
+        <div class="fase-blok" data-fase-id="groep">
+
+          <div class="speeldag-kop">📅 Donderdag 11 juni — Openingsdag</div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">21:00</span><span>🇲🇽 Mexico – Zuid-Afrika 🇿🇦</span><span class="mini-stad">Mexico-Stad</span></div>
+
+          <div class="speeldag-kop">📅 Vrijdag 12 juni</div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">19:00</span><span>🇪🇸 Spanje – Nigeria 🇳🇬</span><span class="mini-stad">Toronto</span></div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">22:00</span><span>🇲🇦 Marokko – Schotland 🏴</span><span class="mini-stad">Atlanta</span></div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">01:00</span><span>🇧🇷 Brazilië – Haïti 🇭🇹</span><span class="mini-stad">Los Angeles</span></div>
+
+          <div class="speeldag-kop">📅 Zaterdag 13 juni</div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">18:00</span><span>🇨🇿 Tsjechië – Zuid-Korea 🇰🇷</span><span class="mini-stad">Vancouver</span></div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">22:00</span><span>🇨🇦 Canada – Qatar 🇶🇦</span><span class="mini-stad">Toronto</span></div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">01:00</span><span>🇧🇦 Bosnië – Zwitserland 🇨🇭</span><span class="mini-stad">Philadelphia</span></div>
+
+          <div class="speeldag-kop">📅 Zondag 14 juni — 🧡 ORANJE START</div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">19:00</span><span>🇩🇪 Duitsland – Ecuador 🇪🇨</span><span class="mini-stad">Boston</span></div>
+          <div class="mini-wedstrijd oranje"><span class="mini-tijd">22:00</span><span>🇳🇱 Nederland – Japan 🇯🇵</span><span class="mini-stad">Dallas</span></div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">01:00</span><span>🇨🇮 Ivoorkust – Curaçao 🇨🇼</span><span class="mini-stad">Atlanta</span></div>
+
+          <div class="speeldag-kop">📅 Maandag 15 juni</div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">19:00</span><span>🇸🇪 Zweden – Tunesië 🇹🇳</span><span class="mini-stad">Houston</span></div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">22:00</span><span>🇦🇺 Australië – Paraguay 🇵🇾</span><span class="mini-stad">Seattle</span></div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">01:00</span><span>🇺🇸 VS – Turkije 🇹🇷</span><span class="mini-stad">Los Angeles</span></div>
+
+          <div class="speeldag-kop">📅 Dinsdag 16 juni</div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">18:00</span><span>🇮🇪 Ierland – Iran 🇮🇷</span><span class="mini-stad">Kansas City</span></div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">21:00</span><span>🇦🇷 Argentinië – Nieuw-Zeeland 🇳🇿</span><span class="mini-stad">Miami</span></div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">00:00</span><span>🇪🇬 Egypte – Senegal 🇸🇳</span><span class="mini-stad">Philadelphia</span></div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">03:00</span><span>🇧🇪 België – Noorwegen 🇳🇴</span><span class="mini-stad">San Francisco</span></div>
+
+          <div class="speeldag-kop">📅 Woensdag 17 juni</div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">19:00</span><span>🇩🇰 Denemarken – Ghana 🇬🇭</span><span class="mini-stad">Boston</span></div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">22:00</span><span>🇨🇴 Colombia – Uruguay 🇺🇾</span><span class="mini-stad">New York</span></div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">01:00</span><span>🇫🇷 Frankrijk – Saoedi-Arabië 🇸🇦</span><span class="mini-stad">Dallas</span></div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">04:00</span><span>🇨🇷 Costa Rica – Wales 🏴</span><span class="mini-stad">San Francisco</span></div>
+
+          <div class="speeldag-kop">📅 Donderdag 18 juni</div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">19:00</span><span>🇮🇹 Italië – Cap Verde 🇨🇻</span><span class="mini-stad">New York</span></div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">22:00</span><span>🇵🇹 Portugal – Algerije 🇩🇿</span><span class="mini-stad">Toronto</span></div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">01:00</span><span>🇭🇷 Kroatië – Congo 🇨🇩</span><span class="mini-stad">Atlanta</span></div>
+
+          <div class="speeldag-kop">📅 Vrijdag 19 juni</div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">19:00</span><span>🇿🇦 Zuid-Afrika – Tsjechië 🇨🇿</span><span class="mini-stad">Los Angeles</span></div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">22:00</span><span>🇲🇽 Mexico – Zuid-Korea 🇰🇷</span><span class="mini-stad">Guadalajara</span></div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">01:00</span><span>🇲🇦 Marokko – Brazilië 🇧🇷</span><span class="mini-stad">Atlanta</span></div>
+
+          <div class="speeldag-kop">📅 Zaterdag 20 juni — 🧡 ORANJE 2e WEDSTRIJD</div>
+          <div class="mini-wedstrijd oranje"><span class="mini-tijd">19:00</span><span>🇳🇱 Nederland – Zweden 🇸🇪</span><span class="mini-stad">Houston</span></div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">22:00</span><span>🇶🇦 Qatar – Zwitserland 🇨🇭</span><span class="mini-stad">Toronto</span></div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">01:00</span><span>🇨🇦 Canada – Bosnië 🇧🇦</span><span class="mini-stad">Vancouver</span></div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">04:00</span><span>🇭🇹 Haïti – Schotland 🏴</span><span class="mini-stad">Seattle</span></div>
+
+          <div class="speeldag-kop">📅 Zondag 21 juni</div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">19:00</span><span>🇯🇵 Japan – Tunesië 🇹🇳</span><span class="mini-stad">Kansas City</span></div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">22:00</span><span>🇪🇨 Ecuador – Ivoorkust 🇨🇮</span><span class="mini-stad">Boston</span></div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">01:00</span><span>🇩🇪 Duitsland – Curaçao 🇨🇼</span><span class="mini-stad">Atlanta</span></div>
+
+          <div class="speeldag-kop">📅 Maandag 22 juni</div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">19:00</span><span>🇺🇸 VS – Paraguay 🇵🇾</span><span class="mini-stad">Los Angeles</span></div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">22:00</span><span>🇮🇷 Iran – Nieuw-Zeeland 🇳🇿</span><span class="mini-stad">Philadelphia</span></div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">01:00</span><span>🇦🇺 Australië – Turkije 🇹🇷</span><span class="mini-stad">Dallas</span></div>
+
+          <div class="speeldag-kop">📅 Dinsdag 23 juni</div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">18:00</span><span>🇸🇳 Senegal – Argentinië 🇦🇷</span><span class="mini-stad">Miami</span></div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">21:00</span><span>🇮🇪 Ierland – België 🇧🇪</span><span class="mini-stad">New York</span></div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">00:00</span><span>🇳🇴 Noorwegen – Egypte 🇪🇬</span><span class="mini-stad">Boston</span></div>
+
+          <div class="speeldag-kop">📅 Woensdag 24 juni</div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">19:00</span><span>🇩🇰 Denemarken – Colombia 🇨🇴</span><span class="mini-stad">Houston</span></div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">22:00</span><span>🇫🇷 Frankrijk – Wales 🏴</span><span class="mini-stad">San Francisco</span></div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">01:00</span><span>🇨🇷 Costa Rica – Saoedi-Arabië 🇸🇦</span><span class="mini-stad">Kansas City</span></div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">04:00</span><span>🇬🇭 Ghana – Uruguay 🇺🇾</span><span class="mini-stad">Seattle</span></div>
+
+          <div class="speeldag-kop">📅 Donderdag 25 juni</div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">19:00</span><span>🇮🇹 Italië – Nigeria 🇳🇬</span><span class="mini-stad">Atlanta</span></div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">22:00</span><span>🇪🇸 Spanje – Cap Verde 🇨🇻</span><span class="mini-stad">Miami</span></div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">01:00</span><span>🇨🇩 Congo – Algerije 🇩🇿</span><span class="mini-stad">Toronto</span></div>
+
+          <div class="speeldag-kop">📅 Vrijdag 26 juni — 🧡 ORANJE LAATSTE GROEP</div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">19:00</span><span>🇰🇷 Zuid-Korea – Zuid-Afrika 🇿🇦</span><span class="mini-stad">Boston</span></div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">19:00</span><span>🇨🇿 Tsjechië – Mexico 🇲🇽</span><span class="mini-stad">Mexico-Stad</span></div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">01:00</span><span>🇸🇪 Zweden – Japan 🇯🇵</span><span class="mini-stad">Atlanta</span></div>
+          <div class="mini-wedstrijd oranje"><span class="mini-tijd">01:00</span><span>🇹🇳 Tunesië – Nederland 🇳🇱 🌙</span><span class="mini-stad">Kansas City</span></div>
+
+          <div class="speeldag-kop">📅 Zaterdag 27 juni — Laatste groepsdag</div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">19:00</span><span>🇶🇦 Qatar – Bosnië 🇧🇦</span><span class="mini-stad">Philadelphia</span></div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">19:00</span><span>🇨🇭 Zwitserland – Canada 🇨🇦</span><span class="mini-stad">Vancouver</span></div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">01:00</span><span>🏴 Schotland – Brazilië 🇧🇷</span><span class="mini-stad">Los Angeles</span></div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">01:00</span><span>🇭🇹 Haïti – Marokko 🇲🇦</span><span class="mini-stad">Atlanta</span></div>
+
+          <div style="background:#fff5eb;padding:10px;border-radius:8px;margin-top:12px;font-size:11px;color:#666;text-align:center;font-style:italic">
+            ⚠️ Een selectie van de wedstrijden per dag is hier opgenomen. Volledig overzicht via NOS/FIFA. Tijden in NL-tijd.
+          </div>
+
+        </div>
+
+        <!-- 1/16 FINALES -->
+        <div class="fase-blok" data-fase-id="ko1" style="display:none">
+          <div class="speeldag-kop">🎯 Zondag 28 juni</div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">21:00</span><span>2A – 2B</span><span class="mini-stad">Los Angeles</span></div>
+          <div class="speeldag-kop">🎯 Maandag 29 juni</div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">19:00</span><span>1C – 2F 🧡</span><span class="mini-stad">Houston</span></div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">22:30</span><span>1E – 3 (A/B/C/D/F)</span><span class="mini-stad">Boston</span></div>
+          <div class="speeldag-kop">🎯 Dinsdag 30 juni</div>
+          <div class="mini-wedstrijd oranje"><span class="mini-tijd">03:00</span><span>1F 🧡 – 2C</span><span class="mini-stad">Monterrey 🇲🇽</span></div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">19:00</span><span>2E – 2I</span><span class="mini-stad">Dallas</span></div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">23:00</span><span>1I – 3 (C/D/F/G/H)</span><span class="mini-stad">New York</span></div>
+          <div class="speeldag-kop">🎯 Woensdag 1 juli</div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">03:00</span><span>1A – 3 (C/E/F/H/I)</span><span class="mini-stad">Mexico-Stad</span></div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">18:00</span><span>1L – 3 (E/H/I/J/K)</span><span class="mini-stad">Atlanta</span></div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">22:00</span><span>1G – 3 (A/E/H/I/J)</span><span class="mini-stad">Seattle</span></div>
+          <div class="speeldag-kop">🎯 Donderdag 2 juli</div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">02:00</span><span>1D – 3 (B/E/F/I/J)</span><span class="mini-stad">San Francisco</span></div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">21:00</span><span>1H – 2J</span><span class="mini-stad">Los Angeles</span></div>
+          <div class="speeldag-kop">🎯 Vrijdag 3 juli</div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">01:00</span><span>2K – 2L</span><span class="mini-stad">Toronto</span></div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">05:00</span><span>1B – 3 (E/F/G/I/J)</span><span class="mini-stad">Vancouver</span></div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">20:00</span><span>2D – 2G</span><span class="mini-stad">Dallas</span></div>
+          <div class="speeldag-kop">🎯 Zaterdag 4 juli</div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">00:00</span><span>1J – 2H</span><span class="mini-stad">Miami</span></div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">03:30</span><span>1K – 3 (D/E/I/J/L)</span><span class="mini-stad">Kansas City</span></div>
+        </div>
+
+        <!-- 1/8 FINALES -->
+        <div class="fase-blok" data-fase-id="ko2" style="display:none">
+          <div class="speeldag-kop">🎯 Zaterdag 4 juli</div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">19:00</span><span>Winnaar match 73 – Winnaar 75</span><span class="mini-stad">Houston</span></div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">23:00</span><span>Winnaar 74 – Winnaar 77</span><span class="mini-stad">Philadelphia</span></div>
+          <div class="speeldag-kop">🎯 Zondag 5 juli</div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">22:00</span><span>Winnaar 76 – Winnaar 78</span><span class="mini-stad">New York</span></div>
+          <div class="speeldag-kop">🎯 Maandag 6 juli</div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">02:00</span><span>Winnaar 79 – Winnaar 80</span><span class="mini-stad">Mexico-Stad</span></div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">21:00</span><span>Winnaar 83 – Winnaar 84</span><span class="mini-stad">Dallas</span></div>
+          <div class="speeldag-kop">🎯 Dinsdag 7 juli</div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">02:00</span><span>Winnaar 81 – Winnaar 82</span><span class="mini-stad">Seattle</span></div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">18:00</span><span>Winnaar 86 – Winnaar 88</span><span class="mini-stad">Atlanta</span></div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">22:00</span><span>Winnaar 85 – Winnaar 87</span><span class="mini-stad">Vancouver</span></div>
+        </div>
+
+        <!-- KWARTFINALES -->
+        <div class="fase-blok" data-fase-id="ko3" style="display:none">
+          <div class="speeldag-kop">🏆 Donderdag 9 juli</div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">22:00</span><span>Winnaar 89 – Winnaar 90</span><span class="mini-stad">Boston</span></div>
+          <div class="speeldag-kop">🏆 Vrijdag 10 juli</div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">21:00</span><span>Winnaar 93 – Winnaar 94</span><span class="mini-stad">Los Angeles</span></div>
+          <div class="speeldag-kop">🏆 Zaterdag 11 juli</div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">23:00</span><span>Winnaar 91 – Winnaar 92</span><span class="mini-stad">Miami</span></div>
+          <div class="speeldag-kop">🏆 Zondag 12 juli</div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">03:00</span><span>Winnaar 95 – Winnaar 96</span><span class="mini-stad">Kansas City</span></div>
+        </div>
+
+        <!-- HALVE FINALES -->
+        <div class="fase-blok" data-fase-id="ko4" style="display:none">
+          <div class="speeldag-kop">🏆 Dinsdag 14 juli</div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">21:00</span><span>Winnaar KF1 – Winnaar KF2</span><span class="mini-stad">Dallas</span></div>
+          <div class="speeldag-kop">🏆 Woensdag 15 juli</div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">21:00</span><span>Winnaar KF3 – Winnaar KF4</span><span class="mini-stad">Atlanta</span></div>
+        </div>
+
+        <!-- FINALE -->
+        <div class="fase-blok" data-fase-id="ko5" style="display:none">
+          <div class="speeldag-kop">🥉 Zaterdag 18 juli — Troostfinale</div>
+          <div class="mini-wedstrijd"><span class="mini-tijd">23:00</span><span>Verliezer HF1 – Verliezer HF2</span><span class="mini-stad">Miami</span></div>
+          <div class="speeldag-kop" style="background:linear-gradient(135deg,#ffd700,#ffa500);color:var(--inkt)">🏆 ZONDAG 19 JULI — DE FINALE</div>
+          <div class="mini-wedstrijd oranje" style="background:linear-gradient(135deg,#fff8dc,#fffacd);border-left-color:#ffd700"><span class="mini-tijd">21:00</span><span style="font-weight:900">Winnaar HF1 – Winnaar HF2 🇳🇱🏆?</span><span class="mini-stad">MetLife<br>New York</span></div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+  <!-- 0. WERELDKLOKKEN -->
+  <div class="blok" id="blok-klokken">
+    <div class="blok-kop" onclick="toggleBlok('blok-klokken')">
+      <div class="blok-titel">
+        <span class="icon">🕐</span>
+        <span>Wereldklokken Speelsteden</span>
+      </div>
+      <span class="chevron">⌃</span>
+    </div>
+    <div class="blok-inhoud">
+      <div class="blok-inhoud-inner">
+        <div style="font-size:11px;color:#888;margin-bottom:10px;font-style:italic">Live tijden in Nederland en alle WK-speelsteden</div>
+        <div class="klokken-grid">
+          <div class="klok-tegel hoofdklok">
+            <div class="klok-vlag">🇳🇱</div>
+            <div class="klok-stad">Nederland</div>
+            <div class="klok-tijd" data-tz="Europe/Amsterdam">--:--</div>
+            <div class="klok-datum" data-tz-datum="Europe/Amsterdam">--</div>
+          </div>
+          <div class="klok-tegel">
+            <div class="klok-vlag">🇺🇸</div>
+            <div class="klok-stad">Dallas <span style="font-size:9px;color:#888">🧡 NL–JAP</span></div>
+            <div class="klok-tijd" data-tz="America/Chicago">--:--</div>
+            <div class="klok-datum" data-tz-datum="America/Chicago">--</div>
+          </div>
+          <div class="klok-tegel">
+            <div class="klok-vlag">🇺🇸</div>
+            <div class="klok-stad">Houston <span style="font-size:9px;color:#888">🧡 NL–ZWE</span></div>
+            <div class="klok-tijd" data-tz="America/Chicago">--:--</div>
+            <div class="klok-datum" data-tz-datum="America/Chicago">--</div>
+          </div>
+          <div class="klok-tegel">
+            <div class="klok-vlag">🇺🇸</div>
+            <div class="klok-stad">Kansas City <span style="font-size:9px;color:#888">🧡 TUN–NL</span></div>
+            <div class="klok-tijd" data-tz="America/Chicago">--:--</div>
+            <div class="klok-datum" data-tz-datum="America/Chicago">--</div>
+          </div>
+          <div class="klok-tegel">
+            <div class="klok-vlag">🇺🇸</div>
+            <div class="klok-stad">New York</div>
+            <div class="klok-tijd" data-tz="America/New_York">--:--</div>
+            <div class="klok-datum" data-tz-datum="America/New_York">--</div>
+          </div>
+          <div class="klok-tegel">
+            <div class="klok-vlag">🇺🇸</div>
+            <div class="klok-stad">Boston</div>
+            <div class="klok-tijd" data-tz="America/New_York">--:--</div>
+            <div class="klok-datum" data-tz-datum="America/New_York">--</div>
+          </div>
+          <div class="klok-tegel">
+            <div class="klok-vlag">🇺🇸</div>
+            <div class="klok-stad">Philadelphia</div>
+            <div class="klok-tijd" data-tz="America/New_York">--:--</div>
+            <div class="klok-datum" data-tz-datum="America/New_York">--</div>
+          </div>
+          <div class="klok-tegel">
+            <div class="klok-vlag">🇺🇸</div>
+            <div class="klok-stad">Miami</div>
+            <div class="klok-tijd" data-tz="America/New_York">--:--</div>
+            <div class="klok-datum" data-tz-datum="America/New_York">--</div>
+          </div>
+          <div class="klok-tegel">
+            <div class="klok-vlag">🇺🇸</div>
+            <div class="klok-stad">Atlanta</div>
+            <div class="klok-tijd" data-tz="America/New_York">--:--</div>
+            <div class="klok-datum" data-tz-datum="America/New_York">--</div>
+          </div>
+          <div class="klok-tegel">
+            <div class="klok-vlag">🇺🇸</div>
+            <div class="klok-stad">Seattle</div>
+            <div class="klok-tijd" data-tz="America/Los_Angeles">--:--</div>
+            <div class="klok-datum" data-tz-datum="America/Los_Angeles">--</div>
+          </div>
+          <div class="klok-tegel">
+            <div class="klok-vlag">🇺🇸</div>
+            <div class="klok-stad">San Francisco</div>
+            <div class="klok-tijd" data-tz="America/Los_Angeles">--:--</div>
+            <div class="klok-datum" data-tz-datum="America/Los_Angeles">--</div>
+          </div>
+          <div class="klok-tegel">
+            <div class="klok-vlag">🇺🇸</div>
+            <div class="klok-stad">Los Angeles</div>
+            <div class="klok-tijd" data-tz="America/Los_Angeles">--:--</div>
+            <div class="klok-datum" data-tz-datum="America/Los_Angeles">--</div>
+          </div>
+          <div class="klok-tegel">
+            <div class="klok-vlag">🇨🇦</div>
+            <div class="klok-stad">Toronto</div>
+            <div class="klok-tijd" data-tz="America/Toronto">--:--</div>
+            <div class="klok-datum" data-tz-datum="America/Toronto">--</div>
+          </div>
+          <div class="klok-tegel">
+            <div class="klok-vlag">🇨🇦</div>
+            <div class="klok-stad">Vancouver</div>
+            <div class="klok-tijd" data-tz="America/Vancouver">--:--</div>
+            <div class="klok-datum" data-tz-datum="America/Vancouver">--</div>
+          </div>
+          <div class="klok-tegel">
+            <div class="klok-vlag">🇲🇽</div>
+            <div class="klok-stad">Mexico-Stad</div>
+            <div class="klok-tijd" data-tz="America/Mexico_City">--:--</div>
+            <div class="klok-datum" data-tz-datum="America/Mexico_City">--</div>
+          </div>
+          <div class="klok-tegel">
+            <div class="klok-vlag">🇲🇽</div>
+            <div class="klok-stad">Guadalajara</div>
+            <div class="klok-tijd" data-tz="America/Mexico_City">--:--</div>
+            <div class="klok-datum" data-tz-datum="America/Mexico_City">--</div>
+          </div>
+          <div class="klok-tegel">
+            <div class="klok-vlag">🇲🇽</div>
+            <div class="klok-stad">Monterrey</div>
+            <div class="klok-tijd" data-tz="America/Monterrey">--:--</div>
+            <div class="klok-datum" data-tz-datum="America/Monterrey">--</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 7. WIST-JE-DATJES -->
+  <div class="blok" id="blok-trivia">
+    <div class="blok-kop" onclick="toggleBlok('blok-trivia')">
+      <div class="blok-titel">
+        <span class="icon">🤓</span>
+        <span>Wist-je-datjes</span>
+      </div>
+      <span class="chevron">⌃</span>
+    </div>
+    <div class="blok-inhoud">
+      <div class="blok-inhoud-inner" style="text-align:center">
+        <div class="quote-blok" id="wistjedatje">Druk op de knop voor een feitje</div>
+        <button class="knop-ludiek" onclick="nieuwWistjedatje()">🔄 NIEUW FEITJE</button>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<footer>
+  <div class="emoji-rij">🧡🤒🥵🥶🚑🏥🇳🇱🏆⚽</div>
+  <div>Gemaakt voor 🧡🤒De Liefhebbers🤒🧡🇳🇱🏆🎒</div>
+  <div style="margin-top:6px">Alle wedstrijden. Alle koorts. Eén droom: <strong>WERELDKAMPIOEN</strong> 🏆</div>
+  <div style="margin-top:10px;font-size:10px">Selectie-voorspelling is een schatting op basis van publieke nieuwsbronnen (mei 2026)</div>
+</footer>
+
+<script>
+  // === INKLAPBARE BLOKKEN ===
+  function toggleBlok(id){
+    const el = document.getElementById(id);
+    if(el) el.classList.toggle('open');
+  }
+  function alleBlokken(open){
+    document.querySelectorAll('.blok').forEach(b => {
+      if(open) b.classList.add('open');
+      else b.classList.remove('open');
+    });
+  }
+
+  // === NIEUWS LADEN UIT JSON ===
+  async function laadNieuws(){
+    const loading = document.getElementById('nieuws-loading');
+    const error = document.getElementById('nieuws-error');
+    const lijst = document.getElementById('nieuws-lijst');
+    const updateInfo = document.getElementById('nieuws-update-info');
+
+    loading.style.display = 'block';
+    error.style.display = 'none';
+    lijst.innerHTML = '';
+
+    try {
+      // Cache-busting query param zodat we altijd verse data krijgen
+      const response = await fetch('data/nieuws.json?t=' + Date.now());
+      if(!response.ok) throw new Error('HTTP ' + response.status);
+      const data = await response.json();
+
+      loading.style.display = 'none';
+
+      if(!data.items || data.items.length === 0){
+        lijst.innerHTML = '<div style="text-align:center;padding:20px;color:#888;font-size:13px">📭 Geen nieuws beschikbaar</div>';
+        return;
+      }
+
+      // Render items
+      lijst.innerHTML = data.items.map(item => renderNieuwsItem(item)).join('');
+
+      // Update-info
+      if(data.laatste_update){
+        const updateDatum = new Date(data.laatste_update);
+        updateInfo.textContent = '🔄 Laatste update: ' + updateDatum.toLocaleString('nl-NL', {
+          day:'2-digit', month:'long', hour:'2-digit', minute:'2-digit'
+        });
+      }
+
+      // Filters opnieuw aansluiten (items zijn nieuw)
+      pasFiltersToe();
+
+    } catch(err) {
+      console.error('Fout bij laden nieuws:', err);
+      loading.style.display = 'none';
+      error.style.display = 'block';
+    }
+  }
+
+  function renderNieuwsItem(item){
+    const klassen = ['nieuws-item', item.categorie];
+    if(item.hot) klassen.push('hot');
+
+    const categorieAttr = item.categorie + (item.hot ? ' hot' : '');
+
+    const badges = [];
+    if(item.categorie === 'oranje'){
+      badges.push('<span class="badge badge-oranje">🧡 ORANJE</span>');
+    } else {
+      badges.push('<span class="badge badge-algemeen">⚽ WK ALGEMEEN</span>');
+    }
+    if(item.hot) badges.push('<span class="badge badge-hot">🔥 HOT</span>');
+
+    // Datum leesbaar maken
+    let datumLeesbaar = '';
+    if(item.datum){
+      const dt = new Date(item.datum);
+      const nu = new Date();
+      const diffUren = (nu - dt) / (1000 * 60 * 60);
+      if(diffUren < 24) datumLeesbaar = 'vandaag';
+      else if(diffUren < 48) datumLeesbaar = 'gisteren';
+      else if(diffUren < 168) datumLeesbaar = Math.floor(diffUren / 24) + ' dagen geleden';
+      else datumLeesbaar = dt.toLocaleDateString('nl-NL', {day:'2-digit', month:'short'});
+    }
+
+    const titelHtml = item.link
+      ? `<a href="${escapeHtml(item.link)}" target="_blank" rel="noopener" style="color:inherit;text-decoration:none">${escapeHtml(item.titel)}</a>`
+      : escapeHtml(item.titel);
+
+    return `
+      <div class="${klassen.join(' ')}" data-categorie="${categorieAttr}">
+        <div class="nieuws-meta">
+          ${badges.join('')}
+          <span class="nieuws-bron">${escapeHtml(item.bron)}</span>
+          <span class="nieuws-datum">${datumLeesbaar}</span>
+        </div>
+        <div class="nieuws-kop">${titelHtml}</div>
+        <div class="nieuws-samenvatting">${escapeHtml(item.samenvatting)}</div>
+      </div>
+    `;
+  }
+
+  function escapeHtml(str){
+    if(!str) return '';
+    return String(str)
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;')
+      .replace(/'/g, '&#039;');
+  }
+
+  function pasFiltersToe(){
+    const actieveBtn = document.querySelector('.filter-btn.actief');
+    const filter = actieveBtn ? actieveBtn.dataset.filter : 'alles';
+    document.querySelectorAll('.nieuws-item').forEach(item => {
+      const cat = item.dataset.categorie || '';
+      if(filter === 'alles' || cat.includes(filter)) item.style.display = '';
+      else item.style.display = 'none';
+    });
+  }
+
+  // Laad nieuws bij start
+  laadNieuws();
+
+  // === WERELDKLOKKEN ===
+  function updateKlokken(){
+    const nu = new Date();
+    document.querySelectorAll('[data-tz]').forEach(el => {
+      const tz = el.dataset.tz;
+      try {
+        el.textContent = nu.toLocaleTimeString('nl-NL', {
+          timeZone: tz,
+          hour: '2-digit',
+          minute: '2-digit',
+          hour12: false
+        });
+      } catch(e){ el.textContent = '--:--' }
+    });
+    document.querySelectorAll('[data-tz-datum]').forEach(el => {
+      const tz = el.dataset.tzDatum;
+      try {
+        el.textContent = nu.toLocaleDateString('nl-NL', {
+          timeZone: tz,
+          weekday: 'short',
+          day: 'numeric',
+          month: 'short'
+        });
+      } catch(e){ el.textContent = '--' }
+    });
+  }
+  updateKlokken();
+  setInterval(updateKlokken, 1000);
+
+  // === AFTELLEN naar Nederland-Japan ===
+  const wedstrijd = new Date('2026-06-14T22:00:00+02:00');
+  function updateCountdown(){
+    const nu = new Date();
+    const verschil = wedstrijd - nu;
+    if(verschil <= 0){
+      document.getElementById('countdown').innerHTML = '<div style="font-size:22px;font-weight:900;padding:10px">⚽ HET IS ZOVER! KOM OP ORANJE! 🇳🇱</div>';
+      return;
+    }
+    const dagen = Math.floor(verschil / (1000*60*60*24));
+    const uren = Math.floor((verschil % (1000*60*60*24)) / (1000*60*60));
+    const min = Math.floor((verschil % (1000*60*60)) / (1000*60));
+    const sec = Math.floor((verschil % (1000*60)) / 1000);
+    document.getElementById('d-dagen').textContent = dagen;
+    document.getElementById('d-uren').textContent = String(uren).padStart(2,'0');
+    document.getElementById('d-min').textContent = String(min).padStart(2,'0');
+    document.getElementById('d-sec').textContent = String(sec).padStart(2,'0');
+  }
+  updateCountdown();
+  setInterval(updateCountdown, 1000);
+
+  // === KOORTSMETER tot 88°C ===
+  function updateKoortsmeter(){
+    const nu = new Date();
+    const verschil = wedstrijd - nu;
+    const dagenTeGaan = Math.max(0, verschil / (1000*60*60*24));
+
+    const minTemp = 36.5;
+    const maxTemp = 88.0;
+    const startDagen = 200;
+    const progress = Math.max(0, Math.min(1, (startDagen - dagenTeGaan) / startDagen));
+    const curvedProgress = Math.pow(progress, 1.6);
+    const koorts = minTemp + curvedProgress * (maxTemp - minTemp);
+
+    // Markerpositie op meter (36° = 0%, 88° = 100%)
+    const meterPos = ((koorts - 36) / (88 - 36)) * 100;
+    const marker = document.getElementById('koorts-marker');
+    marker.style.left = meterPos + '%';
+    marker.setAttribute('data-temp', koorts.toFixed(1) + '°C');
+
+    // Badge
+    document.getElementById('koortsbadge').textContent = koorts.toFixed(1) + '°C';
+
+    // Diagnose (zonder verzonnen humor)
+    let diagnose;
+    if(koorts < 38) diagnose = '😐 Normaal';
+    else if(koorts < 42) diagnose = '🥶 Lichte koorts';
+    else if(koorts < 55) diagnose = '🤒 Oranjekoorts';
+    else if(koorts < 75) diagnose = '🥵 Liefhebbersniveau';
+    else if(koorts < 87.9) diagnose = '🏆 Bijna op 1988-niveau';
+    else diagnose = '🏆 1988-niveau';
+    document.getElementById('koortsdiagnose').textContent = diagnose;
+  }
+  updateKoortsmeter();
+  setInterval(updateKoortsmeter, 30000);
+
+  // === LAATSTE UPDATE ===
+  const opties = {day:'2-digit', month:'long', hour:'2-digit', minute:'2-digit'};
+  document.getElementById('laatste-update').textContent = new Date().toLocaleString('nl-NL', opties);
+
+  // === NIEUWS-FILTERS ===
+  document.querySelectorAll('.filter-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('actief'));
+      btn.classList.add('actief');
+      pasFiltersToe();
+    });
+  });
+
+  // === SCHEMA FASE-FILTERS ===
+  document.querySelectorAll('.groep-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.groep-btn').forEach(b => b.classList.remove('actief'));
+      btn.classList.add('actief');
+      const fase = btn.dataset.fase;
+      document.querySelectorAll('.fase-blok').forEach(b => {
+        b.style.display = (b.dataset.faseId === fase) ? '' : 'none';
+      });
+    });
+  });
+
+  // === WIST-JE-DATJES (alleen feiten, geen verzonnen humor) ===
+  const wistjedatjes = [
+    "📊 Met 48 landen is dit het grootste WK ooit — 12 groepen, 104 wedstrijden, 39 dagen voetbal.",
+    "🏟️ De finale is op 19 juli 2026 in het MetLife Stadium (New York/New Jersey).",
+    "🌍 Drie gastlanden: VS, Canada en Mexico. Oranje speelt alle groepswedstrijden in de VS.",
+    "⏰ Tijdsverschil Texas–NL: 7 uur. Lokaal om 15:00 = thuis 22:00. Lokaal om 18:00 = thuis 01:00.",
+    "💉 Tot 24 uur voor de eerste wedstrijd mag een geblesseerde speler nog vervangen worden.",
+    "🔢 Selectiegrootte: minimaal 23, maximaal 26 spelers — verplicht 3 keepers.",
+    "🏆 Nederland staat 7e op de FIFA-ranking — daarom zat Oranje in pot 1 bij de loting.",
+    "📅 Voorbereiding start 30 mei in Zeist. Daarna: Algerije (3 juni De Kuip), Oezbekistan (8 juni NY), Japan (14 juni).",
+    "🚌 Basiskamp van Oranje tijdens het WK: Kansas City.",
+    "📺 Alle 104 wedstrijden gratis op NPO 1, 2 en 3.",
+    "🥇 Memphis Depay is Oranje's topscorer aller tijden.",
+    "⚽ Van de 55 voorgeselecteerden vallen er 29 af. 26 mogen mee. Selectie bekend op 27 mei om 14:45.",
+    "🏟️ AT&T Stadium in Arlington (Dallas) host de meeste wedstrijden van het toernooi: negen stuks.",
+    "🌎 Het WK 2026 is geografisch het meest uitgestrekte ooit, met 16 speelsteden in 3 landen.",
+    "🇲🇽 Het openingsduel is op 11 juni in het Estadio Azteca in Mexico-Stad — het enige stadion ter wereld waar twee WK-finales gespeeld zijn (1970 en 1986).",
+    "🏆 Het EK 1988 in West-Duitsland was het grootste succes ooit voor Oranje, met de finale op 25 juni gewonnen van de Sovjet-Unie (2-0).",
+    "📋 Mogelijke tegenstanders in de 1/16e finale bij groepswinst: nr. 2 van Groep C (Brazilië, Marokko, Schotland of Haïti)."
+  ];
+  function nieuwWistjedatje(){
+    const willekeurig = wistjedatjes[Math.floor(Math.random() * wistjedatjes.length)];
+    document.getElementById('wistjedatje').textContent = willekeurig;
+  }
+  nieuwWistjedatje();
+</script>
+
+</body>
+</html>
