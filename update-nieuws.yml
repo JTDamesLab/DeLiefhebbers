@@ -1,0 +1,47 @@
+name: Update Liefhebbers Nieuws
+
+on:
+  schedule:
+    # Cron: elke dag om 05:00 UTC = 07:00 NL (winter) / 07:00 NL (zomer = 05:00 UTC)
+    # NB: GitHub Actions cron is altijd UTC. NL-zomertijd = UTC+2, NL-wintertijd = UTC+1
+    # 05:00 UTC = 07:00 NL zomer / 06:00 NL winter — prima ochtendupdate
+    - cron: '0 5 * * *'
+
+  # Handmatig kunnen triggeren via GitHub UI
+  workflow_dispatch:
+
+jobs:
+  update-nieuws:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # nodig om commits terug te pushen
+
+    steps:
+      - name: Repo uitchecken
+        uses: actions/checkout@v4
+
+      - name: Python instellen
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Dependencies installeren
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r scripts/requirements.txt
+
+      - name: Nieuws scrapen
+        run: python scripts/update_nieuws.py
+
+      - name: Wijzigingen committen
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/nieuws.json
+          if git diff --staged --quiet; then
+            echo "📭 Geen nieuwe items vandaag"
+          else
+            git commit -m "🤖 Auto-update nieuws ($(date -u +%Y-%m-%d))"
+            git push
+            echo "✅ Nieuws bijgewerkt en gepusht"
+          fi
