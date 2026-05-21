@@ -1,113 +1,121 @@
 {
-  "laatste_update": "2026-05-19T09:00:00+00:00",
-  "aantal_items": 12,
-  "opmerking": "Initieel handmatig — wordt overschreven door GitHub Actions vanaf morgenochtend.",
+  "laatste_update": "2026-05-21T08:33:53.392318+00:00",
+  "aantal_items": 13,
   "items": [
     {
-      "titel": "Frenkie de Jong weer fit: volledig terug in selectie Barcelona",
-      "samenvatting": "Frenkie de Jong draait na zijn hamstringklachten weer volledig mee in de selectie van FC Barcelona. Dat is positief nieuws voor Koeman, die de middenvelder een belangrijke rol toebedeelt op het WK. Justin Kluivert is ook bijna fit verklaard en traint mee bij Bournemouth.",
-      "bron": "Mee Met Oranje",
-      "link": "https://www.meemetoranje.nl/",
-      "datum": "2026-05-18T14:00:00+00:00",
-      "categorie": "oranje",
-      "hot": true
-    },
-    {
-      "titel": "Memphis lijkt op tijd terug, maar fysieke situatie blijft gevoelig",
-      "samenvatting": "Memphis Depay voert een race tegen de klok om tijdig te herstellen van een hardnekkige dijbeenkwetsuur. De topscorer aller tijden van Oranje speelde sinds 22 maart geen wedstrijd meer. Koeman wil eigenlijk alleen fitte spelers meenemen, maar maakt mogelijk een uitzondering.",
-      "bron": "Mee Met Oranje",
-      "link": "https://www.meemetoranje.nl/",
-      "datum": "2026-05-18T10:00:00+00:00",
-      "categorie": "oranje",
-      "hot": true
-    },
-    {
-      "titel": "De Ligt valt definitief af na operatie — De Vrij en Aké blijven over",
-      "samenvatting": "Door de naam van Matthijs de Ligt kan inmiddels definitief een streep worden gezet na zijn operatie. De kans op uitverkiezing voor het WK was al minimaal omdat hij al bijna een half jaar aan de kant stond. Stefan de Vrij en Nathan Aké zitten in een vergelijkbare situatie qua wedstrijdritme, maar mogen rekenen op krediet van Koeman.",
-      "bron": "Mee Met Oranje / AD",
-      "link": "https://www.meemetoranje.nl/",
-      "datum": "2026-05-17T16:00:00+00:00",
-      "categorie": "oranje",
-      "hot": true
-    },
-    {
-      "titel": "Koeman maakt selectie 27 mei om 14:45 bekend",
-      "samenvatting": "De bondscoach neemt twee extra dagen om beslissingen te maken. Reden: hij wil zien hoe spelers uit de slotfase van hun competitie komen en wil ze tijdens trainingsdagen (25–27 mei) zelf in Zeist beoordelen. De voorbereiding met de complete groep start op 30 mei.",
-      "bron": "KNVB / OnsOranje",
-      "link": "https://www.onsoranje.nl/",
-      "datum": "2026-05-13T14:00:00+00:00",
-      "categorie": "oranje",
-      "hot": true
-    },
-    {
-      "titel": "Jurriën Timber ontbreekt ook tegen Burnley — vraagteken groeit",
-      "samenvatting": "Achter de naam van Jurriën Timber staat een steeds groter vraagteken. Toen de Arsenal-verdediger in maart een enkelblessure opliep, hoopte Arteta nog op een snelle terugkeer. Arsenal speelt alleen volgende week nog tegen Crystal Palace en op 30 mei de Champions League-finale tegen PSG.",
-      "bron": "Mee Met Oranje",
-      "link": "https://www.meemetoranje.nl/",
-      "datum": "2026-05-17T08:00:00+00:00",
+      "titel": "Frenkie de Jong verdedigt eigen speelstijl: 'Passen heeft niet altijd zin'",
+      "samenvatting": "Frenkie de Jong kan weinig met de kritiek op zijn speelstijl. Volgens analytici en de media loopt de Nederlander soms te veel met de bal, maar zelf vindt hij dat wel meevallen. 'Dat Xavi alles in één keer speelde, heeft men erbij verzonnen.'",
+      "bron": "VI",
+      "link": "https://www.vi.nl/nieuws/frenkie-de-jong-verdedigt-eigen-speelstijl-passen-heeft-niet-altijd-zin",
+      "datum": "2026-05-21T08:17:00+00:00",
       "categorie": "oranje",
       "hot": false
     },
     {
-      "titel": "Wijnaldum: Koeman bevestigt dat hij niet meegaat",
-      "samenvatting": "Ronald Koeman gaf bij Studio Voetbal aan dat Georginio Wijnaldum niet meegaat naar het WK. Eerder was al duidelijk dat ook Joey Veerman geen plek krijgt op de longlist. Door het uitvallen van Schouten lijkt Veerman ironisch genoeg weer een serieuze optie volgens sommige analisten.",
-      "bron": "Studio Voetbal / JFK",
-      "link": "https://jfk.men/",
-      "datum": "2026-05-03T20:00:00+00:00",
-      "categorie": "oranje",
-      "hot": false
-    },
-    {
-      "titel": "Jan Paul van Hecke groeit door tot vaste waarde in centrum",
-      "samenvatting": "De verdediger van Brighton wordt door meerdere bronnen genoemd als onderdeel van Koemans kernverdediging, naast Van Dijk, Aké, Van de Ven en Timber. Door het wegvallen van De Ligt heeft Van Hecke zijn positie verstevigd.",
-      "bron": "JFK / Voetbalprimeur",
-      "link": "https://jfk.men/",
-      "datum": "2026-05-16T12:00:00+00:00",
-      "categorie": "oranje",
-      "hot": false
-    },
-    {
-      "titel": "Oranje als groepswinnaar Groep F: tegenstander uit Groep C in 1/16e",
-      "samenvatting": "Bij groepswinst wacht in de volgende ronde de nummer 2 van Groep C: Brazilië, Schotland, Marokko of Haïti. Nederland wordt unaniem gezien als favoriet voor groepswinst, gevolgd door Japan en daarna Zweden. Tunesië is kandidaat voor 'beste nummer 3'.",
-      "bron": "bet365 / analyse",
-      "link": "",
-      "datum": "2026-05-15T09:00:00+00:00",
-      "categorie": "oranje",
-      "hot": false
-    },
-    {
-      "titel": "Frankrijk en Zweden onthullen WK-selecties — Oranje blijft langer wachten",
-      "samenvatting": "Frankrijk kwam al met een sterrenlijst naar buiten en ook groepsgenoot Zweden heeft zijn kaarten op tafel gelegd. Koeman houdt de spanning nog even vast tot 27 mei. Steeds meer landen presenteren hun definitieve selectie voor het WK 2026.",
-      "bron": "JFK",
-      "link": "https://jfk.men/",
-      "datum": "2026-05-14T11:00:00+00:00",
+      "titel": "Peperdure WK-kaartjes en zorgen over ICE: komt de wereld nog naar Amerika?",
+      "samenvatting": "Een invasie moet het worden in Canada, Mexico en de Verenigde Staten. Van voetbalfans, welteverstaan: 'een golf van plezier en vreugde', in de woorden van FIFA-baas Gianni Infantino. Maar met torenhoge ticketprijzen en zorgen over de politieke situatie in Amerika is de vraag: komen de supporters ...",
+      "bron": "NOS Voetbal",
+      "link": "https://nos.nl/l/2615212",
+      "datum": "2026-05-21T05:16:56+00:00",
       "categorie": "algemeen",
       "hot": false
     },
     {
-      "titel": "Voor het eerst 48 landen, 104 wedstrijden — extra knock-outronde toegevoegd",
-      "samenvatting": "Het WK in de VS, Canada en Mexico is het grootste ooit. Door de uitbreiding naar 48 deelnemers is er een extra ronde toegevoegd: de 1/16e finales. De nummers 1 en 2 plus de 8 beste nummers 3 gaan door. Finale: 19 juli in New York/New Jersey.",
-      "bron": "FIFA",
-      "link": "https://www.fifa.com/",
-      "datum": "2026-05-01T00:00:00+00:00",
+      "titel": "De parallellen tussen NEC en Japan: 'Nog nooit zo gevoetbald'",
+      "samenvatting": "Japan is op het WK een van de tegenstanders van het Nederlands elftal en speelt in het op het eerste oog bekende formatie. De 3-4-2-1 van bondscoach Hajime Moriyasu lijkt immers op de speelwijze van onder anderen Dick Schreuder bij NEC. Spits Koki Ogawa ziet ook duidelijke verschillen.",
+      "bron": "VI",
+      "link": "https://www.vi.nl/nieuws/de-parallellen-tussen-nec-en-japan-nog-nooit-zo-gevoetbald",
+      "datum": "2026-05-21T04:45:00+00:00",
+      "categorie": "oranje",
+      "hot": false
+    },
+    {
+      "titel": "Egypte presenteert 27-koppige selectie voor WK, Salah van de partij",
+      "samenvatting": "Egypte heeft woensdagavond de selectie voor het wereldkampioenschap bekendgemaakt. Sterspeler Mohamed Salah is – uiteraard – van de partij op het toernooi in Canada, Mexico en de Verenigde Staten.",
+      "bron": "VI",
+      "link": "https://www.vi.nl/nieuws/egypte-presenteert-27-koppige-selectie-voor-wk-salah-van-de-partij",
+      "datum": "2026-05-20T21:57:47+00:00",
+      "categorie": "algemeen",
+      "hot": true
+    },
+    {
+      "titel": "Depay traint drie weken voor WK weer volledig mee bij Corinthians",
+      "samenvatting": "Memphis Depay heeft weer een volledige groepstraining meegedaan bij Corinthians. Dat meldt de Braziliaanse club op de eigen website. Depay raakte op 23 maart geblesseerd aan zijn dijbeen en miste daarna veertien wedstrijden voor Corinthians. Vrijdag zou hij tegen Peñarol in de Copa Libertadores z...",
+      "bron": "NOS Voetbal",
+      "link": "https://nos.nl/l/2615194",
+      "datum": "2026-05-20T20:58:03+00:00",
+      "categorie": "oranje",
+      "hot": true
+    },
+    {
+      "titel": "Arsenal-fans kunnen het niet geloven: om 05.00 uur duiken feestende kampioenen plots op bij het stadion",
+      "samenvatting": "Nadat Arsenal dinsdagavond voor het eerst sinds 2004 kampioen van de Premier League werd, trokken duizenden supporters direct naar het Emirates Stadium in het noorden van Londen. Een klein groepje dat daar lang bleef hangen kreeg nog een mooie verrassing.",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/arsenal-fans-kunnen-het-niet-geloven-om-05-00-uur-duiken-feestende-kampioenen-plots-op-bij-het-stadion~a7f7d4c48/",
+      "datum": "2026-05-20T13:29:00+00:00",
+      "categorie": "oranje",
+      "hot": false
+    },
+    {
+      "titel": "Speelschema WK voetbal 2026 | Op deze dagen en tijden komt het Nederlands elftal in actie",
+      "samenvatting": "Het Nederlands elftal en 47 andere landen strijden in Canada, Mexico en de Verenigde Staten om de wereldtitel. Van donderdag 11 juni tot en met zondag 19 juli wordt daar het WK 2026 gehouden. Bekijk hieronder het complete programma!",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/speelschema-wk-voetbal-2026-op-deze-dagen-en-tijden-komt-het-nederlands-elftal-in-actie~ad85207c/",
+      "datum": "2026-05-20T11:43:00+00:00",
+      "categorie": "oranje",
+      "hot": false
+    },
+    {
+      "titel": "Tsjechische trainer levenslang geschorst wegens filmen speelsters",
+      "samenvatting": "De UEFA heeft de Tsjechische voetbalcoach Petr Vlachovsky levenslang geschorst omdat hij stiekem speelsters filmde in de kleedkamer. Vlachovsky, die trainer was van FC Slovácko, mag nooit meer een voetbalgerelateerde functie bekleden. Bovendien heeft de Europese voetbalbond de FIFA gevraagd om de...",
+      "bron": "NOS Voetbal",
+      "link": "https://nos.nl/l/2615085",
+      "datum": "2026-05-20T08:55:31+00:00",
       "categorie": "algemeen",
       "hot": false
     },
     {
-      "titel": "Alle 104 wedstrijden gratis bij NOS op NPO 1, 2 en 3",
-      "samenvatting": "Geen abonnement nodig — Liefhebbers kunnen elke wedstrijd live volgen via NPO, NOS.nl en de NOS-app. Door het tijdsverschil van 7 uur met Texas vallen veel wedstrijden 's avonds laat of zelfs 's nachts.",
-      "bron": "NOS",
-      "link": "https://nos.nl/sport",
-      "datum": "2026-04-28T00:00:00+00:00",
+      "titel": "Jurriën Timber in rijtje met Nederlandse Premier League-kampioenen: deze landgenoten gingen hem voor",
+      "samenvatting": "Jurriën Timber is de 21ste Nederlander ooit die zich tot kampioen van de Premier League heeft gekroond. Deze landgenoten gingen de geblesseerde sterkhouder van The Gunners voor.",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/jurrien-timber-in-rijtje-met-nederlandse-premier-league-kampioenen-deze-landgenoten-gingen-hem-voor~aa76729f4/",
+      "datum": "2026-05-20T06:21:00+00:00",
+      "categorie": "oranje",
+      "hot": false
+    },
+    {
+      "titel": "Voormalig FIFA-baas Blatter haalt uit naar Infantino: 'Dictator met vele paspoorten'",
+      "samenvatting": "Sepp Blatter heeft in een interview met de NOS uitgehaald naar FIFA-voorzitter Gianni Infantino. \"Ik zie hem als een dictator die overal paspoorten heeft\", zegt de 90-jarige oud-voorzitter over zijn opvolger. De toewijzing van het WK van 2034 aan Saudi-Arabië bewijst volgens Blatter het gebrek aa...",
+      "bron": "NOS Voetbal",
+      "link": "https://nos.nl/l/2615064",
+      "datum": "2026-05-20T06:00:04+00:00",
       "categorie": "algemeen",
       "hot": false
     },
     {
-      "titel": "Programma Oranje: 3 juni Algerije in De Kuip, 8 juni Oezbekistan in NY",
-      "samenvatting": "Voor het WK speelt Oranje nog twee oefenwedstrijden. Op 3 juni in De Kuip tegen Algerije (uitzwaaiwedstrijd), vijf dagen later in New York tegen Oezbekistan. Daarna trekt de groep door naar het basiskamp in Kansas City.",
-      "bron": "KNVB",
-      "link": "https://www.knvb.nl/",
-      "datum": "2026-05-10T08:00:00+00:00",
+      "titel": "Tijd dringt voor Memphis Depay: topscorer Oranje ontbreekt door nieuwe blessure wéér in selectie Corinthians",
+      "samenvatting": "De tijd begint te dringen voor Memphis Depay. De topscorer aller tijden van het Nederlands elftal ontbreekt vanwege een nieuwe blessure opnieuw in de wedstrijdselectie van Corinthians. Nadat hij na twee maanden eindelijk hersteld leek van een blessure aan het dijbeen, houdt nu een kuitkwetsuur De...",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/tijd-dringt-voor-memphis-depay-topscorer-oranje-ontbreekt-door-nieuwe-blessure-weer-in-selectie-corinthians~a0591043/",
+      "datum": "2026-05-19T18:32:00+00:00",
+      "categorie": "oranje",
+      "hot": true
+    },
+    {
+      "titel": "Drie weken voor het WK: deze Oranje-internationals maakten de meeste minuten (en wie juist bijna niet speelde)",
+      "samenvatting": "Over drie weken begint het WK in Canada, Mexico en de Verenigde Staten. Hoe staan de Oranje-internationals ervoor qua speeltijd in de benen?",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/drie-weken-voor-het-wk-deze-oranje-internationals-maakten-de-meeste-minuten-en-wie-juist-bijna-niet-speelde~a6e1321f/",
+      "datum": "2026-05-19T17:22:00+00:00",
+      "categorie": "oranje",
+      "hot": false
+    },
+    {
+      "titel": "Bakstenen door de ruiten en klemmend beroep van KNVB: wat speelt er rond de beladen voetbal­week in Volendam?",
+      "samenvatting": "Op maandag mochten er geen supporters van FC Groningen mee naar de wedstrijd van Ajax in Volendam. Dinsdag ineens weer wel. Wat is er aan de hand? Wij gingen op onderzoek uit.",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/bakstenen-door-de-ruiten-en-klemmend-beroep-van-knvb-wat-speelt-er-rond-de-beladen-voetbalweek-in-volendam~a8c1e569/",
+      "datum": "2026-05-19T16:00:00+00:00",
       "categorie": "oranje",
       "hot": false
     }
