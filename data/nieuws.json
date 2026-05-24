@@ -1,13 +1,85 @@
 {
-  "laatste_update": "2026-05-23T07:33:25.699472+00:00",
-  "aantal_items": 11,
+  "laatste_update": "2026-05-24T07:50:24.914637+00:00",
+  "aantal_items": 17,
   "items": [
     {
-      "titel": "Tranen bij Luuk de Jong tijdens titelviering: 'Misschien mijn laatste prijs'",
-      "samenvatting": "Het afscheid van Luuk de Jong bij FC Porto valt hem zwaar. Dat de 35-jarige spits al na één seizoen vertrekt bij de club, maakte hem emotioneel.",
+      "titel": "De ultieme talisman van Oranje",
+      "samenvatting": "In de aanloop naar het WK staan we elke dag stil bij een WK-feitje. Met nog achttien dagen te gaan tot de start van het WK, bekijken we de bijzondere interlandcarrière van Hedwiges Maduro.",
       "bron": "VI",
-      "link": "https://www.vi.nl/nieuws/tranen-bij-luuk-de-jong-tijdens-titelviering-misschien-mijn-laatste-prijs",
-      "datum": "2026-05-23T06:54:02+00:00",
+      "link": "https://www.vi.nl/nieuws/de-ultieme-talisman-van-oranje",
+      "datum": "2026-05-24T07:30:00+00:00",
+      "categorie": "oranje",
+      "hot": false
+    },
+    {
+      "titel": "Slangenmens Rensenbrink, de kruising tussen Cruijff, Best en Lamine Yamal",
+      "samenvatting": "Hij staat in het collectieve geheugen gegrift als de man van die bal op de paal in de allerlaatste minuut van de reguliere speeltijd in de WK-finale van 1978 van het Nederlands elftal. Maar daarmee, zegt oud-ploeggenoot Arie Haan, wordt Rob Rensenbrink geen eer aangedaan. Voor hem is Rensenbrink ...",
+      "bron": "NOS Voetbal",
+      "link": "https://nos.nl/l/2615628",
+      "datum": "2026-05-24T04:00:02+00:00",
+      "categorie": "oranje",
+      "hot": false
+    },
+    {
+      "titel": "Brugts trots op ontwikkeling en Champions League-winst: 'De kers op de taart'",
+      "samenvatting": "Esmee Brugts heeft zaterdag voor de tweede keer de Women's Champions League gewonnen met Barcelona. De speelster van het Nederlands elftal is trots op haar ontwikkeling als linksback en voelt dat zij het beste uit zichzelf kan halen. Dat vertelde ze na afloop van de gewonnen Champions League-fina...",
+      "bron": "VI",
+      "link": "https://www.vi.nl/nieuws/brugts-trots-op-ontwikkeling-en-champions-league-winst-de-kers-op-de-taart",
+      "datum": "2026-05-23T21:53:58+00:00",
+      "categorie": "oranje",
+      "hot": false
+    },
+    {
+      "titel": "Geëmotioneerde Stegeman somt bizar seizoen Willem II op: 'Alle emoties aangetikt'",
+      "samenvatting": "John Stegeman was de gevierde trainer, nadat zijn Willem II de wedstrijd in en tegen Volendam naar zich toe trok vanaf de stip. De oefenmeester somt het bizarre seizoen op van de Tilburgers, dat vele dieptepunten heeft gekend. Daarbij doet hij ook een beroep op de KNVB om na te denken over een ni...",
+      "bron": "VI",
+      "link": "https://www.vi.nl/video/ge-motioneerde-stegeman-somt-bizar-seizoen-willem-ii-op-alle-emoties-aangetikt",
+      "datum": "2026-05-23T20:56:23+00:00",
+      "categorie": "oranje",
+      "hot": false
+    },
+    {
+      "titel": "Iran verplaatst WK-trainingskamp van VS naar Mexico",
+      "samenvatting": "Iran heeft zijn trainingskamp tijdens het WK voetbal verplaatst naar Mexico. Vanwege de oorlog met de Verenigde Staten en Israël wenst de ploeg niet in Arizona te verblijven. Aanvankelijk zou Iran in Tucson trainen. Tijuana, slechts enkele kilometers over de grens, is de nieuwe thuisbasis, zo mel...",
+      "bron": "NOS Voetbal",
+      "link": "https://nos.nl/l/2615604",
+      "datum": "2026-05-23T19:54:00+00:00",
+      "categorie": "algemeen",
+      "hot": false
+    },
+    {
+      "titel": "Nog meer blessurezorgen Oranje: De Vrij in laatste duel voor Inter naar de kant",
+      "samenvatting": "Vijf dagen voordat de WK-selectie van Oranje bekend wordt gemaakt, heeft Stefan de Vrij een blessure opgelopen. De centrale verdediger moest in zijn vermoedelijk laatste duel voor Internazionale naar de kant. Dat gebeurde in het competitieduel tussen Bologna en Internazionale (3-3). De verdediger...",
+      "bron": "NOS Voetbal",
+      "link": "https://nos.nl/l/2615600",
+      "datum": "2026-05-23T19:08:26+00:00",
+      "categorie": "oranje",
+      "hot": true
+    },
+    {
+      "titel": "Stefan de Vrij valt geblesseerd uit bij laatste duel Inter, maar schade lijkt mee te vallen in aanloop naar WK",
+      "samenvatting": "Stefan de Vrij is tijdens het laatste duel met Internazionale geblesseerd uitgevallen. De Oranje-international had ogenschijnlijk last van zijn lies. De 34-jarige verdediger is normaal gesproken onderdeel van de WK-selectie. De schade lijkt mee te vallen.",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/stefan-de-vrij-valt-geblesseerd-uit-bij-laatste-duel-inter-maar-schade-lijkt-mee-te-vallen-in-aanloop-naar-wk~a3ce1971/",
+      "datum": "2026-05-23T18:32:00+00:00",
+      "categorie": "oranje",
+      "hot": true
+    },
+    {
+      "titel": "Effectief Barcelona overklast OL Lyonnes in finale, tweede Champions League-zege voor Esmee Brugts",
+      "samenvatting": "Barcelona heeft met grote cijfers de Champions League-finale gewonnen. In Oslo waren de Catalanen met 4-0 te sterk voor OL Lyonnes. Het is de tweede CL-winst voor Oranje-international Esmee Brugts.",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/effectief-barcelona-overklast-ol-lyonnes-in-finale-tweede-champions-league-zege-voor-esmee-brugts~aac9f7a8/",
+      "datum": "2026-05-23T17:57:00+00:00",
+      "categorie": "oranje",
+      "hot": false
+    },
+    {
+      "titel": "Regering-Trump stelt harde eis aan WK-ploeg Congo vanwege ebola: eerst 21 dagen quarantaine of land niet in",
+      "samenvatting": "Het nationale voetbalteam van de Democratische Republiek Congo moet vanwege ebola voorafgaand aan het WK 21 dagen lang in quarantaine blijven. Gebeurt dat niet, dan lopen de voetballers de kans de Verenigde Staten niet binnen te komen. Congo is niet van plan het schema aan te passen.",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/wk-voetbal/regering-trump-stelt-harde-eis-aan-wk-ploeg-congo-vanwege-ebola-eerst-21-dagen-quarantaine-of-land-niet-in~aec8e0517/",
+      "datum": "2026-05-23T08:06:00+00:00",
       "categorie": "oranje",
       "hot": false
     },
@@ -75,29 +147,11 @@
       "hot": false
     },
     {
-      "titel": "'Miss Eredivisie' Jansen (35) neemt afscheid, buitenlandse transfer kwam er nooit",
-      "samenvatting": "Dertig jaar geleden trok een toen 5-jarige Renate Jansen voor het eerst haar voetbalschoenen aan bij SV Abbenes. Vanavond speelt de 35-jarige rechtsbuiten en 72-voudig Oranje-international haar laatste eredivisiewedstrijd. Met PSV treft ze uitgerekend haar grote liefde: FC Twente. Voor de Eindhov...",
-      "bron": "NOS Voetbal",
-      "link": "https://nos.nl/l/2615378",
-      "datum": "2026-05-22T08:11:34+00:00",
-      "categorie": "oranje",
-      "hot": false
-    },
-    {
       "titel": "Winactie: laatste kans om Oranje in actie te zien voor de start van het WK 2026",
       "samenvatting": "Het is de laatste kans om Oranje in actie te zien voordat de selectie afreist naar de Verenigde Staten voor het WK 2026. Hier maak je kans op tickets voor de uitzwaaiwedstrijd Nederland vs Algerije op 3 juni in de Kuip in Rotterdam.",
       "bron": "AD Voetbal",
       "link": "https://www.ad.nl/wk-voetbal/winactie-laatste-kans-om-oranje-in-actie-te-zien-voor-de-start-van-het-wk-2026~aa85526d/",
       "datum": "2026-05-22T04:00:00+00:00",
-      "categorie": "oranje",
-      "hot": true
-    },
-    {
-      "titel": "Koeman verwacht Depay zondag terug op veld: 'Geeft soms wel hoofdpijn'",
-      "samenvatting": "Over zes dagen, op woensdag 27 mei, maakt Ronald Koeman zijn selectie voor het WK bekend en de zorgen worden er niet minder om. \"Het zijn allemaal beslissingen die soms een beetje hoofdpijn geven\", zegt de bondscoach vanuit Barcelona tegen de NOS. Koeman heeft het over de fitheid van onder andere...",
-      "bron": "NOS Voetbal",
-      "link": "https://nos.nl/l/2615329",
-      "datum": "2026-05-21T19:41:27+00:00",
       "categorie": "oranje",
       "hot": true
     }
