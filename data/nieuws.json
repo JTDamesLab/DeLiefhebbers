@@ -1,13 +1,157 @@
 {
-  "laatste_update": "2026-05-24T07:50:24.914637+00:00",
-  "aantal_items": 17,
+  "laatste_update": "2026-05-25T08:59:10.217492+00:00",
+  "aantal_items": 20,
   "items": [
     {
-      "titel": "De ultieme talisman van Oranje",
-      "samenvatting": "In de aanloop naar het WK staan we elke dag stil bij een WK-feitje. Met nog achttien dagen te gaan tot de start van het WK, bekijken we de bijzondere interlandcarrière van Hedwiges Maduro.",
+      "titel": "Koeman ontvangt kleine trainingsgroep in Zeist in aanloop naar WK",
+      "samenvatting": "Ronald Koeman is officieus begonnen aan de voorbereiding op het WK in de Verenigde Staten, Mexico en Canada. Maandag arriveerde een kleine groep spelers in Zeist, die nog in aanmerking komen voor de definitieve WK-selectie, die op woensdag wordt bekendgemaakt. Zij krijgen de komende dagen de kans...",
       "bron": "VI",
-      "link": "https://www.vi.nl/nieuws/de-ultieme-talisman-van-oranje",
-      "datum": "2026-05-24T07:30:00+00:00",
+      "link": "https://www.vi.nl/nieuws/koeman-ontvangt-kleine-trainingsgroep-in-zeist-in-aanloop-naar-wk",
+      "datum": "2026-05-25T08:33:53+00:00",
+      "categorie": "oranje",
+      "hot": true
+    },
+    {
+      "titel": "Rentree Memphis onder de loep: 'Hij speelt geen spits'",
+      "samenvatting": "In de nieuwe aflevering van VI ZSM bespreken Pieter Zwart en Jarno Verweij onder meer de rentree van Memphis Depay bij Corinthians in aanloop naar het WK. De 108-voudig international stond sinds eind maart aan de kant met een dijbeenblessure, maar liet zich drie dagen voordat bondscoach Ronald Ko...",
+      "bron": "VI",
+      "link": "https://www.vi.nl/video/rentree-memphis-onder-de-loep-hij-speelt-geen-spits",
+      "datum": "2026-05-25T07:45:00+00:00",
+      "categorie": "oranje",
+      "hot": true
+    },
+    {
+      "titel": "Doorgewinterde WK-gangers van Oranje zijn inmiddels spaarzaam",
+      "samenvatting": "In de aanloop naar het WK staan we elke dag stil bij een WK-feitje. Met nog zeventien dagen te gaan, kijken we naar de WK-gangers van het Nederlands elftal.",
+      "bron": "VI",
+      "link": "https://www.vi.nl/nieuws/doorgewinterde-wk-gangers-van-oranje-zijn-inmiddels-spaarzaam",
+      "datum": "2026-05-25T07:30:00+00:00",
+      "categorie": "oranje",
+      "hot": false
+    },
+    {
+      "titel": "Wat Ronald Koeman bedoelt met 'de box' van Oranje",
+      "samenvatting": "De rode draad in de tactiek van Ronald Koeman is de zogenoemde ‘box’. Tijd voor een uitgebreide analyse van dit concept, dat de bondscoach al sinds zijn eerste ambtstermijn als een dogma hanteert bij het Nederlands elftal.",
+      "bron": "VI",
+      "link": "https://www.vi.nl/pro/analyse-wat-ronald-koeman-bedoelt-met-de-box-van-oranje",
+      "datum": "2026-05-25T07:00:00+00:00",
+      "categorie": "oranje",
+      "hot": false
+    },
+    {
+      "titel": "AS Roma-trainer Gasperini prijst Malen na verovering CL-ticket",
+      "samenvatting": "AS Roma-trainer Gian Piero Gasperini toonde zich na de competitiezege op Hellas Verona een gelukkig man: de Romeinen keren mede dankzij Donyell Malen na zeven jaar terug in de Champions League. De Oranje-international nam in Verona een van de twee goals voor zijn rekening.",
+      "bron": "VI",
+      "link": "https://www.vi.nl/nieuws/as-roma-trainer-gasperini-prijst-malen-na-verovering-cl-ticket",
+      "datum": "2026-05-25T06:10:23+00:00",
+      "categorie": "oranje",
+      "hot": false
+    },
+    {
+      "titel": "Select Oranje-groepje traint in Zeist voor WK, Emegha niet van de partij",
+      "samenvatting": "Verborgen in de Zeister bossen, zonder media en zonder camera's, geeft een beperkt groepje potentiële WK-gangers vandaag al de officieuze aftrap van de WK-voorbereiding van het Nederlands elftal. Een laatste kans voor een enkeling om Ronald Koeman te overtuigen. Woensdag maakt de bondscoach via e...",
+      "bron": "NOS Voetbal",
+      "link": "https://nos.nl/l/2615735",
+      "datum": "2026-05-25T06:05:22+00:00",
+      "categorie": "oranje",
+      "hot": false
+    },
+    {
+      "titel": "Memphis keert drie dagen voor WK-selectie terug bij Corinthians",
+      "samenvatting": "Memphis Depay heeft in de nacht van zondag op maandag na bijna twee maanden afwezigheid zijn rentree gemaakt bij Corinthians. De 108-voudig international stond sinds eind maart aan de kant met een dijbeenblessure, maar liet zich drie dagen voordat bondscoach Ronald Koeman zijn WK-selectie bekendm...",
+      "bron": "VI",
+      "link": "https://www.vi.nl/nieuws/memphis-keert-drie-dagen-voor-wk-selectie-terug-bij-corinthians",
+      "datum": "2026-05-25T05:30:32+00:00",
+      "categorie": "oranje",
+      "hot": true
+    },
+    {
+      "titel": "Depay kan weer lachen: drie dagen voor WK-selectie rentree bij Corinthians",
+      "samenvatting": "Goed nieuws voor Ronald Koeman en Oranje. Memphis Depay heeft na twee maanden afwezigheid met een dijbeenblessure zijn rentree gemaakt voor Corinthians in de Braziliaanse competitie. De terugkeer van de topscorer aller tijden van het Nederlands elftal komt precies op tijd, want aanstaande woensda...",
+      "bron": "NOS Voetbal",
+      "link": "https://nos.nl/l/2615727",
+      "datum": "2026-05-24T23:28:20+00:00",
+      "categorie": "oranje",
+      "hot": true
+    },
+    {
+      "titel": "Memphis Depay keert achttien dagen voor WK terug in selectie Corinthians",
+      "samenvatting": "Memphis Depay is voor het eerst sinds maart weer onderdeel van de wedstrijdselectie van Corinthians. De 32-jarige Nederlander kampte lang met blessureleed, maar lijkt net op tijd fit te raken voor het WK, wat goed nieuws is voor bondscoach Ronald Koeman. Tegen Atlético Mineiro begint Memphis op d...",
+      "bron": "VI",
+      "link": "https://www.vi.nl/nieuws/memphis-depay-keert-achttien-dagen-voor-wk-terug-in-selectie-corinthians",
+      "datum": "2026-05-24T22:45:39+00:00",
+      "categorie": "oranje",
+      "hot": true
+    },
+    {
+      "titel": "Malen helpt AS Roma aan Champions League-ticket, Como grote verrassing",
+      "samenvatting": "AS Roma heeft op de 38ste en laatste speeldag van de Serie A kwalificatie voor de competitiefase van de Champions League weten veilig te stellen. De club van Donyell Malen en Devyne Rensch legde dankzij een zege bij Hellas Verona beslag op de derde plaats: 0-2. Malen vertolkte andermaal een belan...",
+      "bron": "NOS Voetbal",
+      "link": "https://nos.nl/l/2615719",
+      "datum": "2026-05-24T21:16:13+00:00",
+      "categorie": "oranje",
+      "hot": false
+    },
+    {
+      "titel": "Donyell Malen schiet AS Roma de Champions League in, Como blijft AC Milan en Juventus voor",
+      "samenvatting": "AS Roma heeft zich op de slotdag van de Serie A geplaatst voor de Champions League. De ploeg van coach Gian Piero Gasperini eindigt dankzij een 0-2 zege bij het al gedegradeerde Hellas Verona op de derde plek.",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/donyell-malen-schiet-as-roma-de-champions-league-in-como-blijft-ac-milan-en-juventus-voor~a424e52e/",
+      "datum": "2026-05-24T20:53:00+00:00",
+      "categorie": "oranje",
+      "hot": false
+    },
+    {
+      "titel": "Malen schiet Roma de Champions League in, Como debuteert in miljardenbal",
+      "samenvatting": "Donyell Malen gaat met AS Roma de Champions League in. De Nederlander werd ondanks een gemiste penalty wederom matchwinner bij de Romeinen. AC Milan gaf het weg, waardoor Como komend seizoen debuteert in de Champions League.",
+      "bron": "VI",
+      "link": "https://www.vi.nl/nieuws/malen-schiet-roma-de-champions-league-in-como-debuteert-in-miljardenbal",
+      "datum": "2026-05-24T20:45:00+00:00",
+      "categorie": "oranje",
+      "hot": false
+    },
+    {
+      "titel": "Noa Lang op kampioensfeest Club Brugge, Ayase Ueda voor het WK in Japan, Feyenoord-talenten op Ibiza",
+      "samenvatting": "Het WK staat voor de deur, maar er zijn ook de nodige internationals die nog even vakantie vieren of andere voetballers voor wie de zomerstop is begonnen. In deze rubriek houden we je op de hoogte van de leukste berichten en foto’s op social media.",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/wk-voetbal/noa-lang-op-kampioensfeest-club-brugge-ayase-ueda-voor-het-wk-in-japan-feyenoord-talenten-op-ibiza~ab988507/",
+      "datum": "2026-05-24T19:05:00+00:00",
+      "categorie": "oranje",
+      "hot": false
+    },
+    {
+      "titel": "Spurs handhaven zich op slotdag Premier League, Liverpool pakt Champions League-ticket",
+      "samenvatting": "Tottenham Hotspur heeft zich na een spannende laatste speeldag gehandhaafd in de Premier League. De ploeg van Oranje-international Mickey van de Ven won thuis met 1-0 van Everton en dat was genoeg om concurrent West Ham United voor te blijven. Liverpool verzekerde zich pas in de slotronde van Cha...",
+      "bron": "NOS Voetbal",
+      "link": "https://nos.nl/l/2615701",
+      "datum": "2026-05-24T17:12:30+00:00",
+      "categorie": "oranje",
+      "hot": false
+    },
+    {
+      "titel": "Vooral opluchting bij Ajax na Europese plaatsing, Weghorst gaat uit van vertrek",
+      "samenvatting": "Het winnen van de play-offs en dus het bereiken van de tweede voorronde van de Conference League zorgt voor gemengde gevoelens bij Ajax. Er is blijdschap, maar toch vooral opluchting na de ontknoping van een slecht seizoen. \"Ik ben een beetje in tweestrijd\", aldus aanvoerder Davy Klaassen na aflo...",
+      "bron": "NOS Voetbal",
+      "link": "https://nos.nl/l/2615683",
+      "datum": "2026-05-24T14:31:37+00:00",
+      "categorie": "oranje",
+      "hot": false
+    },
+    {
+      "titel": "Wout Weghorst rekent op vertrek bij Ajax en heeft advies voor clubleiding: ‘Want zo kom je niet tot succes’",
+      "samenvatting": "Wout Weghorst heeft naar alle waarschijnlijkheid zijn laatste wedstrijd voor Ajax gespeeld. De spits, die een aflopend contract heeft, zei na de wedstrijd tegen FC Utrecht in de finale van de play-offs dat hij ervan uitgaat te vertrekken bij de Amsterdammers.",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/wout-weghorst-rekent-op-vertrek-bij-ajax-en-heeft-advies-voor-clubleiding-want-zo-kom-je-niet-tot-succes~ad16243d/",
+      "datum": "2026-05-24T14:24:00+00:00",
+      "categorie": "oranje",
+      "hot": false
+    },
+    {
+      "titel": "'Ik ben Ronald Koeman, ik ben bondscoach, ik heb de grootste clubs getraind'",
+      "samenvatting": "Na een trainersloopbaan van meer dan 25 jaar staat Ronald Koeman aan de vooravond van zijn grootste uitdaging als coach: met Oranje presteren op het WK. \"Ik heb er geweldig veel zin in\", zegt hij tegen de NOS in Barcelona. Met nadruk stelt Koeman dat hij met zijn staf en de groep een positieve sf...",
+      "bron": "NOS Voetbal",
+      "link": "https://nos.nl/l/2615649",
+      "datum": "2026-05-24T08:58:08+00:00",
       "categorie": "oranje",
       "hot": false
     },
@@ -17,24 +161,6 @@
       "bron": "NOS Voetbal",
       "link": "https://nos.nl/l/2615628",
       "datum": "2026-05-24T04:00:02+00:00",
-      "categorie": "oranje",
-      "hot": false
-    },
-    {
-      "titel": "Brugts trots op ontwikkeling en Champions League-winst: 'De kers op de taart'",
-      "samenvatting": "Esmee Brugts heeft zaterdag voor de tweede keer de Women's Champions League gewonnen met Barcelona. De speelster van het Nederlands elftal is trots op haar ontwikkeling als linksback en voelt dat zij het beste uit zichzelf kan halen. Dat vertelde ze na afloop van de gewonnen Champions League-fina...",
-      "bron": "VI",
-      "link": "https://www.vi.nl/nieuws/brugts-trots-op-ontwikkeling-en-champions-league-winst-de-kers-op-de-taart",
-      "datum": "2026-05-23T21:53:58+00:00",
-      "categorie": "oranje",
-      "hot": false
-    },
-    {
-      "titel": "Geëmotioneerde Stegeman somt bizar seizoen Willem II op: 'Alle emoties aangetikt'",
-      "samenvatting": "John Stegeman was de gevierde trainer, nadat zijn Willem II de wedstrijd in en tegen Volendam naar zich toe trok vanaf de stip. De oefenmeester somt het bizarre seizoen op van de Tilburgers, dat vele dieptepunten heeft gekend. Daarbij doet hij ook een beroep op de KNVB om na te denken over een ni...",
-      "bron": "VI",
-      "link": "https://www.vi.nl/video/ge-motioneerde-stegeman-somt-bizar-seizoen-willem-ii-op-alle-emoties-aangetikt",
-      "datum": "2026-05-23T20:56:23+00:00",
       "categorie": "oranje",
       "hot": false
     },
@@ -53,105 +179,6 @@
       "bron": "NOS Voetbal",
       "link": "https://nos.nl/l/2615600",
       "datum": "2026-05-23T19:08:26+00:00",
-      "categorie": "oranje",
-      "hot": true
-    },
-    {
-      "titel": "Stefan de Vrij valt geblesseerd uit bij laatste duel Inter, maar schade lijkt mee te vallen in aanloop naar WK",
-      "samenvatting": "Stefan de Vrij is tijdens het laatste duel met Internazionale geblesseerd uitgevallen. De Oranje-international had ogenschijnlijk last van zijn lies. De 34-jarige verdediger is normaal gesproken onderdeel van de WK-selectie. De schade lijkt mee te vallen.",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/stefan-de-vrij-valt-geblesseerd-uit-bij-laatste-duel-inter-maar-schade-lijkt-mee-te-vallen-in-aanloop-naar-wk~a3ce1971/",
-      "datum": "2026-05-23T18:32:00+00:00",
-      "categorie": "oranje",
-      "hot": true
-    },
-    {
-      "titel": "Effectief Barcelona overklast OL Lyonnes in finale, tweede Champions League-zege voor Esmee Brugts",
-      "samenvatting": "Barcelona heeft met grote cijfers de Champions League-finale gewonnen. In Oslo waren de Catalanen met 4-0 te sterk voor OL Lyonnes. Het is de tweede CL-winst voor Oranje-international Esmee Brugts.",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/effectief-barcelona-overklast-ol-lyonnes-in-finale-tweede-champions-league-zege-voor-esmee-brugts~aac9f7a8/",
-      "datum": "2026-05-23T17:57:00+00:00",
-      "categorie": "oranje",
-      "hot": false
-    },
-    {
-      "titel": "Regering-Trump stelt harde eis aan WK-ploeg Congo vanwege ebola: eerst 21 dagen quarantaine of land niet in",
-      "samenvatting": "Het nationale voetbalteam van de Democratische Republiek Congo moet vanwege ebola voorafgaand aan het WK 21 dagen lang in quarantaine blijven. Gebeurt dat niet, dan lopen de voetballers de kans de Verenigde Staten niet binnen te komen. Congo is niet van plan het schema aan te passen.",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/wk-voetbal/regering-trump-stelt-harde-eis-aan-wk-ploeg-congo-vanwege-ebola-eerst-21-dagen-quarantaine-of-land-niet-in~aec8e0517/",
-      "datum": "2026-05-23T08:06:00+00:00",
-      "categorie": "oranje",
-      "hot": false
-    },
-    {
-      "titel": "VS wil dat selectie Congo drie weken in isolatie gaat vanwege ebola-uitbraak",
-      "samenvatting": "De nationale ploeg van Congo moet voor het WK voetbal drie weken in isolatie, voordat het toestemming krijgt om de Verenigde Staten binnen te komen. In het Afrikaanse land is een ebola-uitbraak. De ploeg bereidt zich momenteel in België voor op het WK. Andrew Giuliani, uitvoerend directeur van de...",
-      "bron": "NOS Voetbal",
-      "link": "https://nos.nl/l/2615465",
-      "datum": "2026-05-22T18:20:49+00:00",
-      "categorie": "algemeen",
-      "hot": true
-    },
-    {
-      "titel": "Luuk de Jong vertrekt na seizoen vol blessureleed bij FC Porto",
-      "samenvatting": "Luuk de Jong gaat na een jaar weer weg bij FC Porto. De 35-jarige spits lag in Portugal het grootste deel van het seizoen uit de roulatie door een knieblessure. Waar De Jong zijn carrière voortzet is niet bekend. Voor zijn jaar in Porto speelde de 39-voudig international van Oranje jarenlang bij ...",
-      "bron": "NOS Voetbal",
-      "link": "https://nos.nl/l/2615448",
-      "datum": "2026-05-22T15:18:46+00:00",
-      "categorie": "oranje",
-      "hot": false
-    },
-    {
-      "titel": "Luuk de Jong vertrekt al na jaar bij FC Porto en schept meteen duidelijkheid over mogelijke toekomst in Nederland",
-      "samenvatting": "Luuk de Jong (35) vertrekt na een jaar alweer bij FC Porto. De momenteel geblesseerde spits kon zijn aflopende contract verlengen, maar kiest daar midden in de revalidatie van een kruisbandblessure niet voor. „Het voelt nu niet gepast”, zegt hij. „In augustus wil ik kijken hoe de knie voelt en wa...",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/luuk-de-jong-vertrekt-al-na-jaar-bij-fc-porto-en-schept-meteen-duidelijkheid-over-mogelijke-toekomst-in-nederland~a2852ce7/",
-      "datum": "2026-05-22T15:00:00+00:00",
-      "categorie": "oranje",
-      "hot": false
-    },
-    {
-      "titel": "Wie Pep Guardiola niet volgde, kreeg snel de rekening: ‘Je staat achter me of je bent tegen me’",
-      "samenvatting": "Trainer Pep Guardiola heeft Manchester City tien jaar lang meegezogen in zijn maniakale drang naar perfectie. Nu stopt hij. „Ik ben geen genie, maar werk gewoon harder dan iedereen.”",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/wie-pep-guardiola-niet-volgde-kreeg-snel-de-rekening-je-staat-achter-me-of-je-bent-tegen-me~aceebd7a/",
-      "datum": "2026-05-22T13:52:00+00:00",
-      "categorie": "oranje",
-      "hot": false
-    },
-    {
-      "titel": "KNVB keurt overname Vitesse goed, belangrijke stap in toekomst Arnhemse club",
-      "samenvatting": "De licentiecommissie van de KNVB heeft de overname van Vitesse door de regionale investeerder 'De Sterkhouders' goedgekeurd. Daarmee lijken de problemen in Arnhem opgelost. 'De Sterkhouders' bestaat uit vijf Arnhemse ondernemers die al 24,9 procent van de aandelen in handen hadden. Zij nemen nu o...",
-      "bron": "NOS Voetbal",
-      "link": "https://nos.nl/l/2615429",
-      "datum": "2026-05-22T13:30:08+00:00",
-      "categorie": "oranje",
-      "hot": false
-    },
-    {
-      "titel": "Arne Slot verklaart waarom hij onvermoeibare Virgil van Dijk dit seizoen geen minuut kon missen",
-      "samenvatting": "Arne Slot heeft in aanloop naar het laatste competitieduel van het seizoen de fitheid van Virgil van Dijk geprezen. De 34-jarige verdediger van Liverpool is de enige veldspeler die dit seizoen elke minuut in de Premier League heeft gespeeld.",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/arne-slot-verklaart-waarom-hij-onvermoeibare-virgil-van-dijk-dit-seizoen-geen-minuut-kon-missen~ad8e6775/",
-      "datum": "2026-05-22T13:06:00+00:00",
-      "categorie": "oranje",
-      "hot": false
-    },
-    {
-      "titel": "Column Sjoerd Mossou | Als Koeman heel eerlijk is, weet hij het zelf natuurlijk ook wel: Wout Weghorst in Oranje, het kan niet meer",
-      "samenvatting": "In zijn rol als columnist hoopt Sjoerd Mossou van harte dat Wout Weghorst meegaat naar het WK – en onder bondscoach Ronald Koeman is die kans straks zeer groot. „Er is alleen wel één groot probleem.’’",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/column-sjoerd-mossou-als-koeman-heel-eerlijk-is-weet-hij-het-zelf-natuurlijk-ook-wel-wout-weghorst-in-oranje-het-kan-niet-meer~a9319bf8/",
-      "datum": "2026-05-22T11:50:00+00:00",
-      "categorie": "oranje",
-      "hot": false
-    },
-    {
-      "titel": "Winactie: laatste kans om Oranje in actie te zien voor de start van het WK 2026",
-      "samenvatting": "Het is de laatste kans om Oranje in actie te zien voordat de selectie afreist naar de Verenigde Staten voor het WK 2026. Hier maak je kans op tickets voor de uitzwaaiwedstrijd Nederland vs Algerije op 3 juni in de Kuip in Rotterdam.",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/wk-voetbal/winactie-laatste-kans-om-oranje-in-actie-te-zien-voor-de-start-van-het-wk-2026~aa85526d/",
-      "datum": "2026-05-22T04:00:00+00:00",
       "categorie": "oranje",
       "hot": true
     }
