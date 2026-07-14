@@ -1,33 +1,93 @@
 {
-  "laatste_update": "2026-07-13T08:18:17.458001+00:00",
-  "aantal_items": 19,
+  "laatste_update": "2026-07-14T07:11:01.536021+00:00",
+  "aantal_items": 20,
   "items": [
+    {
+      "titel": "Club Brugge verrast en geeft Sommer (37) contract tot zijn veertigste",
+      "samenvatting": "Yann Sommer is nog lang niet klaar. De 37-jarige Zwitser heeft zijn handtekening gezet onder een driejarig contract bij Club Brugge, een opvallend lange verbintenis voor een doelman van zijn leeftijd.",
+      "bron": "VI",
+      "link": "https://www.vi.nl/nieuws/club-brugge-verrast-en-geeft-sommer-37-contract-tot-zijn-veertigste",
+      "datum": "2026-07-14T06:47:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "VI Live: héérlijke halve finale van het WK tussen Frankrijk en Spanje op komst",
+      "samenvatting": "Tijdens het WK 2026 in Canada, Mexico en de Verenigde Staten volgt Voetbal International alle 104 duels in een eigen VI Live. In deze editie alle aandacht voor de halve finale tussen Frankrijk en Spanje. In aanloop naar en vanaf de aftrap om 21.00 uur blijf je volledig op de hoogte van dit duel.",
+      "bron": "VI",
+      "link": "https://www.vi.nl/nieuws/vi-live-heerlijke-halve-finale-van-het-wk-tussen-frankrijk-en-spanje-op-komst",
+      "datum": "2026-07-14T05:15:00+00:00",
+      "categorie": "algemeen",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Nieuw transferverbod voor Corinthians van Memphis na uitblijven betalingen",
+      "samenvatting": "Corinthians heeft voor de tweede keer in korte tijd een transferverbod opgelegd gekregen van de FIFA. De broodheer van Memphis Depay wordt daarmee gestraft voor het niet betalen van openstaande schulden.",
+      "bron": "VI",
+      "link": "https://www.vi.nl/nieuws/corinthians-na-uitblijven-betalingen-opnieuw-bestraft-met-transferverbod",
+      "datum": "2026-07-13T20:01:54+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Danny Makkelie na overlijden collega Rob Dieperink: ‘Niets anders lijkt nog belangrijk’",
+      "samenvatting": "Danny Makkelie noemt het overlijden van zijn collega Rob Dieperink “onwerkelijk en nauwelijks te bevatten”. De KNVB bevestigde maandag dat Dieperink op 38-jarige leeftijd is overleden.",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/danny-makkelie-na-overlijden-collega-rob-dieperink-niets-anders-lijkt-nog-belangrijk~a52fd58b/",
+      "datum": "2026-07-13T18:55:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "'Opheffen schorsing Balogun was zelfstandige beslissing van voorzitter FIFA-tuchtcommissie'",
+      "samenvatting": "De controversiële beslissing om de schorsing van de Amerikaanse spits Folarin Balogun op het WK voetbal terug te draaien, is door één persoon binnen de FIFA genomen. Voorzitter Mohammad Al-Kamali van de FIFA-tuchtcommissie handelde zelfstandig, de andere zeventien leden van de commissie zijn niet...",
+      "bron": "NOS Voetbal",
+      "link": "https://nos.nl/l/2622855",
+      "datum": "2026-07-13T14:00:01+00:00",
+      "categorie": "algemeen",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Dit zijn de ‘FIFA Legends’ die tijdens het WK constant om Gianni Infantino heen hangen",
+      "samenvatting": "Niet New York, maar het decadente en flamboyante Miami vormt het epicentrum van dit mega-WK. Wie de échte wereldsterren wil spotten, moet aan de kust van Zuid-Florida zijn. Hier spelen de zogeheten ‘FIFA Legends’ een cruciale rol in het politieke schaakspel van FIFA-baas Gianni Infantino.",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/wk-voetbal/dit-zijn-de-fifa-legends-die-tijdens-het-wk-constant-om-gianni-infantino-heen-hangen~a5b9748f/",
+      "datum": "2026-07-13T12:30:00+00:00",
+      "categorie": "algemeen",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Eredivisiescheidsrechter Rob Dieperink (38) overleden",
+      "samenvatting": "Eredivisiescheidsrechter Rob Dieperink is op 38-jarige leeftijd overleden. Dat bevestigt de KNVB aan de NOS. De doodsoorzaak is niet bekendgemaakt. Dieperink maakte al op jonge leeftijd zijn debuut in het betaald voetbal. In 2012 leidde hij zijn eerste wedstrijd in de eerste divisie (Telstar-Go A...",
+      "bron": "NOS Voetbal",
+      "link": "https://nos.nl/l/2622849",
+      "datum": "2026-07-13T12:24:41+00:00",
+      "categorie": "oranje",
+      "hot": true,
+      "is_social": false
+    },
+    {
+      "titel": "Nieuw detail in Balogun-gate: deze man uit de FIFA-commissie besloot in zijn eentje de schorsing op te heffen",
+      "samenvatting": "De beslissing om de rode kaart van VS-spits Folarin Balogun terug te draaien, werd uitsluitend genomen door de voorzitter van de tuchtcommissie van de FIFA. Dat meldt de Britse krant Sunday Times. De andere leden van de 18-koppige commissie werden niet geraadpleegd.",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/wk-voetbal/nieuw-detail-in-balogun-gate-deze-man-uit-de-fifa-commissie-besloot-in-zijn-eentje-de-schorsing-op-te-heffen~a7695439/",
+      "datum": "2026-07-13T09:21:00+00:00",
+      "categorie": "algemeen",
+      "hot": false,
+      "is_social": false
+    },
     {
       "titel": "Makkelie klaar op WK, FIFA kiest vanaf halve finales voor andere scheidsrechters",
       "samenvatting": "Het WK-avontuur zit erop voor scheidsrechter Danny Makkelie en zijn assistenten Hessel Steegstra en Jan de Vries. De oud-politieman was samen met zijn team de enige Nederlandse delegatie die op het mondiale voetbaltoernooi actief was. De 43-jarige arbiter kan dus fluiten naar de finales van het t...",
       "bron": "NOS Voetbal",
       "link": "https://nos.nl/l/2622821",
       "datum": "2026-07-13T07:25:08+00:00",
-      "categorie": "algemeen",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "'Slechts één FIFA-lid was betrokken bij opheffen schorsing Balogun'",
-      "samenvatting": "De veelbesproken beslissing om de schorsing van Folarin Balgun op te heffen, is door slechts één persoon genomen. Dat blijkt uit een onthulling van The Times . Het is opnieuw een pijnlijke onthulling voor de FIFA, dat de schijn al tegen had.",
-      "bron": "VI",
-      "link": "https://www.vi.nl/nieuws/opvallende-onthulling-over-opheffen-schorsing-balogun-helpt-fifa-niet",
-      "datum": "2026-07-13T07:18:23+00:00",
-      "categorie": "algemeen",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "WK ten einde voor Makkelie, Higler blijft wel in VS als VAR",
-      "samenvatting": "Het WK zit erop voor Danny Makkelie en zijn assistenten Hessel Steegstra en Jan de Vries. De 43-jarige Nederlandse toparbiter zit niet bij de laatste groep scheidsrechters die de FIFA heeft geselecteerd voor de eindfase van het toernooi.",
-      "bron": "VI",
-      "link": "https://www.vi.nl/nieuws/wk-ten-einde-voor-makkelie-higler-blijft-wel-in-vs-als-var",
-      "datum": "2026-07-13T06:34:00+00:00",
       "categorie": "algemeen",
       "hot": false,
       "is_social": false
@@ -57,7 +117,7 @@
       "samenvatting": "AD Sportwereld-columnist Sjoerd Mossou beschrijft de fascinerende anticlimax na een uitschakeling op een groot toernooi. „Van het ene op het andere moment voelt alles als verspilde moeite.’’",
       "bron": "AD Voetbal",
       "link": "https://www.ad.nl/voetbal/column-sjoerd-mossou-we-tellen-totaal-niet-meer-mee-oranje-is-hier-volstrekt-irrelevant-geworden~a15f355d/",
-      "datum": "2026-07-13T05:03:58+00:00",
+      "datum": "2026-07-13T05:03:00+00:00",
       "categorie": "oranje",
       "hot": false,
       "is_social": false
@@ -67,18 +127,8 @@
       "samenvatting": "De laatste week van het WK is aangebroken. Al 100 wedstrijden gehad, nog maar vier te gaan. Afgelopen nacht werd er niet gevoetbald, maar net als de afgelopen vier weken praten we je in de ochtend even bij.",
       "bron": "AD Voetbal",
       "link": "https://www.ad.nl/wk-voetbal/erling-haaland-gaat-los-in-miami-en-oranje-spelers-vieren-vakantie-dit-gebeurde-er-op-het-wk-terwijl-jij-sliep~a44afbc7/",
-      "datum": "2026-07-13T04:01:04+00:00",
+      "datum": "2026-07-13T04:01:00+00:00",
       "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Voetbalpodcast | ‘We hebben alle technologie en nog worden dit soort fouten gemaakt’",
-      "samenvatting": "De twee halve finales op het WK voetbal zijn bekend. De afgelopen dagen speelden Frankrijk, Spanje, Argentinië en Engeland zich bij de laatste vier.",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/voetbalpodcast-we-hebben-alle-technologie-en-nog-worden-dit-soort-fouten-gemaakt~a42af5cd9/",
-      "datum": "2026-07-12T23:13:00+00:00",
-      "categorie": "algemeen",
       "hot": false,
       "is_social": false
     },
@@ -149,46 +199,6 @@
       "link": "https://www.ad.nl/wk-voetbal/noorwegen-voelt-zich-bestolen-na-curieus-moment-met-spidercam-fifa-ontkent-contact-met-bal~a30e7c41/",
       "datum": "2026-07-12T00:55:00+00:00",
       "categorie": "algemeen",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "FIFA-baas Gianni Infantino overweegt uitbreiding naar 64 landen: ‘De hele wereld moet kunnen dromen van het WK’",
-      "samenvatting": "Gianni Infantino kan zich een verdere uitbreiding van het WK voetbal naar 64 landen goed voorstellen. De FIFA-voorzitter zegt dat het idee na dit toernooi ‘zeker overwogen moet worden’.",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/wk-voetbal/fifa-baas-gianni-infantino-overweegt-uitbreiding-naar-64-landen-de-hele-wereld-moet-kunnen-dromen-van-het-wk~a379005b/",
-      "datum": "2026-07-11T18:01:00+00:00",
-      "categorie": "algemeen",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Sven Mijnans debuteert bij PSV in nuttige oefenzege op Poolse club, neef van Cody Gakpo scoort",
-      "samenvatting": "De spelers van PSV hebben weer wat waardevolle minuten in de benen richting de start van het seizoen. Het Poolse Raków Czestochowa werd – na twee helften van een uur – uiteindelijk terecht verslagen: 3-2. Sven Mijnans maakte zijn eerste minuten en jongeling Gino Verhulst zorgde voor opwinding.",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/sven-mijnans-debuteert-bij-psv-in-nuttige-oefenzege-op-poolse-club-neef-van-cody-gakpo-scoort~a9e0b790/",
-      "datum": "2026-07-11T12:00:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Oranje liep het minst, Kane golfde met Trump en deze Noor roeit niet mee: dit gebeurde op het WK terwijl jij sliep",
-      "samenvatting": "De eerste halve finale op het WK is bekend: Frankrijk - Spanje. Vanavond en komende nacht zijn de volgende kwartfinales. Dit gebeurde er nog meer op het WK terwijl jij sliep.",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/wk-voetbal/oranje-liep-het-minst-kane-golfde-met-trump-en-deze-noor-roeit-niet-mee-dit-gebeurde-op-het-wk-terwijl-jij-sliep~a0942ed6/",
-      "datum": "2026-07-11T05:30:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Fout invalkeeper Lammens wordt België fataal: Spanje naar halve finale tegen Frankrijk",
-      "samenvatting": "Spanje heeft zich door een 2-1 zege op België geplaatst voor de halve finales van het WK. De wedstrijd in Los Angeles ging lang gelijk op, maar werd kort voor tijd in Spaans voordeel beslist door Mikel Merino, die een grote fout van invalkeeper Senne Lammens afstrafte. Lammens moest in de tweede ...",
-      "bron": "NOS Voetbal",
-      "link": "https://nos.nl/l/2622552",
-      "datum": "2026-07-10T20:59:27+00:00",
-      "categorie": "oranje",
       "hot": false,
       "is_social": false
     }
