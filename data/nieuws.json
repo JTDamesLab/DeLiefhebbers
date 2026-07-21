@@ -1,64 +1,134 @@
 {
-  "laatste_update": "2026-07-20T08:07:02.715988+00:00",
-  "aantal_items": 17,
+  "laatste_update": "2026-07-21T07:33:15.402923+00:00",
+  "aantal_items": 18,
   "items": [
     {
-      "titel": "Argentijnse knokker misdroeg zich vier jaar geleden ook al tegen Oranje: ‘Een bom die elk moment kan exploderen’",
-      "samenvatting": "Leandro Paredes greep de hoofdrol na de WK-finale tussen Argentinië en Spanje, en precies op de manier die bij hem past: de stoppen sloegen door en hij mepte om zich heen. De middenvelder van Boca Juniors blijkt een veelpleger.",
+      "titel": "Spannende strijd: welke speler was volgens de VI-lezer de ster van het WK?",
+      "samenvatting": "Nu het WK 2026 erop zit, is het tijd om de balans op te maken. De FIFA verkoos Rodri tot beste speler van het toernooi, maar wij zijn vooral benieuwd wie volgens de VI-lezers de allerbeste was. De uitblinkende Lionel Messi, topscorer Kylian Mbappé, of toch gewoon Rodri?",
+      "bron": "VI",
+      "link": "https://www.vi.nl/nieuws/stembussen-geopend-welke-speler-was-volgens-de-vi-lezer-de-ster-van-het-wk",
+      "datum": "2026-07-21T07:20:00+00:00",
+      "categorie": "algemeen",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "'Paredes kreeg toch géén rood vanwege wangedrag na WK-finale'",
+      "samenvatting": "Leandro Paredes heeft in tegenstelling tot eerdere berichtgeving toch geen rode kaart gekregen in de nasleep van de WK-finale tussen Spanje en Argentinië. Dat hebben bronnen binnen de FIFA aan meerdere Engelse media laten weten.",
+      "bron": "VI",
+      "link": "https://www.vi.nl/nieuws/paredes-kreeg-toch-geen-rood-vanwege-wangedrag-na-wk-finale",
+      "datum": "2026-07-21T07:08:26+00:00",
+      "categorie": "algemeen",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "'Dat nu uitgerekend Wout en Theo over de grond rollen, doet pijn'",
+      "samenvatting": "Columnist Nico Dijkshoorn vindt de woorden van Theo Janssen over Wout Weghorst pijnlijk.",
+      "bron": "VI",
+      "link": "https://www.vi.nl/pro/dat-nu-uitgerekend-wout-en-theo-over-de-grond-rollen-doet-pijn",
+      "datum": "2026-07-21T05:00:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Slot, Bosz of toch een grote verrassing? Hoe komt de KNVB tot een nieuwe bondscoach?",
+      "samenvatting": "Nigel de Jong, technisch directeur van de KNVB, is druk met de zoektocht naar een opvolger Ronald Koeman. Maar hoe gaat dat eigenlijk in zijn werk, de invulling van de vacature van bondscoach? \"Met de start van de Nations League in september weten we dat er enige haast geboden is\", zei De Jong na...",
+      "bron": "NOS Voetbal",
+      "link": "https://nos.nl/l/2623822",
+      "datum": "2026-07-21T04:20:18+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "DJ Borja Iglesias steelt show, Spaanse spelers drijven spot met Paredes",
+      "samenvatting": "38 dagen en 104 wedstrijden lang volgde VI het WK in de Verenigde Staten, Canada en Mexico, met als afsluiter een nagelbijter van een finale tussen Spanje en Argentini ë . De wereldkampioen werd onttroond en Spanje won zijn tweede eindtoernooi op rij. Maandag werd de ploeg van Luis de la Fuente g...",
+      "bron": "VI",
+      "link": "https://www.vi.nl/nieuws/dj-borja-iglesias-steelt-show-spaanse-spelers-drijven-spot-met-paredes",
+      "datum": "2026-07-20T21:35:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "FIFA met supporters op zoek naar Doelpunt van het WK",
+      "samenvatting": "De FIFA heeft de stembussen geopend voor de zoektocht naar het mooiste doelpunt van het WK. Tussen de genomineerden staat geen Nederlandse treffer.",
+      "bron": "VI",
+      "link": "https://www.vi.nl/nieuws/fifa-met-supporters-op-zoek-naar-doelpunt-van-het-wk",
+      "datum": "2026-07-20T21:29:36+00:00",
+      "categorie": "algemeen",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Gakpo's emotionele doelpunt werd hét Oranje-moment van het WK",
+      "samenvatting": "Spanje is de nieuwe wereldkampioen. In de WK-finale werd titelhouder Argentinië na verlenging met 1-0 verslagen. In de laatste aflevering van Rondje WK blikken Pieter Zwart en Freek Jansen bij presentator Kalum van Oudheusden terug op het toernooi.",
+      "bron": "VI",
+      "link": "https://www.vi.nl/video/gakpo-s-emotionele-doelpunt-werd-het-oranje-moment-van-het-wk",
+      "datum": "2026-07-20T21:00:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "FIFA onderzoekt clash tussen Spaanse en Argentijnse spelers na WK-finale",
+      "samenvatting": "De confrontatie tussen Argentijnse en Spaanse spelers, na afloop van de WK-finale, krijgt - zoals verwacht kon worden - nog wel een staartje. De FIFA heeft maandagavond bevestigd dat er een onderzoek naar het gedrag van de spelers wordt gestart.",
+      "bron": "VI",
+      "link": "https://www.vi.nl/nieuws/fifa-onderzoekt-clash-tussen-spaanse-en-argentijnse-spelers-na-wk-finale",
+      "datum": "2026-07-20T20:03:00+00:00",
+      "categorie": "algemeen",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "FIFA gaat gebeurtenissen na WK-finale onderzoeken, maar noemt Paredes niet",
+      "samenvatting": "De FIFA heeft in een korte verklaring aangekondigd dat het een onderzoek instelt naar gebeurtenissen die plaatsvonden na de WK-finale tussen Spanje en Argentinië. Hoewel de FIFA niet zegt om welk incident het gaat, meldt persbureau AP dat het te maken heeft met een handgemeen waarin de Argentijn ...",
+      "bron": "NOS Voetbal",
+      "link": "https://nos.nl/l/2623808",
+      "datum": "2026-07-20T19:54:09+00:00",
+      "categorie": "algemeen",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Feyenoord verkoopt sterspeler voor recordbedrag aan Liverpool",
+      "samenvatting": "In dit blog volgen we alle ontwikkelingen in het vrouwenvoetbal. We besteden onder meer aandacht aan de Eurojackpot Vrouwen Eredivisie, de Europese toernooien en het Nederlands elftal.",
+      "bron": "VI",
+      "link": "https://www.vi.nl/nieuws/oranje-kent-datum-eerste-ronde-play-offs-wk-tegen-hongarije",
+      "datum": "2026-07-20T19:19:52+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Dit zijn de opmerkelijkste feiten en cijfers van het WK",
+      "samenvatting": "Na 38 dagen waarin 48 landen in totaal 104 wedstrijden speelden en Spanje met de beker naar huis ging, zit het grootste WK voetbal aller tijden erop. Ook dit WK was weer goed voor een boel records en opmerkelijke statistieken. We zetten er vijf op een rij. Doelpuntrijkste WK sinds 1970 Het toerno...",
+      "bron": "NOS Voetbal",
+      "link": "https://nos.nl/l/2623779",
+      "datum": "2026-07-20T15:59:44+00:00",
+      "categorie": "algemeen",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Wat blijft hangen van dit 23ste WK: Vozinha, Balogun en de prachtgoal van Lopes Cabral",
+      "samenvatting": "Het WK voetbal is na 40 dagen en 104 wedstrijden voorbij, met Spanje als wereldkampioen. Wat blijft na dit 23ste wereldkampioenschap voetbal hangen? Wat zijn de mooiste verhalen en wat was minder fraai? We vroegen het onze analytici Imke Courtois, Pierre van Hooijdonk en Kenneth Perez en voormali...",
+      "bron": "NOS Voetbal",
+      "link": "https://nos.nl/l/2623737",
+      "datum": "2026-07-20T10:34:24+00:00",
+      "categorie": "algemeen",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Oranje zakt na vroege uitschakeling op FIFA-ranglijst",
+      "samenvatting": "Het Nederlands elftal is na de vroege uitschakeling op het WK een plaats gezakt op de wereldranglijst van de FIFA. Oranje neemt nu de negende positie in, meldt de wereldvoetbalbond maandag.",
       "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/wk-voetbal/argentijnse-knokker-misdroeg-zich-vier-jaar-geleden-ook-al-tegen-oranje-een-bom-die-elk-moment-kan-exploderen~a41fa0ad/",
-      "datum": "2026-07-20T08:00:39+00:00",
+      "link": "https://www.ad.nl/wk-voetbal/oranje-zakt-na-vroege-uitschakeling-op-fifa-ranglijst~a80a2fcb/",
+      "datum": "2026-07-20T09:59:00+00:00",
       "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Amerikaanse president Trump pakt ongewilde hoofdrol bij WK-finale",
-      "samenvatting": "Niet alleen de WK-winst van Spanje , maar ook Donald Trump zorgde zondag voor veel gespreksstof rond de finale tegen Argentinië. De Amerikaanse president werd samen met FIFA-voorzitter Gianni Infantino uitgefloten door een deel van het publiek, zag Cristian Romero demonstratief zijn hand negeren ...",
-      "bron": "VI",
-      "link": "https://www.vi.nl/nieuws/amerikaanse-president-trump-pakt-ongewilde-hoofdrol-bij-wk-finale",
-      "datum": "2026-07-20T07:55:11+00:00",
-      "categorie": "algemeen",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Infantino sluit niet uit dat WK van 2030 nóg groter wordt",
-      "samenvatting": "Het WK zit erop en dus kan FIFA-president Gianni Infantino nadenken over de editie van 2030. Of daar nóg meer landen aan meedoen, houdt hij als optie open. Ook hield hij de optie open om drinkpauzes af te schaffen.",
-      "bron": "VI",
-      "link": "https://www.vi.nl/video/infantino-sluit-niet-uit-dat-wk-van-2030-nog-groter-wordt",
-      "datum": "2026-07-20T06:51:00+00:00",
-      "categorie": "algemeen",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "De la Fuente kreeg flashback naar WK-finale tegen Oranje",
-      "samenvatting": "Luis de la Fuente kreeg tijdens de van Argentinië gewonnen WK-finale van zondag een flashback naar 2010. De bondscoach van Spanje trok de vergelijking met de WK-finale tegen Nederland, toen Andrés Iniesta in de verlenging de winnende treffer maakte. Ditmaal nam Ferran Torres de winnende voor zijn...",
-      "bron": "VI",
-      "link": "https://www.vi.nl/video/de-la-fuente-kreeg-flashback-naar-wk-finale-tegen-oranje",
-      "datum": "2026-07-20T04:17:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "VI Live: wereldkampioen Spanje stond niet één seconde op achterstand",
-      "samenvatting": "38 dagen en 104 wedstrijden lang volgde VI het WK in de Verenigde Staten, Canada en Mexico, met als afsluiter een nagelbijter van een finale tussen Spanje en Argentini ë . De wereldkampioen werd onttroond en Spanje won zijn tweede eindtoernooi op rij. Volg alle nasleep van de finale in deze VI Li...",
-      "bron": "VI",
-      "link": "https://www.vi.nl/nieuws/vi-live-ferran-torres-schiet-spanje-op-de-rand-van-de-wereldtitel",
-      "datum": "2026-07-19T23:45:17+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "WK is meest doelpuntrijk sinds 1970",
-      "samenvatting": "Het WK 2026 is relatief gezien de doelpuntrijkste mondiale eindronde sinds 1970. Destijds vielen er gemiddeld 2,97 goals per wedstrijd, nu 2,96.",
-      "bron": "VI",
-      "link": "https://www.vi.nl/nieuws/wk-is-meest-doelpuntrijk-sinds-1970",
-      "datum": "2026-07-19T23:31:59+00:00",
-      "categorie": "algemeen",
       "hot": false,
       "is_social": false
     },
@@ -93,7 +163,7 @@
       "is_social": false
     },
     {
-      "titel": "'Ik vond het waardeloos': FIFA overtreedt eigen regels met historisch lange rust in WK-finale",
+      "titel": "‘Ik vond het waardeloos’: FIFA overtreedt eigen regels met historisch lange rust in WK-finale",
       "samenvatting": "Voor het eerst is er een halftime-show tijdens het WK voetbal. Aanvankelijk zou de show met artiesten als Shakira, Madonna en Justin Bieber maar liefst een halfuur duren. De show werd flink ingekort, maar toch overtreedt de FIFA haar eigen regels. De finale werd na verlenging gewonnen door Spanje...",
       "bron": "AD Voetbal",
       "link": "https://www.ad.nl/wk-voetbal/ik-vond-het-waardeloos-fifa-overtreedt-eigen-regels-met-historisch-lange-rust-in-wk-finale~ae5c1c048/",
@@ -108,66 +178,6 @@
       "bron": "NOS Voetbal",
       "link": "https://nos.nl/l/2623622",
       "datum": "2026-07-19T12:38:21+00:00",
-      "categorie": "algemeen",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Mbappé had Deschamps beter afscheid gegund, noodweer zit Spanje dwars: dit gebeurde er terwijl jij sliep",
-      "samenvatting": "De voorlaatste wedstrijd van het WK 2026 werd een prachtig spektakelstuk. Engeland pakte voor het eerst het brons door Frankrijk met 6-4 te verslaan in de troostfinale in Miami. Een heerlijke opwarmer voor het slotstuk van dit WK: de finale tussen Argentinië en Spanje, vanavond om 21.00 uur in Ne...",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/wk-voetbal/mbappe-had-deschamps-beter-afscheid-gegund-noodweer-zit-spanje-dwars-dit-gebeurde-er-terwijl-jij-sliep~af44dc9f/",
-      "datum": "2026-07-19T05:00:00+00:00",
-      "categorie": "algemeen",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Afsluitende training Spanje afgelast door onweer, maar 'WK-finale niet in gevaar'",
-      "samenvatting": "Spanje heeft de laatste training voor de WK-finale, morgenavond om 21.00 uur, moeten afgelasten. Het onweerde zo hevig boven het trainingscomplex van de Zuid-Europeanen dat de ploeg überhaupt niet op het trainingsveld is verschenen. Volgens de FIFA traint Spanje ook niet later op de dag. Argentin...",
-      "bron": "NOS Voetbal",
-      "link": "https://nos.nl/l/2623538",
-      "datum": "2026-07-18T17:41:11+00:00",
-      "categorie": "algemeen",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Meester De la Fuente en pupil Scaloni treffen elkaar na negen jaar in een WK-finale",
-      "samenvatting": "Geen beleefd handje, maar een uitgebreide knuffel. Bij de persconferentie van de FIFA van vannacht bleek duidelijk dat de bondscoaches van Spanje en Argentinië een verleden hebben. Luis de la Fuente (Spanje) en Lionel Scaloni (Argentinië) waren negen jaar geleden nog meester en pupil. En zondag s...",
-      "bron": "NOS Voetbal",
-      "link": "https://nos.nl/l/2623507",
-      "datum": "2026-07-18T14:36:24+00:00",
-      "categorie": "algemeen",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Rentree Van Bommel en goal Mijnans bij oefenzege PSV, Weghorst scoort bij Twente-debuut",
-      "samenvatting": "PSV heeft zeven keer weten te scoren in een zeer lange oefenwedstrijd tegen Union Sint-Gilles. Het duel was een wedstrijd over tweemaal 75 minuten, met 'kwarten' verdeeld in 45 en 30 minuten. Na 150 minuten stond er een eindstand van 7-3 op het bord. Ook Ajax won van een aansprekende tegenstander...",
-      "bron": "NOS Voetbal",
-      "link": "https://nos.nl/l/2623503",
-      "datum": "2026-07-18T14:19:28+00:00",
-      "categorie": "oranje",
-      "hot": true,
-      "is_social": false
-    },
-    {
-      "titel": "Infantino’s marketingmachine draaide op volle toeren, ‘maar belletje Trump blijft kleven'",
-      "samenvatting": "\"Welk cijfer ik Infantino zou geven voor dit WK?\" Bert van Oostveen, oud-directeur betaald voetbal van de KNVB, zucht hoorbaar door de telefoon. Hij neemt zijn tijd voor een antwoord en begint positief. \"Hij valt natuurlijk om een paar dingen op. Hij is vrij zichtbaar op de tribunes. Dat is goed....",
-      "bron": "NOS Voetbal",
-      "link": "https://nos.nl/l/2623489",
-      "datum": "2026-07-18T12:00:37+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Trump en Infantino vol lof over elkaar en WK: 'Ongelooflijk succes'",
-      "samenvatting": "In aanloop naar de grote finale van het WK voetbal hebben de Amerikaanse president Donald Trump en FIFA-voorzitter Gianni Infantino zich vol enthousiasme uitgesproken over het verloop van het toernooi. Bij een gezamenlijke persconferentie spraken Trump en Infantino al over een volgende editie in ...",
-      "bron": "NOS Voetbal",
-      "link": "https://nos.nl/l/2623469",
-      "datum": "2026-07-18T09:39:18+00:00",
       "categorie": "algemeen",
       "hot": false,
       "is_social": false
