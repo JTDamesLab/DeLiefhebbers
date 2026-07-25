@@ -1,33 +1,93 @@
 {
-  "laatste_update": "2026-07-24T07:33:05.454790+00:00",
-  "aantal_items": 15,
+  "laatste_update": "2026-07-25T07:19:38.502639+00:00",
+  "aantal_items": 16,
   "items": [
     {
+      "titel": "Joey Veerman over Oranje, zijn transfer­wens en de timing van die pikante adverten­tie: ‘Dat is misgegaan’",
+      "samenvatting": "„Heb je geen spijkerbroek aangetrokken?”, grapt een journalist naar Joey Veerman, als hij zich vlak voor een lang interview in een van de stoelen van het spelershotel van PSV nestelt. De middenvelder van PSV kan het gebbetje tijdens het trainingskamp van zijn club in Duitsland wel waarderen. Hoe ...",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/joey-veerman-over-oranje-zijn-transferwens-en-de-timing-van-die-pikante-advertentie-dat-is-misgegaan~ad2f91e7/",
+      "datum": "2026-07-25T01:00:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "'Chelsea kaapt succesvolle Schotse specialist weg bij Aston Villa'",
+      "samenvatting": "Vijf jaar lang was Austin MacPhee het brein achter de standaardsituaties van Aston Villa, maar de specialist staat op het punt om The Villans te verlaten. Chelsea gaat namelijk de afkoopclausle van 46-jarige Schot lichten. Dat nieuws bracht onder meer The Athletic naar buiten.",
+      "bron": "VI",
+      "link": "https://www.vi.nl/nieuws/chelsea-kaapt-succesvolle-schotse-specialist-weg-bij-aston-villa",
+      "datum": "2026-07-24T21:50:23+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "WK-uitblinker Summerville verkast van West Ham naar Al-Hilal in Saudi-Arabië",
+      "samenvatting": "Crysencio Summerville verruilt het gedegradeerde West Ham United voor Al-Hilal. De topclub uit Saudi-Arabië betaalt naar verluidt zeventig miljoen euro voor de 24-jarige buitenspeler van het Nederlands elftal. Met die transfersom troefden de Saudi's het eveneens zeer geïnteresseerde AS Roma af in...",
+      "bron": "NOS Voetbal",
+      "link": "https://nos.nl/l/2624336",
+      "datum": "2026-07-24T19:06:12+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Lammers laat met hattrick zien geduchte concurrent Weghorst te zijn",
+      "samenvatting": "Na de teleurstellende seizoensopening van FC Twente tegen Ferencváros stond er een dag later alweer een oefenwedstrijd op het programma. Sam Lammers stal de show met een hattrick en liet zien dat er komend seizoen serieus rekening met hem gehouden moet worden.",
+      "bron": "VI",
+      "link": "https://www.vi.nl/nieuws/lammers-laat-met-hattrick-zien-geduchte-concurrent-weghorst-te-zijn",
+      "datum": "2026-07-24T18:56:34+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Hoe PSV winnaarsmentaliteit en honger zoekt",
+      "samenvatting": "Hoe houd je een groep hongerig waarvan een deel van de kern al drie keer op rij kampioen is geworden? Met die vraag volgden wij het spoor van PSV, dat een week lang in het Duitse Marienfeld bivakkeerde ter voorbereiding op de jacht op een vierde titel. ‘Als de bal straks gaat rollen, zijn er geen...",
+      "bron": "VI",
+      "link": "https://www.vi.nl/pro/psv-op-kamp-hoe-tom-brady-wordt-ingezet-om-mentaliteit-te-kweken",
+      "datum": "2026-07-24T17:00:20+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Van Bommel tekent tot en met EK 2028 als bondscoach van België",
+      "samenvatting": "Mark van Bommel wordt de nieuwe bondscoach van België. De 49-jarige oud-international van het Nederlands elftal tekent een contract voor twee jaar. Hij volgt de Fransman Rudi Garcia op en moet de Rode Duivels naar het EK van 2028 leiden. Boudewijn Zenden, Maarten Martens en Reinier Robbemond gaan...",
+      "bron": "NOS Voetbal",
+      "link": "https://nos.nl/l/2624279",
+      "datum": "2026-07-24T12:33:52+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Australische WK-ganger test positief op cocaïne na twee aanhoudingen op één avond",
+      "samenvatting": "Cristian Volpato, aanvaller van de Italiaanse club Sassuolo, is positief getest op cocaïne. De speler kwam drie weken geleden nog uit op het WK voetbal namens Australië.",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/wk-voetbal/australische-wk-ganger-test-positief-op-cocaine-na-twee-aanhoudingen-op-een-avond~a0e9def2/",
+      "datum": "2026-07-24T09:08:44+00:00",
+      "categorie": "algemeen",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Duitsland presenteert Klopp als nieuwe bondscoach, hij debuteert tegen Oranje",
+      "samenvatting": "Jürgen Klopp is gepresenteerd als de nieuwe bondscoach van Duitsland. Hij tekent een contract tot en met het WK van 2030. De 59-jarige trainer moet 'die Mannschaft' uit het slop trekken na een teleurstellend WK. \"Bijna niets kan ons Duitsers zo samenbrengen als het nationale team. Dat is precies ...",
+      "bron": "NOS Voetbal",
+      "link": "https://nos.nl/l/2624238",
+      "datum": "2026-07-24T09:01:22+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
       "titel": "Hoe komt België bij 'mensenmens' Van Bommel uit? 'Hij is nog net geen god in Antwerpen'",
-      "samenvatting": "Mark van Bommel wordt hoogstwaarschijnlijk de bondscoach van België, als opvolger van Rudi Garcia. Hoe komen de Belgen uit bij de trainer, die amper genoemd werd als optie voor het Nederlands elftal? En wat hopen ze in Van Bommel te vinden? Hoewel het contract officieel nog getekend moet worden e...",
+      "samenvatting": "Hoe komen de Belgen uit bij Mark van Bommel, die amper genoemd werd als optie voor het Nederlands elftal? En wat hopen ze in Van Bommel als bondscoach te vinden? Van Bommel krijgt tot en met het EK van 2028 de leiding bij de 'Rode Duivels'. Dat is minder verrassend dan het lijkt. De trainer heeft...",
       "bron": "NOS Voetbal",
       "link": "https://nos.nl/l/2624222",
       "datum": "2026-07-24T06:10:27+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Valse start voor FC Twente met perspectief? 'Alle ballen op Weghorst'",
-      "samenvatting": "FC Twente begon met veel vertrouwen aan de wedstrijd tegen het Hongaarse Ferencváros. Het creëerde kansen, kreeg bij tijd en wijlen het publiek op de banken, maar moest uiteindelijk het onderspit delven. Na de 1-2 nederlaag in De Grolsch Veste blikken Sander Janssen en Kalum van Oudheusden in Ron...",
-      "bron": "VI",
-      "link": "https://www.vi.nl/pro/valse-start-voor-fc-twente-met-perspectief-alle-ballen-op-weghorst",
-      "datum": "2026-07-24T05:21:16+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Weghorst ontroerd na FC Twente-debuut, maar ziet genoeg aanknopingspunten",
-      "samenvatting": "Wout Weghorst beleefde een teleurstellend debuut in het shirt van FC Twente. De van Ajax overgekomen spits kijkt terug op een warm welkom bij de Tukkers en weet dat het veel beter moet, maar ziet ook aanknopingspunten na de nederlaag tegen Ferencváros .",
-      "bron": "VI",
-      "link": "https://www.vi.nl/nieuws/weghorst-ontroerd-na-fc-twente-debuut-maar-ziet-genoeg-aanknopingspunten",
-      "datum": "2026-07-23T20:19:44+00:00",
       "categorie": "oranje",
       "hot": false,
       "is_social": false
@@ -98,56 +158,6 @@
       "bron": "AD Voetbal",
       "link": "https://www.ad.nl/voetbal/memphis-depay-keert-terug-bij-corinthians-maar-heeft-na-volgende-week-geen-contract-meer~adbdeb2d/",
       "datum": "2026-07-22T16:45:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Aanwinsten Wout Weghorst en Ramiz Zerrouki meteen in basis bij Europese clash FC Twente: ‘Daar is geen discussie over’",
-      "samenvatting": "Een dag voor de Europese wedstrijd tegen Ferencváros was trainer John van den Brom duidelijk: Wout Weghorst en Ramiz Zerrouki staan donderdagavond in de basis. „Daar is geen discussie over”, aldus Van den Brom.",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/aanwinsten-wout-weghorst-en-ramiz-zerrouki-meteen-in-basis-bij-europese-clash-fc-twente-daar-is-geen-discussie-over~af105e6e/",
-      "datum": "2026-07-22T13:27:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Weghorst in basis FC Twente bij eerste Europese wedstrijd, Baas en Mokio fit bij Ajax",
-      "samenvatting": "Wout Weghorst begint donderdagavond direct in de basis bij FC Twente in het duel met Ferencváros in de tweede voorronde van de Europa League. Het wordt voor de Tukker zijn debuut namens de club. Weghorst kwam deze zomer over van Ajax. Nadat hij met het Nederlands elftal op het WK had gespeeld, sl...",
-      "bron": "NOS Voetbal",
-      "link": "https://nos.nl/l/2624006",
-      "datum": "2026-07-22T12:51:25+00:00",
-      "categorie": "oranje",
-      "hot": true,
-      "is_social": false
-    },
-    {
-      "titel": "WK is net voorbij, maar voetbaltrein dendert door: eredivisieclubs snel in actie",
-      "samenvatting": "Het WK voetbal is net afgelopen, maar rustig bijkomen zit er niet in. De voetbaltrein dendert in volle vaart door. Het Europese voetbal, de eredivisie en de eerste divisie staan in de startblokken. Wat staat ons de komende tijd allemaal te wachten? Volgende week al Johan Cruijff Schaal Het Nederl...",
-      "bron": "NOS Voetbal",
-      "link": "https://nos.nl/l/2623877",
-      "datum": "2026-07-21T13:43:01+00:00",
-      "categorie": "algemeen",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Huldiging WK-finalisten geweest, controverses rond WK 2026 blijven hangen",
-      "samenvatting": "Nog voordat de laatste confetti was neergedaald, werd duidelijk dat de discussies rond het WK nog niet waren verstomd. UEFA-voorzitter Aleksander Ceferin liet de finale aan zich voorbijgaan vanwege meningsverschillen met de FIFA over tuchtprocedures, de logistiek rond de arbitrage en de organisat...",
-      "bron": "NOS Voetbal",
-      "link": "https://nos.nl/l/2623876",
-      "datum": "2026-07-21T13:34:40+00:00",
-      "categorie": "algemeen",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Slot, Bosz of toch een grote verrassing? Hoe komt de KNVB tot een nieuwe bondscoach?",
-      "samenvatting": "Nigel de Jong, technisch directeur van de KNVB, is druk met de zoektocht naar een opvolger Ronald Koeman. Maar hoe gaat dat eigenlijk in zijn werk, de invulling van de vacature van bondscoach? \"Met de start van de Nations League in september weten we dat er enige haast geboden is\", zei De Jong na...",
-      "bron": "NOS Voetbal",
-      "link": "https://nos.nl/l/2623822",
-      "datum": "2026-07-21T04:20:18+00:00",
       "categorie": "oranje",
       "hot": false,
       "is_social": false
