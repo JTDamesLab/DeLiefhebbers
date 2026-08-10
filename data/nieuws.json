@@ -1,23 +1,113 @@
 {
-  "laatste_update": "2026-08-09T05:47:56.647729+00:00",
-  "aantal_items": 10,
+  "laatste_update": "2026-08-10T06:10:50.310275+00:00",
+  "aantal_items": 14,
   "items": [
     {
-      "titel": "Steijn vastberaden na bewogen eerste jaar bij Feyenoord: 'Ik heb geen twijfel'",
-      "samenvatting": "Sem Steijn beleefde een debuutseizoen bij Feyenoord met grote uitersten. De middenvelder werd direct tot aanvoerder benoemd, debuteerde in het Nederlands elftal, maar raakte na de winterstop zowel zijn basisplaats als de band kwijt. Aan zijn vertrouwen heeft dat niets veranderd.",
+      "titel": "'Geen enkel argument om Reiziger bondscoach van Oranje te maken'",
+      "samenvatting": "Michael Reiziger ligt op pole position om bondscoach van Oranje te worden, maar Willem van Hanegem heeft daar geen begrip voor. In zijn wekelijkse column voor het Algemeen Dagblad uitte hij kritiek op de KNVB.",
       "bron": "VI",
-      "link": "https://www.vi.nl/nieuws/steijn-vastberaden-na-bewogen-eerste-jaar-bij-feyenoord-ik-heb-geen-twijfel",
-      "datum": "2026-08-09T04:30:00+00:00",
+      "link": "https://www.vi.nl/nieuws/geen-enkel-argument-om-reiziger-bondscoach-van-oranje-te-maken",
+      "datum": "2026-08-10T05:59:00+00:00",
       "categorie": "oranje",
-      "hot": true,
+      "hot": false,
       "is_social": false
     },
     {
-      "titel": "Strijdlustige FIFA slaat terug en komt op voor Infantino",
-      "samenvatting": "De FIFA heeft in een lang statement fel gereageerd op criticasters van preses Gianni Infantino. De bond kondigt aan onjuiste of misleidende berichtgeving krachtig aan te vechten.",
+      "titel": "Gakpo was 'onmisbaar' bij Liverpool, Van Dijk gaf 'roekeloze penalty' weg",
+      "samenvatting": "Liverpool wist tegen AS Monaco geen goed resultaat uit het vuur te slepen, maar de Nederlanders werden in de Engelse pers over het algemeen wel positief beoordeeld.",
       "bron": "VI",
-      "link": "https://www.vi.nl/nieuws/strijdlustige-fifa-slaat-terug-en-komt-op-voor-infantino",
-      "datum": "2026-08-08T21:44:56+00:00",
+      "link": "https://www.vi.nl/nieuws/liverpool-nederlanders-scoren-voldoende-gakpo-was-onmisbaar",
+      "datum": "2026-08-10T05:43:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Column Willem van Hanegem | Er is geen enkel argument te verzinnen om Michael Reiziger nu bondscoach te maken",
+      "samenvatting": "Columnist Willem van Hanegem is na de eerste speelronde nog niet onder de indruk van de topclubs. Ook schrijft hij over het bondscoachschap van Oranje. „Teruggrijpen op Louis van Gaal is armoedig voor een voetballand als Nederland.’’",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/column-willem-van-hanegem-er-is-geen-enkel-argument-te-verzinnen-om-michael-reiziger-nu-bondscoach-te-maken~a5c38be8/",
+      "datum": "2026-08-10T05:00:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Arteta bespreekt herstel Timber: 'Zijn vooruitgang is uitstekend'",
+      "samenvatting": "Mikel Arteta heeft zondagavond een korte update gegeven over het herstel van zijn speler Jurriën Timber. De verdediger zal voorlopig nog niet voetballen, maar is volgens de manager van Arsenal wel op de goede weg.",
+      "bron": "VI",
+      "link": "https://www.vi.nl/nieuws/arteta-bespreekt-herstel-timber-zijn-vooruitgang-is-uitstekend",
+      "datum": "2026-08-09T19:59:27+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Oud-Feyenoorders pakken vrolijk door bij Marseille",
+      "samenvatting": "Olympique Marseille heeft zondagavond in een oefenwedstrijd afgerekend met Athletic Bilbao. De Fransen waren met 3-1 te sterk. Niet voor het eerst in deze voorbereiding lieten voormalig Feyenoorders Igor Paixão en Quinten Timber zich zien.",
+      "bron": "VI",
+      "link": "https://www.vi.nl/nieuws/oud-feyenoorders-pakken-door-bij-marseille",
+      "datum": "2026-08-09T19:31:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Liverpool-aanwinst maakt indruk, maar kan dit seizoen helemaal geen duels spelen",
+      "samenvatting": "Ifeanyi Ndukwe heeft zondag andermaal indruk gemaakt bij Liverpool. De jonge centrale verdediger kwam deze zomer over van Austria Wien en hield zich tegen AS Monaco goed staande naast Virgil van Dijk. Eén probleem: Ndukwe kan dit seizoen geen officiële duels spelen voor Liverpool.",
+      "bron": "VI",
+      "link": "https://www.vi.nl/nieuws/liverpool-aanwinst-maakt-indruk-maar-kan-dit-seizoen-helemaal-geen-duels-spelen",
+      "datum": "2026-08-09T18:24:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Samenvatting: Weghorst krijgt nog dé kans om zege Heerenveen te voorkomen",
+      "samenvatting": "SC Heerenveen won zondag van FC Twente . De ploeg van Robin Veldman had aan een doelpunt van Luca Oyen genoeg voor de drie punten. Al kreeg Wout Weghorst op het einde nog een goede kans om een punt uit het vuur te slepen.",
+      "bron": "VI",
+      "link": "https://www.vi.nl/video/samenvatting-weghorst-krijgt-nog-de-kans-om-zege-heerenveen-te-voorkomen",
+      "datum": "2026-08-09T18:00:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Heerenveen tegen 'zes meter spits' van Twente: 'Hels karwei'",
+      "samenvatting": "Robin Veldman telt zijn zegeningen na de overwinning van SC Heerenveen in de eerste speelronde tegen FC Twente. De trainer zag dat lang nog niet alles goed ging bij de Friezen, maar was er trots op dat zijn ploeg de drie punten over de streep trok.",
+      "bron": "VI",
+      "link": "https://www.vi.nl/nieuws/heerenveen-tegen-zes-meter-spits-van-twente-hels-karwei",
+      "datum": "2026-08-09T17:45:19+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Ajax begint eredivisie met moeizame zege op tiental PEC Zwolle, donkerrode kaart na keiharde tackle",
+      "samenvatting": "Ajax is het eredivisieseizoen 2026/2027 begonnen met een moeizame zege. De ploeg van trainer Míchel Sánchez speelde een uur lang weinig klaar, maar dwong, dankzij een domme rode kaart van PEC Zwolle en een behoorlijke kwaliteitsimpuls vanaf de bank, toch de eerste overwinning af: 2-0.",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/ajax-begint-eredivisie-met-moeizame-zege-op-tiental-pec-zwolle-donkerrode-kaart-na-keiharde-tackle~a10c2b64/",
+      "datum": "2026-08-09T14:31:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Feyenoord wint na onnodig spannende slotfase nipt van Sparta",
+      "samenvatting": "Feyenoord heeft na een goed optreden op Het Kasteel ternauwernood met 0-1 gewonnen. De ploeg van de na zeven jaar teruggekeerde trainer Giovanni van Bronckhorst was lang oppermachtig, maar verzuimde dat ook in de score uit te drukken. Tot diep in blessuretijd bleef het spannend. Sparta kreeg nog ...",
+      "bron": "NOS Voetbal",
+      "link": "https://nos.nl/l/2626131",
+      "datum": "2026-08-09T12:15:27+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Eredivisie-baas hoopt geen B-teams meer te zien in Europa: 'Kost ons 80 tot 120 miljoen'",
+      "samenvatting": "Eredivisie CV-directeur Jan de Jong is niet te spreken de keuzes die sommige Nederlandse clubs de afgelopen seizoenen maakten in Europa. Het Nederlandse voetbal raakte door matige prestaties de twee vaste Champions League-tickets kwijt.",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/eredivisie-baas-hoopt-geen-b-teams-meer-te-zien-in-europa-kost-ons-80-tot-120-miljoen~a1cfdcf95/",
+      "datum": "2026-08-09T09:31:00+00:00",
       "categorie": "oranje",
       "hot": false,
       "is_social": false
@@ -50,56 +140,6 @@
       "datum": "2026-08-07T11:10:16+00:00",
       "categorie": "oranje",
       "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Mark van Bommel sprak niet met KNVB over mogelijk bondscoachschap: ‘Ben blij dat België is gekomen’",
-      "samenvatting": "Mark van Bommel beschouwt het als „een eer” dat hij de nieuwe bondscoach van België is. Dat heeft de oud-international van Oranje gezegd bij zijn presentatie bij de Belgische voetbalbond. „Ik ben heel erg blij dat ik hier zit. Deze uitdaging past bij mij”, zei de 49-jarige Van Bommel.",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/mark-van-bommel-sprak-niet-met-knvb-over-mogelijk-bondscoachschap-ben-blij-dat-belgie-is-gekomen~a1093c06/",
-      "datum": "2026-08-07T10:44:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Constante kritiek voert druk op scheidsrechters op: 'Wie ben jij om mij de les te lezen?!'",
-      "samenvatting": "Niet alleen de eredivisieclubs, ook het scheidsrechterskorps van de KNVB bereidt zich voor op de eerste competitiewedstrijden van het nieuwe seizoen. Een heet hangijzer in die voorbereiding is de toenemende druk en de continue kritiek op scheidsrechters. \"Wie ben jij om mij de les te lezen?! Je h...",
-      "bron": "NOS Voetbal",
-      "link": "https://nos.nl/l/2625865",
-      "datum": "2026-08-07T10:07:49+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Joey Veerman krijgt lagere straf dan geëist: pleidooi van PSV treft doel",
-      "samenvatting": "Joey Veerman krijgt een lagere straf voor de overtreding die hem bij het duel tussen PSV en AZ (0-4) van afgelopen week een rode kaart opleverde. De zaak diende donderdagavond bij de tuchtcommissie van de KNVB in Zeist en PSV is vrijdag ingelicht over de straf die de middenvelder krijgt.",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/joey-veerman-krijgt-lagere-straf-dan-geeist-pleidooi-van-psv-treft-doel~a0ae8b67/",
-      "datum": "2026-08-07T08:15:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "PSV probeert in tuchtzaak schorsing voor Joey Veerman terug te dringen: ‘Het is geen karatetrap’",
-      "samenvatting": "Hoort Joey Veerman na zijn rode kaart bij PSV-AZ een behoorlijke straf te krijgen, kan het een tandje minder of hoeft hij helemaal geen wedstrijd meer te missen? De middenvelder van PSV krijgt vrijdag uitsluitsel van de tuchtcommissie van de KNVB, die moet bekijken hoe ongelukkig of ernstig gemee...",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/psv-probeert-in-tuchtzaak-schorsing-voor-joey-veerman-terug-te-dringen-het-is-geen-karatetrap~a1bf52c0/",
-      "datum": "2026-08-06T20:42:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Nachtmerrie PSV-aanvalster Kalma wordt werkelijkheid: 'Seizoen voorbij'",
-      "samenvatting": "PSV Vrouwen moet het komend seizoen zonder Fenna Kalma stellen. De 26-jarige spits en achtvoudig Oranje-international is donderdag ernstig geblesseerd geraakt in het Champions League-voorrondeduel met SFK 2000. \"De nachtmerrie van een topsporter is realiteit geworden. Ik was zo klaar voor het sei...",
-      "bron": "NOS Voetbal",
-      "link": "https://nos.nl/l/2625802",
-      "datum": "2026-08-06T18:01:53+00:00",
-      "categorie": "oranje",
-      "hot": true,
       "is_social": false
     }
   ]
