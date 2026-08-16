@@ -1,33 +1,53 @@
 {
-  "laatste_update": "2026-08-15T05:26:24.100231+00:00",
-  "aantal_items": 20,
+  "laatste_update": "2026-08-16T05:29:48.281983+00:00",
+  "aantal_items": 19,
   "items": [
+    {
+      "titel": "Eredivisie Vrouwen van start: clubs treffen elkaar drie keer in nieuwe seizoen",
+      "samenvatting": "FC Utrecht en Ajax trappen zondag om 12.15 uur de Eredivisie Vrouwen af. De Nederlandse competitie begint dit seizoen een maand eerder dan de afgelopen jaren en dat heeft alles te maken met een nieuwe opzet. Het aantal clubs is door de KNVB dit seizoen teruggeschroefd van twaalf naar tien. Daarom...",
+      "bron": "NOS Voetbal",
+      "link": "https://nos.nl/l/2627071",
+      "datum": "2026-08-16T04:00:01+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Gepaste euforie bij Fortuna na 'geweldige' start: 'Maar we zijn er nog lang niet'",
+      "samenvatting": "Na anderhalve speelronde staat Fortuna Sittard tweede in de Eredivisie en dat zorgde voor tevreden Limburgse gezichten. Bij tegenstander SC Cambuur, dat met 3-1 verslagen werd, was er juist de nodige frustratie.",
+      "bron": "VI",
+      "link": "https://www.vi.nl/nieuws/gepaste-euforie-bij-fortuna-na-geweldige-start-maar-we-zijn-er-nog-lang-niet",
+      "datum": "2026-08-15T21:57:22+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Aké beleeft bij Fenerbahçe competitiedebuut om snel te vergeten",
+      "samenvatting": "Fenerbahçe heeft in de eerste speelronde van de Turkse competitie direct een dreun geïncasseerd. Gençlerbirligi, vorig seizoen nog veertiende in de Süper Lig, profiteerde van het zwakke verdedigen bij de topclub. Nathan Aké ging niet vrijuit.",
+      "bron": "VI",
+      "link": "https://www.vi.nl/nieuws/ake-beleeft-bij-fenerbahce-competitiedebuut-om-snel-te-vergeten",
+      "datum": "2026-08-15T20:24:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Misvattingen over transfers: waarom directeuren niet zomaar met miljoenen kunnen smijten",
+      "samenvatting": "Ajax gaat Mika Godts voor zo'n 55 miljoen euro verkopen. Kan Jordi Cruijff nu met een cheque van hetzelfde bedrag de transfermarkt op voor een vervanger? Nee, is het snelle antwoord. Dat zit zo: Zoals veel zaken in de voetballerij is de wereld achter transfers behoorlijk troebel. Lang niet alles ...",
+      "bron": "NOS Voetbal",
+      "link": "https://nos.nl/l/2626952",
+      "datum": "2026-08-15T08:29:24+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
     {
       "titel": "Eredivisie-directeur waarschuwt: ‘De Champions League maakt nu de nationale competities kapot’",
       "samenvatting": "De eredivisie bestaat dit seizoen zeventig jaar, de stadions zitten voller dan ooit, maar toch is lang niet alles vrolijkmakend. Het niveau van het Nederlandse voetbal is de laatste jaren zorgwekkend gedaald. Maar wat gaan we daaraan doen? Eredivisie-directeur Jan de Jong geeft antwoorden.",
       "bron": "AD Voetbal",
       "link": "https://www.ad.nl/voetbal/eredivisie-directeur-waarschuwt-de-champions-league-maakt-nu-de-nationale-competities-kapot~a8bcbf9a/",
       "datum": "2026-08-15T04:30:52+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Publiekslieveling Jiménez behoedt ambitieus Wolves van nederlaag",
-      "samenvatting": "Wolverhampton Wanderers is niet goed begonnen aan de jacht op een terugkeer in de Premier League. In de eerste Championship-wedstrijd van het seizoen tegen Blackburn Rovers bleef de club steken op een gelijkspel. Invaller Raúl Jiménez liet bij zijn terugkeer in het oranje de fans gelijk juichen.",
-      "bron": "VI",
-      "link": "https://www.vi.nl/nieuws/publiekslieveling-jimenez-behoedt-ambitieus-wolves-van-nederlaag",
-      "datum": "2026-08-14T21:23:46+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Benoeming Xavi toegejuicht: 'Nederlands voetbal is een beetje stil blijven staan'",
-      "samenvatting": "Ronald de Boer is enthousiast over de aanstelling van Xavi Hernández als nieuwe bondscoach van het Nederlands elftal. De Boer kent hem nog van zijn periode bij Barcelona en denkt dat Xavi het Nederlands voetbal vooruit kan helpen.",
-      "bron": "VI",
-      "link": "https://www.vi.nl/nieuws/benoeming-xavi-toegejuicht-nederlands-voetbal-is-een-beetje-stil-blijven-staan",
-      "datum": "2026-08-14T21:14:00+00:00",
       "categorie": "oranje",
       "hot": false,
       "is_social": false
@@ -123,41 +143,11 @@
       "is_social": false
     },
     {
-      "titel": "Het tempoprobleem van Oranje wordt Xavi’s eerste taak als bondscoach",
-      "samenvatting": "Nederland loopt het minst van allemaal. Zowel op het EK als het WK eindigde Oranje in het kilometerklassement stijf onderaan. Aan Xavi Hernández de taak om het Nederlandse voetbal uit de stilstand te trekken, letterlijk, als onderdeel van een cultuuromslag.",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/wk-voetbal/het-tempoprobleem-van-oranje-wordt-xavis-eerste-taak-als-bondscoach~a2c26e45/",
-      "datum": "2026-08-14T05:30:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
       "titel": "Een kijkje in het trainersbrein van Xavi, de nieuwe bondscoach van Oranje",
       "samenvatting": "De voetballer Xavi is een begrip, de trainer Xavi best een onbekende. Waar staat de nieuwe bondscoach van het Nederlands elftal nou precies voor? En wat leverde hem dat in het verleden al op als coach van FC Barcelona en het Qatarese Al-Sadd? De nieuwe bondscoach van het Nederlands elftal verteld...",
       "bron": "NOS Voetbal",
       "link": "https://nos.nl/l/2626774",
       "datum": "2026-08-14T04:26:28+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Voetbalpodcast | ‘Luister nou naar Erik ten Hag en Jan de Jong: stel je sterkste elftal op in Europa!’",
-      "samenvatting": "FC Twente en Ajax speelden allebei gelijk in de derde voorronde van de Conference League. Ze gingen wel door naar de play-offs, maar gaven niet hun visitekaartje af. En dat terwijl Erik ten Hag onlangs toch duidelijk was geweest over de belangen voor het Nederlands voetbal.",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/voetbalpodcast-luister-nou-naar-erik-ten-hag-en-jan-de-jong-stel-je-sterkste-elftal-op-in-europa~a42af5cd9/",
-      "datum": "2026-08-13T22:28:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Tijjani Reijnders (28) verlaat Manchester City al na een jaar: Oranje-international op weg naar Saoedi-Ara­bië",
-      "samenvatting": "Oranje-international Tijjani Reijnders is dicht bij een transfer naar Al Qadsiah in Saoedi-Arabië. Manchester City, de huidige club van de 28-jarige middenvelder, zou een transfersom van 61 miljoen euro ontvangen. City nam Reijnders vorig jaar nog voor 55 miljoen euro over van AC Milan.",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/tijjani-reijnders-28-verlaat-manchester-city-al-na-een-jaar-oranje-international-op-weg-naar-saoedi-arabie~af2e30b0/",
-      "datum": "2026-08-13T20:04:00+00:00",
       "categorie": "oranje",
       "hot": false,
       "is_social": false
