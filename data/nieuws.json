@@ -1,33 +1,93 @@
 {
-  "laatste_update": "2026-08-16T05:29:48.281983+00:00",
-  "aantal_items": 19,
+  "laatste_update": "2026-08-17T05:36:11.217673+00:00",
+  "aantal_items": 12,
   "items": [
+    {
+      "titel": "Iraola prijst Frimpong op weg naar Premier League-start",
+      "samenvatting": "Liverpool-manager Andoni Iraola toonde zich na de oefenzege van zondag op Como erg tevreden over de rol die Jeremie Frimpong vervulde. De vijftienvoudig international deed de hele wedstrijd mee en was de aangever bij de goal van Cody Gakpo.",
+      "bron": "VI",
+      "link": "https://www.vi.nl/nieuws/iraola-prijst-frimpong-op-weg-naar-premier-league-start",
+      "datum": "2026-08-17T05:33:38+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Column Willem van Hanegem | Ik neem niet aan dat Xavi spelers van Emmen of Excelsior wil oproepen",
+      "samenvatting": "Willem van Hanegem schrijft in zijn wekelijkse column over Xavi Hernández, de nieuwe bondscoach van Oranje. ‘Ik zie niet zoveel problemen, laat maar komen wat mij betreft.’",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/column-willem-van-hanegem-ik-neem-niet-aan-dat-xavi-spelers-van-emmen-of-excelsior-wil-oproepen~a5895927/",
+      "datum": "2026-08-17T05:00:17+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Cody Gakpo laat zich zien met goal en assist voor Liverpool, Zian Flemming verpest debuut Joël Veltman",
+      "samenvatting": "Cody Gakpo was zondag de grote man op Anfield, waar Liverpool in de laatste oefenwedstrijd van deze zomer met 2-0 won van Como.",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/cody-gakpo-laat-zich-zien-met-goal-en-assist-voor-liverpool-zian-flemming-verpest-debuut-joel-veltman~abe0f1677/",
+      "datum": "2026-08-16T19:22:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Begeerde Gakpo matchwinner in laatste oefenduel Liverpool",
+      "samenvatting": "Cody Gakpo heeft zich van zijn beste kant laten zien bij Liverpool. De Oranje-international was met een goal en een assist de matchwinner in het oefenduel met Como, terwijl zijn toekomst nog altijd onzeker is bij de club.",
+      "bron": "VI",
+      "link": "https://www.vi.nl/nieuws/begeerde-gakpo-matchwinner-in-laatste-oefenduel-liverpool",
+      "datum": "2026-08-16T18:52:19+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Tot tranen geroerde Etienne Vaessen leeft mee met Mats Seuntjens na dramatisch nieuws: ‘Het is onmenselijk’",
+      "samenvatting": "Het hartverscheurende nieuws dat NAC-speler Mats Seuntjens en zijn vrouw Elba afscheid hebben moeten nemen van hun pasgeboren dochtertje, kwam keihard aan bij Etienne Vaessen. De doelman van FC Groningen is al heel lang goed bevriend met Seuntjens. „Ik kan het nog steeds niet geloven.”",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/tot-tranen-geroerde-etienne-vaessen-leeft-mee-met-mats-seuntjens-na-dramatisch-nieuws-het-is-onmenselijk~a33bbd5e/",
+      "datum": "2026-08-16T17:48:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Feyenoord vecht tegen implosie na uur: ‘Ik ben verantwoordelijk, het zijn geen goede wissels geweest’",
+      "samenvatting": "Feyenoord kan een uur lang prima voor de dag komen, maar dat is het tot op heden ook wel. Go Ahead Eagles zette in navolging van Sparta de Rotterdammers in de slotfase met de rug tegen de muur. ,,En de wissels pakken ook niet goed uit’’, erkent Giovanni van Bronckhorst ook zelf.",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/feyenoord-vecht-tegen-implosie-na-uur-ik-ben-verantwoordelijk-het-zijn-geen-goede-wissels-geweest~ac087e68/",
+      "datum": "2026-08-16T16:29:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Ajax klopt FC Utrecht in openingsduel Vrouwen eredivisie, landskampioen PSV wint dankzij late goals",
+      "samenvatting": "Ajax is het seizoen in de Vrouwen eredivisie begonnen met een 1-0 overwinning bij FC Utrecht. Elisa van Dijk maakte namens de bezoekers in de 34ste minuut de enige treffer op Sportcomplex Zoudenbalch.",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/ajax-klopt-fc-utrecht-in-openingsduel-vrouwen-eredivisie-landskampioen-psv-wint-dankzij-late-goals~ab1834d9/",
+      "datum": "2026-08-16T12:49:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Titelkandidaten beginnen met nipte zege aan nieuw seizoen Vrouwen Eredivisie",
+      "samenvatting": "De titelkandidaten in de Vrouwen Eredivisie zijn met nipte zeges begonnen aan het nieuwe seizoen. PSV, Ajax, Feyenoord en FC Twente wonnen respectievelijk van PEC Zwolle, FC Utrecht, sc Heerenveen en De Graafschap. Regerend landskampioen PSV was lang op weg naar puntenverlies, maar in de blessure...",
+      "bron": "NOS Voetbal",
+      "link": "https://nos.nl/l/2627109",
+      "datum": "2026-08-16T12:07:54+00:00",
+      "categorie": "oranje",
+      "hot": true,
+      "is_social": false
+    },
     {
       "titel": "Eredivisie Vrouwen van start: clubs treffen elkaar drie keer in nieuwe seizoen",
       "samenvatting": "FC Utrecht en Ajax trappen zondag om 12.15 uur de Eredivisie Vrouwen af. De Nederlandse competitie begint dit seizoen een maand eerder dan de afgelopen jaren en dat heeft alles te maken met een nieuwe opzet. Het aantal clubs is door de KNVB dit seizoen teruggeschroefd van twaalf naar tien. Daarom...",
       "bron": "NOS Voetbal",
       "link": "https://nos.nl/l/2627071",
       "datum": "2026-08-16T04:00:01+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Gepaste euforie bij Fortuna na 'geweldige' start: 'Maar we zijn er nog lang niet'",
-      "samenvatting": "Na anderhalve speelronde staat Fortuna Sittard tweede in de Eredivisie en dat zorgde voor tevreden Limburgse gezichten. Bij tegenstander SC Cambuur, dat met 3-1 verslagen werd, was er juist de nodige frustratie.",
-      "bron": "VI",
-      "link": "https://www.vi.nl/nieuws/gepaste-euforie-bij-fortuna-na-geweldige-start-maar-we-zijn-er-nog-lang-niet",
-      "datum": "2026-08-15T21:57:22+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Aké beleeft bij Fenerbahçe competitiedebuut om snel te vergeten",
-      "samenvatting": "Fenerbahçe heeft in de eerste speelronde van de Turkse competitie direct een dreun geïncasseerd. Gençlerbirligi, vorig seizoen nog veertiende in de Süper Lig, profiteerde van het zwakke verdedigen bij de topclub. Nathan Aké ging niet vrijuit.",
-      "bron": "VI",
-      "link": "https://www.vi.nl/nieuws/ake-beleeft-bij-fenerbahce-competitiedebuut-om-snel-te-vergeten",
-      "datum": "2026-08-15T20:24:00+00:00",
       "categorie": "oranje",
       "hot": false,
       "is_social": false
@@ -43,36 +103,6 @@
       "is_social": false
     },
     {
-      "titel": "Eredivisie-directeur waarschuwt: ‘De Champions League maakt nu de nationale competities kapot’",
-      "samenvatting": "De eredivisie bestaat dit seizoen zeventig jaar, de stadions zitten voller dan ooit, maar toch is lang niet alles vrolijkmakend. Het niveau van het Nederlandse voetbal is de laatste jaren zorgwekkend gedaald. Maar wat gaan we daaraan doen? Eredivisie-directeur Jan de Jong geeft antwoorden.",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/eredivisie-directeur-waarschuwt-de-champions-league-maakt-nu-de-nationale-competities-kapot~a8bcbf9a/",
-      "datum": "2026-08-15T04:30:52+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Pechvogel Alassane Pléa (33) ligt er wéér lang uit bij PSV: ‘Ik blijf strijdvaardig’",
-      "samenvatting": "Het zit Alassane Pléa meer niet mee bij PSV. Nadat hij een jaar aan de kant stond met een ernstige knieblessure en langzaam maar zeker weer aan het opkrabbelen was, is het weer hommeles. De 33-jarige aanvaller viel vrijdag uit bij de training en ligt er een lange periode uit.",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/pechvogel-alassane-plea-33-ligt-er-weer-lang-uit-bij-psv-ik-blijf-strijdvaardig~a128fbe96/",
-      "datum": "2026-08-14T19:30:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Column Sjoerd Mossou | Dat Peter Bosz geen bondscoach werd, hebben we te danken aan Andries Jonker",
-      "samenvatting": "De beste trainers van Nederland waren maandenlang beschikbaar, maar de KNVB besloot ze te negeren en koos uiteindelijk voor Xavi Hernandez. Goedbeschouwd hebben we dat bovenal te danken aan Andries Jonker, schrijft Sjoerd Mossou in zijn column. „Dit nooit meer, dacht Nigel de Jong.’’",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/column-sjoerd-mossou-dat-peter-bosz-geen-bondscoach-werd-hebben-we-te-danken-aan-andries-jonker~ad365dbc/",
-      "datum": "2026-08-14T17:06:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
       "titel": "De Jong gefrustreerd over ernst blessure en desinformatie: 'Kan het niet meer negeren'",
       "samenvatting": "Een boze Frenkie de Jong geeft in een openhartig interview opheldering over zijn blessure en haalt uit naar een Spaanse journalist, die al meerdere keren onwaarheden over hem zou hebben verspreid. Tijdens het WK botste de middenvelder van het Nederlands elftal met Quinten Timber. Ondanks de pijn ...",
       "bron": "NOS Voetbal",
@@ -83,112 +113,12 @@
       "is_social": false
     },
     {
-      "titel": "Tottenham Hotspur wil 60 miljoen betalen voor Cody Gakpo, aanvaller staat open voor transfer",
-      "samenvatting": "Tottenham Hotspur maakte al in juli jacht op Cody Gakpo en zet de wens om de oud-PSV'er te contracteren nu kracht bij. Spurs heeft Liverpool laten weten ongeveer 60 miljoen euro voor hem te willen betalen.",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/tottenham-hotspur-wil-60-miljoen-betalen-voor-cody-gakpo-aanvaller-staat-open-voor-transfer~a2f744d9/",
-      "datum": "2026-08-14T14:11:11+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
       "titel": "Van Bronckhorst snapt scepsis over buitenlandse bondscoach: 'Xavi moet presteren'",
       "samenvatting": "Voor het eerst in 48 jaar heeft het Nederlands elftal met Xavi een buitenlandse bondscoach. Een feit waar Nederlanders met enige scepsis naar kijken. Niet geheel vreemd, vindt Feyenoord-trainer Giovanni van Bronckhorst, die tussen 2003 en 2007 met de Spanjaard samenspeelde bij FC Barcelona. \"Wij ...",
       "bron": "NOS Voetbal",
       "link": "https://nos.nl/l/2626848",
       "datum": "2026-08-14T13:44:16+00:00",
       "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Louis van Gaal feliciteert Xavi met baan als bondscoach Oranje: ‘Veel geluk mijn vriend’",
-      "samenvatting": "Louis van Gaal heeft Xavi succes gewenst met zijn nieuwe functie als bondscoach van het Nederlands elftal. ‘Gefeliciteerd Xavi. Veel geluk mijn vriend’, schrijft hij in een Instagram-story waarop ook een groepsfoto van FC Barcelona te zien is met een jonge Xavi en trainer Van Gaal.",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/louis-van-gaal-feliciteert-xavi-met-baan-als-bondscoach-oranje-veel-geluk-mijn-vriend~a5a47279/",
-      "datum": "2026-08-14T13:14:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Frenkie de Jong haalt in openhartig interview uit naar Spaanse media: ‘Ontzettend veel ruis om mij heen’",
-      "samenvatting": "Frenkie de Jong heeft in een openhartig interview op de kanalen van FC Barcelona uitgehaald naar de media. De geblesseerde middenvelder merkte de afgelopen tijd dat er veel onjuistheden werden verspreid in zijn ogen. Met name één journalist moet het ontgelden.",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/frenkie-de-jong-haalt-in-openhartig-interview-uit-naar-spaanse-media-ontzettend-veel-ruis-om-mij-heen~a38280e7/",
-      "datum": "2026-08-14T13:13:39+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Peter Bosz werd na WK niet benaderd voor functie bondscoach van Oranje",
-      "samenvatting": "Peter Bosz is na het WK niet benaderd door de KNVB voor de functie van bondscoach van het Nederlands elftal. „Er is geen contact geweest”, zei hij op een persconferentie voor het uitduel met Excelsior.",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/peter-bosz-werd-na-wk-niet-benaderd-voor-functie-bondscoach-van-oranje~a6a26046/",
-      "datum": "2026-08-14T11:18:21+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Eredivisie-directeur overweegt schrappen play-offs Europees voetbal: ‘Elk punt telt om uit dit dal te klimmen’",
-      "samenvatting": "Eredivisie-directeur Jan de Jong wil een nieuwe vrije val op de coëfficiëntenranglijst koste wat het kost voorkomen en Nederland weer in een positie krijgen die recht geeft op meerdere directe startbewijzen voor de Champions League. De Jong onderzoekt meerdere opties. Het schrappen van de play-of...",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/eredivisie-directeur-overweegt-schrappen-play-offs-europees-voetbal-elk-punt-telt-om-uit-dit-dal-te-klimmen~a1341c51/",
-      "datum": "2026-08-14T11:00:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Een kijkje in het trainersbrein van Xavi, de nieuwe bondscoach van Oranje",
-      "samenvatting": "De voetballer Xavi is een begrip, de trainer Xavi best een onbekende. Waar staat de nieuwe bondscoach van het Nederlands elftal nou precies voor? En wat leverde hem dat in het verleden al op als coach van FC Barcelona en het Qatarese Al-Sadd? De nieuwe bondscoach van het Nederlands elftal verteld...",
-      "bron": "NOS Voetbal",
-      "link": "https://nos.nl/l/2626774",
-      "datum": "2026-08-14T04:26:28+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Bij Oranje past een voetbalnaam als Xavi, maar: 'Dit is geen keuze uit luxe'",
-      "samenvatting": "\"Nederland is een groot voetballand en daar past een grote naam bij\", vindt oud-international Rafael van der Vaart. Alleen daarom al denkt de voormalig Oranjespeler dat Xavi een goede keuze is als nieuwe bondscoach van het Nederlands elftal. \"Ik had eerlijk gezegd niet aan hem gedacht. Natuurlijk...",
-      "bron": "NOS Voetbal",
-      "link": "https://nos.nl/l/2626704",
-      "datum": "2026-08-13T15:41:29+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Xavi's opdracht: breng de Hollandse School terug bij het Nederlands elftal",
-      "samenvatting": "\"Waarom moet de Hollandse School op de schop?\", vroeg Xavi zich tien jaar geleden af in een interview met de NOS. Een liefhebber van de Nederlandse stijl is de nieuwe bondscoach van het Nederlands elftal altijd geweest. Een Cruijff-adept ook. \"In Barcelona hebben we veel geleerd van de Hollandse ...",
-      "bron": "NOS Voetbal",
-      "link": "https://nos.nl/l/2626617",
-      "datum": "2026-08-12T23:00:16+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Xavi nieuwe bondscoach Nederlands elftal, Barcelona-legende tekent voor vier jaar",
-      "samenvatting": "Xavi Hernández is de nieuwe bondscoach van het Nederlands elftal, zo heeft de KNVB bekendgemaakt. De 46-jarige Spanjaard volgt Ronald Koeman op. Xavi bereikte met de KNVB overeenstemming over een contract tot en met het WK van 2030. Daarmee komt een einde aan de veelbesproken, lange zoektocht naa...",
-      "bron": "NOS Voetbal",
-      "link": "https://nos.nl/l/2626588",
-      "datum": "2026-08-12T19:07:04+00:00",
-      "categorie": "oranje",
-      "hot": true,
-      "is_social": false
-    },
-    {
-      "titel": "Na mislukte investering in WK voetbal betaalt Kushner recordbedrag voor LA Lakers",
-      "samenvatting": "Josh Kushner, de beoogde investeerder in het veelbesproken plan van FIFA-voorzitter Gianni Infantino om het WK voetbal te privatiseren, heeft basketbalclub Los Angeles Lakers overgenomen. Samen met voormalig Disney-topman Bob Iger neemt Kushner het meerderheidsbelang van de vorige eigenaar Mark W...",
-      "bron": "NOS Voetbal",
-      "link": "https://nos.nl/l/2626571",
-      "datum": "2026-08-12T17:45:54+00:00",
-      "categorie": "algemeen",
       "hot": false,
       "is_social": false
     }
