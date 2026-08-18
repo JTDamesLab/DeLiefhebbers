@@ -1,13 +1,83 @@
 {
-  "laatste_update": "2026-08-17T05:36:11.217673+00:00",
-  "aantal_items": 12,
+  "laatste_update": "2026-08-18T05:31:10.966437+00:00",
+  "aantal_items": 17,
   "items": [
     {
-      "titel": "Iraola prijst Frimpong op weg naar Premier League-start",
-      "samenvatting": "Liverpool-manager Andoni Iraola toonde zich na de oefenzege van zondag op Como erg tevreden over de rol die Jeremie Frimpong vervulde. De vijftienvoudig international deed de hele wedstrijd mee en was de aangever bij de goal van Cody Gakpo.",
+      "titel": "Van Dijk ziet verbetering in de defensie van Liverpool",
+      "samenvatting": "Virgil van Dijk kijkt er niet raar van op dat spelers niet negentig minuten gas kunnen blijven geven. Dat heeft tijd nodig, aldus de captain van Liverpool. Hij ziet daarnaast veel verbeteringen in de defensie van zijn ploeg.",
       "bron": "VI",
-      "link": "https://www.vi.nl/nieuws/iraola-prijst-frimpong-op-weg-naar-premier-league-start",
-      "datum": "2026-08-17T05:33:38+00:00",
+      "link": "https://www.vi.nl/video/van-dijk-ziet-verbetering-in-de-defensie-van-liverpool",
+      "datum": "2026-08-17T21:45:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "'FIFA neemt afscheid van directeur die kritisch was op Infantino'",
+      "samenvatting": "De FIFA heeft chief operating officer Kevin Lamour per direct laten vertrekken. Volgens Engelse media houdt het vertrek verband met de kritiek die Lamour onlangs uitte op FIFA-voorzitter Gianni Infantino en zijn inmiddels afgeblazen plan om een deel van de commerciële belangen rond het WK open te...",
+      "bron": "VI",
+      "link": "https://www.vi.nl/nieuws/fifa-neemt-afscheid-van-directeur-die-kritisch-was-op-infantino",
+      "datum": "2026-08-17T20:42:00+00:00",
+      "categorie": "algemeen",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Nog meer miljoenen, maar geen vrije hand: Ajax moet eerst spelers lozen voor het Noa Lang haalt",
+      "samenvatting": "Trainer Míchel Sánchez schreeuwde na de 2-2 tegen Heerenveen om een nieuwe nummer 6 en een vervanger voor Mika Godts. Je zou zeggen: nu de Belgische smaakmaker voor een megasom is verkocht aan PSG, kan Ajax topkandidaat Noa Lang snel kopen. Maar dat is nog geen abc’tje. Vijf vragen en antwoorden.",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/nog-meer-miljoenen-maar-geen-vrije-hand-ajax-moet-eerst-spelers-lozen-voor-het-noa-lang-haalt~ae824be7/",
+      "datum": "2026-08-17T17:55:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Visscher verlengt contract bij Ajax",
+      "samenvatting": "In dit blog volgen we alle ontwikkelingen in het vrouwenvoetbal. We besteden onder meer aandacht aan de Eurojackpot Vrouwen Eredivisie, de Europese toernooien en het Nederlands elftal.",
+      "bron": "VI",
+      "link": "https://www.vi.nl/nieuws/visscher-verlengt-contract-bij-ajax",
+      "datum": "2026-08-17T16:25:46+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Ratings EA FC 27: Virgil van Dijk de beste Nederlander",
+      "samenvatting": "Menig voetbal- en gameliefhebber kijkt er ieder jaar weer naar uit: de waarderingen van spelers op de nieuwste editie van EA FC, voorheen bekend als FIFA. EA Sports, de producent van de computerspelletjes, heeft de 27 beste spelers van dit seizoen bekend gemaakt.",
+      "bron": "VI",
+      "link": "https://www.vi.nl/nieuws/ratings-ea27-virgil-van-dijk-de-beste-nederlander",
+      "datum": "2026-08-17T16:04:28+00:00",
+      "categorie": "oranje",
+      "hot": true,
+      "is_social": false
+    },
+    {
+      "titel": "'Dat is precies wat Ajax nu nodig heeft: een eigenwijze, narcistische klootzak'",
+      "samenvatting": "Columnist Nico Dijkshoorn is een warm voorstander van een terugkeer van Noa Lang naar Ajax.",
+      "bron": "VI",
+      "link": "https://www.vi.nl/pro/dat-is-precies-wat-ajax-nu-nodig-heeft-een-eigenwijze-narcistische-klootzak",
+      "datum": "2026-08-17T16:00:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Column Hugo Borst | Summerville en Reijnders komen in een oord terecht dat de een land noemt, de ander een gevangenis",
+      "samenvatting": "Hugo Borst schrijft in zijn wekelijkse column over Joey Veerman. De 27-jarige spelmaker uit Volendam verkast van PSV naar Borussia Dortmund. En gelukkig niet naar een club uit de Saudi Pro League, zo schrijft Borst.",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/column-hugo-borst-summerville-en-reijnders-komen-in-een-oord-terecht-dat-de-een-land-noemt-de-ander-een-gevangenis~a2317520/",
+      "datum": "2026-08-17T10:00:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Voetbalpodcast | ‘De komst van Noa Lang is ook na de megadeal van Godts nog geen abc’tje’",
+      "samenvatting": "Ajax heeft Godts verkocht, maar wie gaat de Belg vervangen en vooral wanneer? In de AD Voetbalpodcast nemen Etienne Verhoeff en Johan Inan de stand van zaken door. Verder Nederlandse spitsen die nieuw onderdak vinden. De invasie aan Spaanse spelers in de eredivisie. De kracht van FC Groningen en ...",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/voetbalpodcast-de-komst-van-noa-lang-is-ook-na-de-megadeal-van-godts-nog-geen-abctje~a42af5cd9/",
+      "datum": "2026-08-17T06:25:00+00:00",
       "categorie": "oranje",
       "hot": false,
       "is_social": false
@@ -28,16 +98,6 @@
       "bron": "AD Voetbal",
       "link": "https://www.ad.nl/voetbal/cody-gakpo-laat-zich-zien-met-goal-en-assist-voor-liverpool-zian-flemming-verpest-debuut-joel-veltman~abe0f1677/",
       "datum": "2026-08-16T19:22:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Begeerde Gakpo matchwinner in laatste oefenduel Liverpool",
-      "samenvatting": "Cody Gakpo heeft zich van zijn beste kant laten zien bij Liverpool. De Oranje-international was met een goal en een assist de matchwinner in het oefenduel met Como, terwijl zijn toekomst nog altijd onzeker is bij de club.",
-      "bron": "VI",
-      "link": "https://www.vi.nl/nieuws/begeerde-gakpo-matchwinner-in-laatste-oefenduel-liverpool",
-      "datum": "2026-08-16T18:52:19+00:00",
       "categorie": "oranje",
       "hot": false,
       "is_social": false
@@ -110,16 +170,6 @@
       "datum": "2026-08-14T14:25:57+00:00",
       "categorie": "oranje",
       "hot": true,
-      "is_social": false
-    },
-    {
-      "titel": "Van Bronckhorst snapt scepsis over buitenlandse bondscoach: 'Xavi moet presteren'",
-      "samenvatting": "Voor het eerst in 48 jaar heeft het Nederlands elftal met Xavi een buitenlandse bondscoach. Een feit waar Nederlanders met enige scepsis naar kijken. Niet geheel vreemd, vindt Feyenoord-trainer Giovanni van Bronckhorst, die tussen 2003 en 2007 met de Spanjaard samenspeelde bij FC Barcelona. \"Wij ...",
-      "bron": "NOS Voetbal",
-      "link": "https://nos.nl/l/2626848",
-      "datum": "2026-08-14T13:44:16+00:00",
-      "categorie": "oranje",
-      "hot": false,
       "is_social": false
     }
   ]
