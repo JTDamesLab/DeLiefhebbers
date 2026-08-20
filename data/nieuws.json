@@ -1,33 +1,113 @@
 {
-  "laatste_update": "2026-08-19T05:32:02.500138+00:00",
-  "aantal_items": 12,
+  "laatste_update": "2026-08-20T05:32:40.882879+00:00",
+  "aantal_items": 14,
   "items": [
+    {
+      "titel": "Conference League kan zegen zijn voor Ajax, dat selectie nog niet op orde heeft",
+      "samenvatting": "Ajax heeft de selectie nog lang niet op orde, dat is de conclusie na de eerste zes officiële wedstrijden van het seizoen. De ploeg mist diepgang, snelheid, spelers met een individuele actie en scorend vermogen. Zeker na het vertrek van Mika Godts naar Paris Saint-Germain voor 55 miljoen euro. Van...",
+      "bron": "NOS Voetbal",
+      "link": "https://nos.nl/l/2627553",
+      "datum": "2026-08-20T04:18:41+00:00",
+      "categorie": "oranje",
+      "hot": true,
+      "is_social": false
+    },
+    {
+      "titel": "Geen warm welkom voor Frenkie de Jong: Oranje-international uitgefloten voor oefenduel Barcelona",
+      "samenvatting": "Bij de traditionele spelerspresentatie van FC Barcelona, voorafgaand aan de oefenwedstrijd tegen Al-Ahly, kreeg Frenkie de Jong woensdagavond geen warm welkom. De geblesseerde middenvelder werd bij zijn opkomst in Camp Nou uitgefloten door een deel van het eigen publiek. Barcelona won het duel me...",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/geen-warm-welkom-voor-frenkie-de-jong-oranje-international-uitgefloten-voor-oefenduel-barcelona~a24b392c/",
+      "datum": "2026-08-19T20:22:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Barcelona-fans verwelkomen Rodri, maar fluiten De Jong uit in Camp Nou",
+      "samenvatting": "Een volgepakt Camp Nou heeft woensdagavond de selectie van Barcelona voor het seizoen 2026/27 verwelkomd tijdens de traditionele wedstrijd om de Joan Gamper Trofee tegen Al-Ahly. Nieuwkomer Rodri kreeg een luid applaus, terwijl Frenkie de Jong door een deel van het publiek werd uitgefloten.",
+      "bron": "VI",
+      "link": "https://www.vi.nl/nieuws/barcelona-fans-verwelkomen-rodri-maar-fluiten-de-jong-uit-in-camp-nou",
+      "datum": "2026-08-19T19:19:44+00:00",
+      "categorie": "oranje",
+      "hot": true,
+      "is_social": false
+    },
+    {
+      "titel": "TransferTalk | Engelse club aast op Feyenoor­der Ahmedhod­zic, Arsenal haalt extra verdediger vanwege blessure Timber",
+      "samenvatting": "Het seizoen is al begonnen, maar tot begin september kunnen clubs nog spelers kopen of huren. Hier blijf je op de hoogte van alle geruchten en done deals!",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/transfertalk-engelse-club-aast-op-feyenoorder-ahmedhodzic-arsenal-haalt-extra-verdediger-vanwege-blessure-timber~acbd43e6/",
+      "datum": "2026-08-19T18:53:00+00:00",
+      "categorie": "oranje",
+      "hot": true,
+      "is_social": false
+    },
+    {
+      "titel": "FIFA-vicevoorzitter laat Infantino vallen, unanieme CAF-steun is niet zo unaniem",
+      "samenvatting": "Voorzitter Gianni Infantino verliest steeds meer draagvlak binnen de FIFA. Sandor Csanyi, een van de vicevoorzitters van de wereldvoetbalbond, heeft zijn steun ingetrokken. Ook blijkt de vermeende collectieve steun vanuit de Afrikaanse voetbalbond CAF minder unaniem dan werd voorgespiegeld.",
+      "bron": "VI",
+      "link": "https://www.vi.nl/nieuws/fifa-vicevoorzitter-laat-infantino-vallen-unanieme-caf-steun-is-niet-zo-unaniem",
+      "datum": "2026-08-19T18:30:35+00:00",
+      "categorie": "algemeen",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Komst Rodri slecht nieuws voor De Jong? 'Slechtste nieuws is zijn blessure'",
+      "samenvatting": "Met Rodri krijgt Frenkie de Jong er op het middenveld van FC Barcelona een geduchte concurrent bij. Win het maar eens van de Ballon d'Or-winnaar van 2024, de beste speler van het EK van 2024 en zelfs de beste speler van het afgelopen WK. \"Slecht nieuws voor De Jong\", zegt oud-coach Robert Maaskan...",
+      "bron": "NOS Voetbal",
+      "link": "https://nos.nl/l/2627506",
+      "datum": "2026-08-19T15:46:27+00:00",
+      "categorie": "oranje",
+      "hot": true,
+      "is_social": false
+    },
+    {
+      "titel": "Oranje-international Reijnders verruilt City voor megasalaris bij Al-Qadsiah",
+      "samenvatting": "Tijjani Reijnders maakt definitief de overstap van Manchester City naar het Saudische Al-Qadsiah. De middenvelder is na Crysencio Summerville de tweede Oranje-international die deze zomer naar Saudi-Arabië verhuist. De 28-jarige Reijnders zou City een bedrag van 61 miljoen euro opleveren. Hij gaa...",
+      "bron": "NOS Voetbal",
+      "link": "https://nos.nl/l/2627504",
+      "datum": "2026-08-19T15:27:33+00:00",
+      "categorie": "oranje",
+      "hot": true,
+      "is_social": false
+    },
+    {
+      "titel": "Op belangrijk punt in carrière een transfer naar PSV: Lutsharel Geertruida is bepaald niet de eerste",
+      "samenvatting": "Noa Lang, Jerdy Schouten en Xavi Simons bij PSV. Maar ook Donyell Malen, Luuk de Jong en Guus Til. De aanstaande rentree van Lutsharel Geertruida in de eredivisie past in een Eindhovense traditie om Nederlandse voetballers op een kruispunt in hun carrière terug te halen naar Nederland.",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/op-belangrijk-punt-in-carriere-een-transfer-naar-psv-lutsharel-geertruida-is-bepaald-niet-de-eerste~a8b358c8/",
+      "datum": "2026-08-19T10:22:00+00:00",
+      "categorie": "oranje",
+      "hot": true,
+      "is_social": false
+    },
+    {
+      "titel": "Van middelvinger naar de voorzitter tot nieuw contract: Memphis Depay krijgt wat hij wil bij Corinthians",
+      "samenvatting": "De onderhandelingen duurden lang en waren bij vlagen turbulent. Nog maar een week geleden leken ze zelfs volledig te zijn geklapt. Maar Memphis Depay tekende na een enorme plottwist uiteindelijk toch een nieuw contract bij Corinthians, waardoor hij tot eind juli 2028 blijft bij de club uit São Pa...",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/van-middelvinger-naar-de-voorzitter-tot-nieuw-contract-memphis-depay-krijgt-wat-hij-wil-bij-corinthians~ab013ed5/",
+      "datum": "2026-08-19T07:01:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Henk Fraser wil Feyenoord-jeugdtrainer Ulrich van Gobbel als rechterhand bij Surinaams voetbalelftal",
+      "samenvatting": "Ulrich van Gobbel is de voornaamste kandidaat om bondscoach Henk Fraser te gaan assisteren bij de Surinaamse voetbalbond. De 55-jarige Van Gobbel, die als speler acht interlands speelde voor Oranje, kan het assisteren van zijn voormalig ploeggenoot combineren met zijn werk binnen de jeugdopleidin...",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/henk-fraser-wil-feyenoord-jeugdtrainer-ulrich-van-gobbel-als-rechterhand-bij-surinaams-voetbalelftal~a001050b/",
+      "datum": "2026-08-19T06:39:22+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
     {
       "titel": "Ruben Kluivert speelt met Lyon gelijk bij Fenerbahçe van Nathan Aké en Dirk Kuyt",
       "samenvatting": "De eerste wedstrijd tussen Fenerbahçe en Olympique Lyon in de play-offs van de Champions League heeft geen winnaar opgeleverd. Beide ploegen hielden elkaar in evenwicht in Istanbul (1-1).",
       "bron": "AD Voetbal",
       "link": "https://www.ad.nl/voetbal/ruben-kluivert-speelt-met-lyon-gelijk-bij-fenerbahce-van-nathan-ake-en-dirk-kuyt~abcbd9a4/",
       "datum": "2026-08-18T21:02:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Memphis doet water bij de wijn en blijft tóch bij 'gigantische club' Corinthians",
-      "samenvatting": "Memphis Depay blijft tóch bij Corinthians. De Oranje-international heeft water bij de wijn gedaan en zijn handtekening onder een contract tot medio 2028 gezet. 'Corinthians is een gigantische club.'",
-      "bron": "VI",
-      "link": "https://www.vi.nl/nieuws/memphis-doet-water-bij-de-wijn-en-blijft-toch-bij-gigantische-club-corinthians",
-      "datum": "2026-08-18T20:41:20+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Barça en Man City ronden megatransfer af: wereldkampioen Rodri terug in Spanje",
-      "samenvatting": "Rodri heeft zijn transfer van Manchester City naar Barcelona afgerond. Barça betaalt tientallen miljoenen voor de wereldkampioen, die op het Catalaanse middenveld de concurrentie aangaat met onder anderen Frenkie de Jong.",
-      "bron": "VI",
-      "link": "https://www.vi.nl/nieuws/barca-en-man-city-ronden-megatransfer-af-wereldkampioen-rodri-terug-in-spanje",
-      "datum": "2026-08-18T18:41:48+00:00",
       "categorie": "oranje",
       "hot": false,
       "is_social": false
@@ -58,66 +138,6 @@
       "bron": "NOS Voetbal",
       "link": "https://nos.nl/l/2627329",
       "datum": "2026-08-18T07:03:23+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Nog meer miljoenen, maar geen vrije hand: Ajax moet eerst spelers lozen voor het Noa Lang haalt",
-      "samenvatting": "Trainer Míchel Sánchez schreeuwde na de 2-2 tegen Heerenveen om een nieuwe nummer 6 en een vervanger voor Mika Godts. Je zou zeggen: nu de Belgische smaakmaker voor een megasom is verkocht aan PSG, kan Ajax topkandidaat Noa Lang snel kopen. Maar dat is nog geen abc’tje. Vijf vragen en antwoorden.",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/nog-meer-miljoenen-maar-geen-vrije-hand-ajax-moet-eerst-spelers-lozen-voor-het-noa-lang-haalt~ae824be7/",
-      "datum": "2026-08-17T17:55:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Column Hugo Borst | Summerville en Reijnders komen in een oord terecht dat de een land noemt, de ander een gevangenis",
-      "samenvatting": "Hugo Borst schrijft in zijn wekelijkse column over Joey Veerman. De 27-jarige spelmaker uit Volendam verkast van PSV naar Borussia Dortmund. En gelukkig niet naar een club uit de Saudi Pro League, zo schrijft Borst.",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/column-hugo-borst-summerville-en-reijnders-komen-in-een-oord-terecht-dat-de-een-land-noemt-de-ander-een-gevangenis~a2317520/",
-      "datum": "2026-08-17T10:00:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Column Willem van Hanegem | Ik neem niet aan dat Xavi spelers van Emmen of Excelsior wil oproepen",
-      "samenvatting": "Willem van Hanegem schrijft in zijn wekelijkse column over Xavi Hernández, de nieuwe bondscoach van Oranje. ‘Ik zie niet zoveel problemen, laat maar komen wat mij betreft.’",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/column-willem-van-hanegem-ik-neem-niet-aan-dat-xavi-spelers-van-emmen-of-excelsior-wil-oproepen~a5895927/",
-      "datum": "2026-08-17T05:00:17+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Cody Gakpo laat zich zien met goal en assist voor Liverpool, Zian Flemming verpest debuut Joël Veltman",
-      "samenvatting": "Cody Gakpo was zondag de grote man op Anfield, waar Liverpool in de laatste oefenwedstrijd van deze zomer met 2-0 won van Como.",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/cody-gakpo-laat-zich-zien-met-goal-en-assist-voor-liverpool-zian-flemming-verpest-debuut-joel-veltman~abe0f1677/",
-      "datum": "2026-08-16T19:22:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Titelkandidaten beginnen met nipte zege aan nieuw seizoen Vrouwen Eredivisie",
-      "samenvatting": "De titelkandidaten in de Vrouwen Eredivisie zijn met nipte zeges begonnen aan het nieuwe seizoen. PSV, Ajax, Feyenoord en FC Twente wonnen respectievelijk van PEC Zwolle, FC Utrecht, sc Heerenveen en De Graafschap. Regerend landskampioen PSV was lang op weg naar puntenverlies, maar in de blessure...",
-      "bron": "NOS Voetbal",
-      "link": "https://nos.nl/l/2627109",
-      "datum": "2026-08-16T12:07:54+00:00",
-      "categorie": "oranje",
-      "hot": true,
-      "is_social": false
-    },
-    {
-      "titel": "Eredivisie Vrouwen van start: clubs treffen elkaar drie keer in nieuwe seizoen",
-      "samenvatting": "FC Utrecht en Ajax trappen zondag om 12.15 uur de Eredivisie Vrouwen af. De Nederlandse competitie begint dit seizoen een maand eerder dan de afgelopen jaren en dat heeft alles te maken met een nieuwe opzet. Het aantal clubs is door de KNVB dit seizoen teruggeschroefd van twaalf naar tien. Daarom...",
-      "bron": "NOS Voetbal",
-      "link": "https://nos.nl/l/2627071",
-      "datum": "2026-08-16T04:00:01+00:00",
       "categorie": "oranje",
       "hot": false,
       "is_social": false
