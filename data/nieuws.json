@@ -1,9 +1,79 @@
 {
-  "laatste_update": "2026-08-20T05:32:40.882879+00:00",
-  "aantal_items": 14,
+  "laatste_update": "2026-08-21T05:34:12.922290+00:00",
+  "aantal_items": 16,
   "items": [
     {
-      "titel": "Conference League kan zegen zijn voor Ajax, dat selectie nog niet op orde heeft",
+      "titel": "'Frenkie de Jong moet zich zorgen maken bij Barcelona'",
+      "samenvatting": "In deze aflevering van VI ZSM bespreekt kenner buitenlands voetbal Süleyman Öztürk de situatie van Frenkie de Jong bij Barcelona. Door de komst van Rodri neemt de concurrentie op het middenveld flink toe en rijst de vraag welke rol er nog voor de Nederlander is weggelegd.",
+      "bron": "VI",
+      "link": "https://www.vi.nl/video/frenkie-de-jong-moet-zich-zorgen-maken-bij-barcelona",
+      "datum": "2026-08-21T05:30:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "'Medespelers voelen zich in het combinatiespel misschien prettiger bij Lammers'",
+      "samenvatting": "Karim El Ahmadi denkt dat Wout Weghorst ook bij FC Twente een goede pinchhitter kan zijn. Momenteel is de lange aanvaller de eerste keus in de punt van de aanval, maar de analyticus zag Weghorst een ongelukkige wedstrijd spelen tegen Qarabag .",
+      "bron": "VI",
+      "link": "https://www.vi.nl/nieuws/medespelers-voelen-zich-in-het-combinatiespel-misschien-prettiger-bij-lammers",
+      "datum": "2026-08-20T21:55:37+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Luid gejuich bij wissel, maar Van den Brom schrijft Weghorst niet af: 'Zou slecht zijn'",
+      "samenvatting": "Zes wedstrijden voor FC Twente, één doelpunt. Het zijn de vooralsnog zuinige statistieken van Wout Weghorst bij FC Twente. De spits krijgt kritiek, het publiek juicht als zijn concurrent Sam Lammers in het veld komt en Weghorst zelf moest in de Conference League play-offwedstrijd tegen FK Qarabag...",
+      "bron": "NOS Voetbal",
+      "link": "https://nos.nl/l/2627676",
+      "datum": "2026-08-20T21:32:24+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "FC Twente op Rapport: Weghorst met het laagste cijfer",
+      "samenvatting": "FC Twente staat voor een inhaalslag na de nederlaag in eigen huis tegen Qarabag . De formatie uit Enschede kwam niet tot scoren in de Grolsch Veste, startende spits Wout Weghorst krijgt het laagste cijfer.",
+      "bron": "VI",
+      "link": "https://www.vi.nl/nieuws/fc-twente-op-rapport-weghorst-met-het-laagste-cijfer",
+      "datum": "2026-08-20T20:00:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Van den Brom wil meer uit Weghorst halen: 'Hij kijkt even de kat uit de boom'",
+      "samenvatting": "John van den Brom is in aanloop naar het heenduel met Qarabag uitgebreid ingegaan op het inpassen van Wout Weghorst bij FC Twente. De transfervrij overgekomen spits wist nog maar in beperkte mate zijn stempel te drukken op de Tukkers, weet ook zijn trainer.",
+      "bron": "VI",
+      "link": "https://www.vi.nl/nieuws/van-den-brom-wil-meer-uit-weghorst-halen-hij-kijkt-even-de-kat-uit-de-boom",
+      "datum": "2026-08-20T18:03:38+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Cody Gakpo staat op kruispunt in zijn carrière: Tottenham lonkt naar aanvaller, maar Liverpool twijfelt",
+      "samenvatting": "Een van de belangrijkste Oranje-internationals van de afgelopen jaren staat op een kruispunt in zijn carrière. Cody Gakpo (27) staat serieus in de belangstelling van Tottenham Hotspur, dat zo’n 60 miljoen euro voor hem wil betalen. Eerst stond Liverpool niet open voor een verkoop, toen weer wel e...",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/cody-gakpo-staat-op-kruispunt-in-zijn-carriere-tottenham-lonkt-naar-aanvaller-maar-liverpool-twijfelt~a09417fa/",
+      "datum": "2026-08-20T16:10:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Openingswedstrijd en finale WK voetbal voor vrouwen in iconisch Maracanã in Rio",
+      "samenvatting": "De openingswedstrijd en de finale van het WK voetbal van de vrouwen in 2027 worden gespeeld in het iconische stadion Maracanã in Rio de Janeiro. Dat heeft de FIFA bekendgemaakt. Het Maracanã, waar 78.838 toeschouwers in passen, is een van de beroemdste stadions ter wereld. De openingswedstrijd va...",
+      "bron": "NOS Voetbal",
+      "link": "https://nos.nl/l/2627611",
+      "datum": "2026-08-20T14:29:02+00:00",
+      "categorie": "algemeen",
+      "hot": true,
+      "is_social": false
+    },
+    {
+      "titel": "Ajax heeft selectie nog niet op orde, maar Conference League kan een zegen zijn",
       "samenvatting": "Ajax heeft de selectie nog lang niet op orde, dat is de conclusie na de eerste zes officiële wedstrijden van het seizoen. De ploeg mist diepgang, snelheid, spelers met een individuele actie en scorend vermogen. Zeker na het vertrek van Mika Godts naar Paris Saint-Germain voor 55 miljoen euro. Van...",
       "bron": "NOS Voetbal",
       "link": "https://nos.nl/l/2627553",
@@ -19,36 +89,6 @@
       "link": "https://www.ad.nl/voetbal/geen-warm-welkom-voor-frenkie-de-jong-oranje-international-uitgefloten-voor-oefenduel-barcelona~a24b392c/",
       "datum": "2026-08-19T20:22:00+00:00",
       "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Barcelona-fans verwelkomen Rodri, maar fluiten De Jong uit in Camp Nou",
-      "samenvatting": "Een volgepakt Camp Nou heeft woensdagavond de selectie van Barcelona voor het seizoen 2026/27 verwelkomd tijdens de traditionele wedstrijd om de Joan Gamper Trofee tegen Al-Ahly. Nieuwkomer Rodri kreeg een luid applaus, terwijl Frenkie de Jong door een deel van het publiek werd uitgefloten.",
-      "bron": "VI",
-      "link": "https://www.vi.nl/nieuws/barcelona-fans-verwelkomen-rodri-maar-fluiten-de-jong-uit-in-camp-nou",
-      "datum": "2026-08-19T19:19:44+00:00",
-      "categorie": "oranje",
-      "hot": true,
-      "is_social": false
-    },
-    {
-      "titel": "TransferTalk | Engelse club aast op Feyenoor­der Ahmedhod­zic, Arsenal haalt extra verdediger vanwege blessure Timber",
-      "samenvatting": "Het seizoen is al begonnen, maar tot begin september kunnen clubs nog spelers kopen of huren. Hier blijf je op de hoogte van alle geruchten en done deals!",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/transfertalk-engelse-club-aast-op-feyenoorder-ahmedhodzic-arsenal-haalt-extra-verdediger-vanwege-blessure-timber~acbd43e6/",
-      "datum": "2026-08-19T18:53:00+00:00",
-      "categorie": "oranje",
-      "hot": true,
-      "is_social": false
-    },
-    {
-      "titel": "FIFA-vicevoorzitter laat Infantino vallen, unanieme CAF-steun is niet zo unaniem",
-      "samenvatting": "Voorzitter Gianni Infantino verliest steeds meer draagvlak binnen de FIFA. Sandor Csanyi, een van de vicevoorzitters van de wereldvoetbalbond, heeft zijn steun ingetrokken. Ook blijkt de vermeende collectieve steun vanuit de Afrikaanse voetbalbond CAF minder unaniem dan werd voorgespiegeld.",
-      "bron": "VI",
-      "link": "https://www.vi.nl/nieuws/fifa-vicevoorzitter-laat-infantino-vallen-unanieme-caf-steun-is-niet-zo-unaniem",
-      "datum": "2026-08-19T18:30:35+00:00",
-      "categorie": "algemeen",
       "hot": false,
       "is_social": false
     },
@@ -103,31 +143,11 @@
       "is_social": false
     },
     {
-      "titel": "Ruben Kluivert speelt met Lyon gelijk bij Fenerbahçe van Nathan Aké en Dirk Kuyt",
-      "samenvatting": "De eerste wedstrijd tussen Fenerbahçe en Olympique Lyon in de play-offs van de Champions League heeft geen winnaar opgeleverd. Beide ploegen hielden elkaar in evenwicht in Istanbul (1-1).",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/ruben-kluivert-speelt-met-lyon-gelijk-bij-fenerbahce-van-nathan-ake-en-dirk-kuyt~abcbd9a4/",
-      "datum": "2026-08-18T21:02:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
       "titel": "Concurrentie voor De Jong: wereldkampioen Rodri van Manchester City naar FC Barcelona",
       "samenvatting": "De Spaanse middenvelder Rodri speelt de komende vier jaar voor FC Barcelona. De Catalaanse club betaalt volgens Spaanse media zo'n 76,5 miljoen euro, inclusief bonussen, aan Manchester City voor de aanvoerder van wereldkampioen Spanje. \"Ik ben heel blij dat ik er ben, spelen voor Barcelona is een...",
       "bron": "NOS Voetbal",
       "link": "https://nos.nl/l/2627415",
       "datum": "2026-08-18T17:12:19+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Van City naar Al-Qadsiah: wat Tijjani Reijnders aantreft bij de Saoedische club van WK-uitblinker Quiñones",
-      "samenvatting": "Tijjani Reijnders is in Saoedi-Arabië om zijn opvallende transfer af te ronden. Een vaste kracht van Oranje verruilt Manchester City en de Premier League voor de zandbak. Wat treft de 28-jarige Reijnders aan bij de club Al-Qadsiah uit Al-Khobar, een stad vastgegroeid aan de grote havenstad Dammam?",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/van-city-naar-al-qadsiah-wat-tijjani-reijnders-aantreft-bij-de-saoedische-club-van-wk-uitblinker-quinones~a4cc8747/",
-      "datum": "2026-08-18T15:15:00+00:00",
       "categorie": "oranje",
       "hot": false,
       "is_social": false
