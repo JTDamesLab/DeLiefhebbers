@@ -1,33 +1,113 @@
 {
-  "laatste_update": "2026-08-22T05:29:10.473272+00:00",
-  "aantal_items": 16,
+  "laatste_update": "2026-08-23T05:30:49.079012+00:00",
+  "aantal_items": 17,
   "items": [
     {
-      "titel": "Contact met Guardiola, urenlange sessies met Slot en ook Reiziger als optie: hoe KNVB uiteindelijk bij Xavi uitkwam",
+      "titel": "LIVE La Liga | FC Barcelona trapt seizoen af met uitwedstrijd tegen Elche",
+      "samenvatting": "Het La Liga-seizoen gaat beginnen voor FC Barcelona. Nog zonder de geblesseerde Frenkie de Jong gaat de kampioen van vorig seizoen op bezoek bij Elche. Volg de wedstrijd vanaf 21.30 uur hier live!",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/live-la-liga-fc-barcelona-trapt-seizoen-af-met-uitwedstrijd-tegen-elche~aae6b674/",
+      "datum": "2026-08-23T04:00:48+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Real boekt nipte zege bij debuut Dumfries en rentree Mourinho",
+      "samenvatting": "Real Madrid is er zaterdagavond in geslaagd het nieuwe seizoen te beginnen met een overwinning. Op bezoek bij Espanyol werd invaller Carlos Espí de gevierde man. Bij de terugkeer van José Mourinho als trainer van De Koninklijke kwamen alle nieuwe aanwinsten in actie, onder wie Denzel Dumfries .",
+      "bron": "VI",
+      "link": "https://www.vi.nl/nieuws/real-boekt-nipte-zege-bij-debuut-dumfries-en-rentree-mourinho",
+      "datum": "2026-08-22T21:49:47+00:00",
+      "categorie": "oranje",
+      "hot": true,
+      "is_social": false
+    },
+    {
+      "titel": "Real Madrid stelt in laatste minuut zege veilig bij debuut Dumfries en rentree Mourinho",
+      "samenvatting": "Denzel Dumfries heeft zijn eerste wedstrijd in het shirt van Real Madrid kunnen opluisteren met een overwinning. Bij Espanyol kwamen de Madrilenen in de slotfase met de schrik vrij toen invaller Carlos Espí puntenverlies voorkwam met de winnende 2-1. Zo werd de eerste competitiewedstrijd ook een ...",
+      "bron": "NOS Voetbal",
+      "link": "https://nos.nl/l/2627935",
+      "datum": "2026-08-22T21:33:23+00:00",
+      "categorie": "oranje",
+      "hot": true,
+      "is_social": false
+    },
+    {
+      "titel": "Nigel de Jong bevestigt dat Pep Guardiola eerste keus was van KNVB: ‘Arne Slot was de volgende op de lijst’",
+      "samenvatting": "Pep Guardiola was de eerste keus van de KNVB voor de functie van bondscoach van het Nederlands elftal, zo heeft directeur topsport Nigel de Jong van de KNVB in een gesprek met de NOS bevestigd. „We wisten al vrij snel dat hij een sabbatical wilde houden en Arne Slot was de volgende op de lijst.”",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/nigel-de-jong-bevestigt-dat-pep-guardiola-eerste-keus-was-van-knvb-arne-slot-was-de-volgende-op-de-lijst~a295315f/",
+      "datum": "2026-08-22T20:04:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "'Conflict dreigt tussen Mateta en Crystal Palace: FIFA ingeschakeld'",
+      "samenvatting": "Crystal Palace-spits Jean-Philippe Mateta stelt volgens de BBC dat het resterende deel van zijn contract (tot medio 2027) bij de Premier League-club ongeldig verklaard moet worden. De Frans international heeft bezwaar aangetekend bij de FIFA.",
+      "bron": "VI",
+      "link": "https://www.vi.nl/nieuws/conflict-dreigt-tussen-mateta-en-crystal-palace-fifa-ingeschakeld",
+      "datum": "2026-08-22T19:09:49+00:00",
+      "categorie": "algemeen",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "De Jong onthult namen shortlist: naast Xavi ook Guardiola, Slot en Reiziger kandidaat",
+      "samenvatting": "In de zoektocht naar een opvolger van Ronald Koeman als bondscoach van het Nederland had de KNVB vier kandidaten op het oog. Naast Xavi waren dat Pep Guardiola, Arne Slot en Jong Oranje-coach Michael Reiziger. In een openhartig interview met de NOS legt Nigel de Jong de werkwijze van de KNVB uit....",
+      "bron": "NOS Voetbal",
+      "link": "https://nos.nl/l/2627895",
+      "datum": "2026-08-22T16:21:17+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Technische staf rond nieuwe Oranje-bondscoach Xavi compleet",
+      "samenvatting": "De nieuwe Spaanse bondscoach Xavi Hernández heeft zijn staf voor het Nederlands elftal compleet. Ruud van Nistelrooij en Patrick Lodewijks blijven als assistent-bondscoach en keeperstrainer bij Oranje. Adil Ramzi komt over van de Nederlandse ploeg voor spelers jonger dan 19 jaar.",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/technische-staf-rond-nieuwe-oranje-bondscoach-xavi-compleet~a19eeab1/",
+      "datum": "2026-08-22T14:47:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Van Nistelrooij, Ramzi en drie Spanjaarden in staf Oranje-bondscoach Xavi",
+      "samenvatting": "De technische staf van de nieuwe Oranje-bondscoach Xavi Hernández is compleet. Ruud van Nistelrooij en Adil Ramzi worden zijn assistenten en Patrick Lodewijks blijft aan als keeperstrainer bij het Nederlands elftal. Daarnaast neemt Xavi zelf de Spaanse assistenten Sergio Alegre en Óscar Hernández...",
+      "bron": "NOS Voetbal",
+      "link": "https://nos.nl/l/2627881",
+      "datum": "2026-08-22T14:33:28+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Goed nieuws voor Oranje: Tottenham kan zomaar uitgroeien tot dé verrassing in de Premier League",
+      "samenvatting": "Arsenal begon gisteravond tegen Coventry City (3-0 zege) als favoriet aan de Premier League, maar het Oranje-getinte Tottenham Hotspur trekt de meeste aandacht. De club heeft in de zomermaanden onder coach Roberto De Zerbi reuzenstappen gezet en dat kan ook goed nieuws betekenen voor het Nederlan...",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/goed-nieuws-voor-oranje-tottenham-kan-zomaar-uitgroeien-tot-de-verrassing-in-de-premier-league~a1ae1e39b/",
+      "datum": "2026-08-22T12:10:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Fans van Corinthians pikken het niet: Memphis Depay zet het historische hoofdkwartier in brand in zijn nieuwe clip",
+      "samenvatting": "Memphis Depay blijft de aandacht trekken. Deze keer in negatieve zin. Daags na zijn droomrentree in de Copa Libertadores tegen de Argentijnse club Rosario Central (1-0) ligt de aanvaller van Corinthians onder vuur na het uitbrengen van een videoclip voor zijn nieuwe nummer Don’t panic. Daarin gaa...",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/fans-van-corinthians-pikken-het-niet-memphis-depay-zet-het-historische-hoofdkwartier-in-brand-in-zijn-nieuwe-clip~a7b314f5/",
+      "datum": "2026-08-22T07:15:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Geen Guardiola en Slot, en dus stapt De Jong op vlucht KL1543 naar Malaga: zo werd Xavi bondscoach",
       "samenvatting": "Dinsdagmiddag presenteert de KNVB eindelijk zijn nieuwe Oranje-bondscoach in Zeist: Xavi Hernández. Maar wat ging er allemaal schuil achter de wekenlange zoektocht? Hoe de bond na contact met Pep Guardiola en urenlange sessies met Arne Slot uiteindelijk bij de Spanjaard uitkwam.",
       "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/contact-met-guardiola-urenlange-sessies-met-slot-en-ook-reiziger-als-optie-hoe-knvb-uiteindelijk-bij-xavi-uitkwam~a80598dc/",
+      "link": "https://www.ad.nl/voetbal/geen-guardiola-en-slot-en-dus-stapt-de-jong-op-vlucht-kl1543-naar-malaga-zo-werd-xavi-bondscoach~a80598dc/",
       "datum": "2026-08-22T05:00:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Gakpo overtuigt zijn nieuwe manager: 'Hij snapt het spelletje'",
-      "samenvatting": "Cody Gakpo valt in de smaak bij zijn nieuwe manager Andoni Iraola. De Nederlander, die eerder deze transferperiode nadrukkelijk werd gelinkt aan Tottenham Hotspur, is momenteel een van de uitblinkers van Liverpool, zo vindt de Spanjaard.",
-      "bron": "VI",
-      "link": "https://www.vi.nl/nieuws/gakpo-overtuigt-zijn-nieuwe-manager-hij-snapt-het-spelletje",
-      "datum": "2026-08-21T21:45:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Bergwijn verpest debuut Reijnders bij Al-Qadsiah",
-      "samenvatting": "Het debuut van Tijjani Reijnders bij Al-Qadsiah is niet zo uitgepakt als hij had gehoopt. De invaller verloor van Al-Ittihad. Steven Bergwijn was de aangever bij het enige doelpunt van de wedstrijd (0-1).",
-      "bron": "VI",
-      "link": "https://www.vi.nl/nieuws/bergwijn-verpest-debuut-reijnders-bij-al-qadsiah",
-      "datum": "2026-08-21T20:02:00+00:00",
       "categorie": "oranje",
       "hot": false,
       "is_social": false
@@ -49,16 +129,6 @@
       "link": "https://www.ad.nl/voetbal/100-miljoen-in-vijf-jaar-38-euro-per-minuut-en-geen-cent-aan-de-belasting-alles-over-de-jackpot-van-tijjani-reijnders~af866acb/",
       "datum": "2026-08-21T17:30:00+00:00",
       "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Ook Deense bond keert zich tegen Infantino en belooft waardige tegenkandidaat",
-      "samenvatting": "In navolging van diverse andere voetbalbonden heeft ook die van Denemarken zich uitgesproken tegen FIFA-voorzitter Gianni Infantino. De DBU spreekt van 'een fundamentele vertrouwenscrisis' en belooft dat zij samen met de UEFA een waardige tegenkandidaat naar voren zal schuiven bij de presidentsve...",
-      "bron": "VI",
-      "link": "https://www.vi.nl/nieuws/ook-deense-bond-keert-zich-tegen-infantino-en-belooft-waardige-tegenkandidaat",
-      "datum": "2026-08-21T17:15:00+00:00",
-      "categorie": "algemeen",
       "hot": false,
       "is_social": false
     },
@@ -93,16 +163,6 @@
       "is_social": false
     },
     {
-      "titel": "Column Sjoerd Mossou | De familie Reijnders hoeft nooit meer te werken, maar Memphis Depay koos met hart en ziel",
-      "samenvatting": "Columnist Sjoerd Mossou zet de cynische transfer van Tijjani Reijnders tegenover de romantische contractverlenging van Memphis Depay, de spits die bij Corinthians uitgroeide tot een onwaarschijnlijk populair idool. „Een volksheld die zich qua populariteit inmiddels kan meten met oud-spelers zoals...",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/column-sjoerd-mossou-de-familie-reijnders-hoeft-nooit-meer-te-werken-maar-memphis-depay-koos-met-hart-en-ziel~ae44dbeb/",
-      "datum": "2026-08-21T10:52:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
       "titel": "Luid gejuich bij wissel, maar Van den Brom schrijft Weghorst niet af: 'Zou slecht zijn'",
       "samenvatting": "Zes wedstrijden voor FC Twente, één doelpunt. Het zijn de vooralsnog zuinige statistieken van Wout Weghorst bij FC Twente. De spits krijgt kritiek, het publiek juicht als zijn concurrent Sam Lammers in het veld komt en Weghorst zelf moest in de Conference League play-offwedstrijd tegen FK Qarabag...",
       "bron": "NOS Voetbal",
@@ -110,56 +170,6 @@
       "datum": "2026-08-20T21:32:24+00:00",
       "categorie": "oranje",
       "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Cody Gakpo staat op kruispunt in zijn carrière: Tottenham lonkt naar aanvaller, maar Liverpool twijfelt",
-      "samenvatting": "Een van de belangrijkste Oranje-internationals van de afgelopen jaren staat op een kruispunt in zijn carrière. Cody Gakpo (27) staat serieus in de belangstelling van Tottenham Hotspur, dat zo’n 60 miljoen euro voor hem wil betalen. Eerst stond Liverpool niet open voor een verkoop, toen weer wel e...",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/cody-gakpo-staat-op-kruispunt-in-zijn-carriere-tottenham-lonkt-naar-aanvaller-maar-liverpool-twijfelt~a09417fa/",
-      "datum": "2026-08-20T16:10:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Openingswedstrijd en finale WK voetbal voor vrouwen in iconisch Maracanã in Rio",
-      "samenvatting": "De openingswedstrijd en de finale van het WK voetbal van de vrouwen in 2027 worden gespeeld in het iconische stadion Maracanã in Rio de Janeiro. Dat heeft de FIFA bekendgemaakt. Het Maracanã, waar 78.838 toeschouwers in passen, is een van de beroemdste stadions ter wereld. De openingswedstrijd va...",
-      "bron": "NOS Voetbal",
-      "link": "https://nos.nl/l/2627611",
-      "datum": "2026-08-20T14:29:02+00:00",
-      "categorie": "algemeen",
-      "hot": true,
-      "is_social": false
-    },
-    {
-      "titel": "Ajax heeft selectie nog niet op orde, maar Conference League kan een zegen zijn",
-      "samenvatting": "Ajax heeft de selectie nog lang niet op orde, dat is de conclusie na de eerste zes officiële wedstrijden van het seizoen. De ploeg mist diepgang, snelheid, spelers met een individuele actie en scorend vermogen. Zeker na het vertrek van Mika Godts naar Paris Saint-Germain voor 55 miljoen euro. Van...",
-      "bron": "NOS Voetbal",
-      "link": "https://nos.nl/l/2627553",
-      "datum": "2026-08-20T04:18:41+00:00",
-      "categorie": "oranje",
-      "hot": true,
-      "is_social": false
-    },
-    {
-      "titel": "Komst Rodri slecht nieuws voor De Jong? 'Slechtste nieuws is zijn blessure'",
-      "samenvatting": "Met Rodri krijgt Frenkie de Jong er op het middenveld van FC Barcelona een geduchte concurrent bij. Win het maar eens van de Ballon d'Or-winnaar van 2024, de beste speler van het EK van 2024 en zelfs de beste speler van het afgelopen WK. \"Slecht nieuws voor De Jong\", zegt oud-coach Robert Maaskan...",
-      "bron": "NOS Voetbal",
-      "link": "https://nos.nl/l/2627506",
-      "datum": "2026-08-19T15:46:27+00:00",
-      "categorie": "oranje",
-      "hot": true,
-      "is_social": false
-    },
-    {
-      "titel": "Oranje-international Reijnders verruilt City voor megasalaris bij Al-Qadsiah",
-      "samenvatting": "Tijjani Reijnders maakt definitief de overstap van Manchester City naar het Saudische Al-Qadsiah. De middenvelder is na Crysencio Summerville de tweede Oranje-international die deze zomer naar Saudi-Arabië verhuist. De 28-jarige Reijnders zou City een bedrag van 61 miljoen euro opleveren. Hij gaa...",
-      "bron": "NOS Voetbal",
-      "link": "https://nos.nl/l/2627504",
-      "datum": "2026-08-19T15:27:33+00:00",
-      "categorie": "oranje",
-      "hot": true,
       "is_social": false
     }
   ]
