@@ -1,63 +1,103 @@
 {
-  "laatste_update": "2026-09-01T09:48:18.246083+00:00",
-  "aantal_items": 20,
+  "laatste_update": "2026-09-02T09:20:46.703780+00:00",
+  "aantal_items": 15,
   "items": [
     {
-      "titel": "Van Hooijdonk niet langer vaste analyticus bij de NOS",
-      "samenvatting": "Pierre van Hooijdonk is niet langer een van de vaste analytici van NOS Sport. De 46-voudig international van het Nederlands elftal heeft zelf aangegeven dat het tijd is voor andere dingen. Rafael van der Vaart blijft wel aan als vast analyticus.",
+      "titel": "Wijzigingen in Eredivisie-duels PSV, FC Twente en NEC",
+      "samenvatting": "De KNVB heeft enkele kleine wijzigingen aangebracht in het competitieschema. Met het oog op de Europese prestaties van PSV, FC Twente en NEC zijn drie duels van tijdstip veranderd.",
       "bron": "VI",
-      "link": "https://www.vi.nl/nieuws/van-hooijdonk-niet-langer-vaste-analyticus-bij-de-nos",
-      "datum": "2026-09-01T09:37:00+00:00",
+      "link": "https://www.vi.nl/nieuws/wijzigingen-in-eredivisie-duels-psv-fc-twente-en-nec",
+      "datum": "2026-09-02T08:40:00+00:00",
       "categorie": "oranje",
       "hot": false,
       "is_social": false
     },
     {
-      "titel": "Van Hooijdonk stopt als vaste analyticus bij NOS Sport",
-      "samenvatting": "Pierre van Hooijdonk neemt afscheid als vaste analyticus bij NOS Sport. De oud-international van Oranje was sinds 2015 vaste gast in het inmiddels verdwenen tv-programma Studio Voetbal. Ook was hij vaste analyticus bij wedstrijden van het Nederlands elftal. De 56-jarige Van Hooijdonk zegt altijd ...",
+      "titel": "Lastminute ommezwaai van Liverpool: Cody Gakpo boos na transfersoap waarin hij speelbal was",
+      "samenvatting": "Cody Gakpo was in zijn hoofd al speler van Manchester City, maar blijft toch bij Liverpool. De Oranje-international is zeer teleurgesteld door de gang van zaken. Eerst moest hij weg, toen niet, daarna weer wel en uiteindelijk trok Liverpool op het laatste moment zijn fiat weer in. Gakpo moet nu o...",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/lastminute-ommezwaai-van-liverpool-cody-gakpo-boos-na-transfersoap-waarin-hij-speelbal-was~a22fb935/",
+      "datum": "2026-09-02T05:00:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Quinten Timber vlak voor transferdeadline naar Conference League-winnaar Crystal Palace",
+      "samenvatting": "Oranje-international Quinten Timber heeft vlak voor het sluiten van de transfermarkt, afgelopen nacht om 0.00 uur, nog een nieuwe club gevonden. Hij maakt de overstap van Olympique Marseille naar Crystal Palace. De 25-jarige middenvelder heeft een contract voor vijf jaar getekend bij de Premier L...",
+      "bron": "NOS Voetbal",
+      "link": "https://nos.nl/l/2629333",
+      "datum": "2026-09-02T04:47:38+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Quinten Timber naar Crystal Palace, Myron Boadu naar Watford en Zian Flemming naar Ipswich Town",
+      "samenvatting": "De transferperiode is dinsdagavond afgelopen voor clubs uit Duitsland, Engeland, Frankrijk, Italië en Spanje. Clubs in Nederland kunnen woensdag nog de hele dag spelers kopen of huren. Op de buitenlandse Deadline Day maakten onder anderen Quinten Timber, Myron Boadu, Zian Flemming, Jack Grealish,...",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/quinten-timber-naar-crystal-palace-myron-boadu-naar-watford-en-zian-flemming-naar-ipswich-town~a0d161dd/",
+      "datum": "2026-09-02T00:36:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Manchester City geeft op Deadline Day nog 220 miljoen euro uit aan Enzo Fernández en Iliman Ndiaye",
+      "samenvatting": "Na lang speculeren heeft Manchester City de Argentijnse international Enzo Fernández eindelijk binnen. De middenvelder komt over voor een bedrag van 145 miljoen euro, een evenaring van het Premier League-record. Dat deelt de 25-jarige Argentijn nu met Alexander Isak die vorig jaar van Newcastle U...",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/manchester-city-geeft-op-deadline-day-nog-220-miljoen-euro-uit-aan-enzo-fernandez-en-iliman-ndiaye~a9642fba/",
+      "datum": "2026-09-01T23:40:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Crysencio Summerville doet het weer voor Al-Hilal: Oranje-international scoort ook tegen Aziatische CL-winnaar",
+      "samenvatting": "Crysencio Summerville heeft voor de tweede opeenvolgende wedstrijd gescoord voor Al-Hilal. De Oranje-international was trefzeker in de thuiswedstrijd tegen Al-Ahli: 3-0.",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/crysencio-summerville-doet-het-weer-voor-al-hilal-oranje-international-scoort-ook-tegen-aziatische-cl-winnaar~a2c8793d/",
+      "datum": "2026-09-01T20:40:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Miedema loopt weer knieblessure op en mist seizoensstart Manchester City",
+      "samenvatting": "Vivianne Miedema heeft opnieuw een knieblessure opgelopen. De 132-voudig international van Oranje mist daardoor de opening van de Engelse voetbalcompetitie, zo meldt haar club Manchester City. De aanvalster liep de blessure op tijdens een training. Hoelang ze afwezig zal zijn, zegt City niet. Vol...",
+      "bron": "NOS Voetbal",
+      "link": "https://nos.nl/l/2629292",
+      "datum": "2026-09-01T15:57:42+00:00",
+      "categorie": "oranje",
+      "hot": true,
+      "is_social": false
+    },
+    {
+      "titel": "Tegenslag blijft Vivianne Miedema achtervolgen: Oranje Leeuwin opnieuw uit roulatie met knieblessure",
+      "samenvatting": "Vivianne Miedema heeft opnieuw een knieblessure opgelopen. De 132-voudig international van Oranje mist daardoor de opening van de Engelse voetbalcompetitie, meldt haar club Manchester City.",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/tegenslag-blijft-vivianne-miedema-achtervolgen-oranje-leeuwin-opnieuw-uit-roulatie-met-knieblessure~a268aeb7/",
+      "datum": "2026-09-01T15:44:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Streep door megadeal: Cody Gakpo blijft definitief bij Liverpool",
+      "samenvatting": "Cody Gakpo blijft definitief bij Liverpool. De international leek de voorbije dagen op weg naar Manchester City, toen zijn huidige club ondanks gemaakte afspraken een streep door de deal zette. Inmiddels melden bronnen dat Gakpo ook niet meer naar een andere Engelse club - Tottenham Hotspur was o...",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/streep-door-megadeal-cody-gakpo-blijft-definitief-bij-liverpool~a45f15ae/",
+      "datum": "2026-09-01T12:40:00+00:00",
+      "categorie": "oranje",
+      "hot": true,
+      "is_social": false
+    },
+    {
+      "titel": "Van Hooijdonk stopt per direct als analyticus bij NOS Sport",
+      "samenvatting": "Pierre van Hooijdonk neemt per direct afscheid als vaste analyticus bij NOS Sport. De oud-international van Oranje was sinds 2015 vaste gast in het inmiddels verdwenen tv-programma Studio Voetbal. Ook was hij vaste analyticus bij wedstrijden van het Nederlands elftal. De 56-jarige Van Hooijdonk z...",
       "bron": "NOS Voetbal",
       "link": "https://nos.nl/l/2629235",
       "datum": "2026-09-01T09:01:16+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Transfer Deadline Show: schakel in voor al het laatste nieuws",
-      "samenvatting": "Het is Deadline Day in het buitenland en dus maken we bij VI liefst twee Transfer Deadline Shows! In de eerste schuiven Pieter Zwart en Sam Planting om 12.00 uur aan bij presentator Kalum van Oudheusden om de heetste transferzaken te bespreken. Zo probeerde Como Brian Brobbey naar Italië te halen...",
-      "bron": "VI",
-      "link": "https://www.vi.nl/nieuws/transfer-deadline-show-schakel-in-voor-al-het-laatste-nieuws",
-      "datum": "2026-09-01T08:15:22+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "'Malen en Dybala maken van Roma een titelkandidaat'",
-      "samenvatting": "Donyell Malen kent een droomstart bij AS Roma met vijf treffers in twee competitiewedstrijden. In de nieuwe aflevering van VI ZSM blikken Tim Tempelaars en Bart Frouws terug op het duel van Roma, met speciale aandacht voor Malen en Marten de Roon.",
-      "bron": "VI",
-      "link": "https://www.vi.nl/video/malen-en-dybala-maken-van-roma-een-titelkandidaat",
-      "datum": "2026-09-01T07:29:29+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Moet Xavi door met Virgil als captain?",
-      "samenvatting": "Virgil van Dijk gaat in gesprek met de nieuwe bondscoach Xavi Hernández over zijn rol binnen het Nederlands elftal. In de nieuwe VI ZSM gaan Tim Tempelaars en Bart Frouws dieper in op de nabije toekomst van de verdediger van Liverpool in Oranje.",
-      "bron": "VI",
-      "link": "https://www.vi.nl/video/moet-xavi-door-met-virgil-als-captain",
-      "datum": "2026-09-01T07:15:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Wat nog niet iedereen weet van Nederland - Ierland (2001)",
-      "samenvatting": "Een van de meest dramatische uitschakelingen van het Nederlands elftal vond plaats in 2001. Oranje verloor van Ierland in een wedstrijd die gewonnen moest worden om naar het WK 2002 in Japan en Zuid-Korea te gaan. Nu, 25 jaar later, kijkt VI PRO de wedstrijd integraal terug om te analyseren wat e...",
-      "bron": "VI",
-      "link": "https://www.vi.nl/pro/analyse-wat-nog-niet-iedereen-weet-van-nederland-ierland-2001",
-      "datum": "2026-09-01T07:00:00+00:00",
       "categorie": "oranje",
       "hot": false,
       "is_social": false
@@ -68,16 +108,6 @@
       "bron": "AD Voetbal",
       "link": "https://www.ad.nl/voetbal/iedereen-kent-de-medische-keuring-in-het-voetbal-maar-zo-gaat-die-echt-in-zijn-werk~a0136579/",
       "datum": "2026-09-01T06:00:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Voetbalpodcast | ‘Heeft Liverpool Cody Gakpo nu een grote dienst bewezen of niet?’",
-      "samenvatting": "Het gaat in deze AD Voetbalpodcast over aanvallers in het nieuws en verdedigers in het nieuws. Bijvoorbeeld hoe Xavi Donyell Malen aan het scoren krijgt in Oranje straks in september en of Virgil van Dijk er dan nog bij is. Over de spitsen van Feyenoord die de club de laatste jaren geld opleverde...",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/voetbalpodcast-heeft-liverpool-cody-gakpo-nu-een-grote-dienst-bewezen-of-niet~a42af5cd9/",
-      "datum": "2026-08-31T22:20:00+00:00",
       "categorie": "oranje",
       "hot": false,
       "is_social": false
@@ -103,51 +133,11 @@
       "is_social": false
     },
     {
-      "titel": "Liverpool krabbelt terug: megadeal Cody Gakpo naar Manchester City voorlopig van de baan",
-      "samenvatting": "Er lag al een akkoord over de financiële voorwaarden, maar de transfer van Cody Gakpo van Liverpool naar Manchester City is vlak voor de deadline - voorlopig - afgeketst.",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/liverpool-krabbelt-terug-megadeal-cody-gakpo-naar-manchester-city-voorlopig-van-de-baan~ae2b0911/",
-      "datum": "2026-08-31T16:42:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Virgil van Dijk hakt na gesprek met Xavi knoop door over toekomst bij Nederlands elftal",
-      "samenvatting": "Virgil van Dijk beslist pas na een gesprek met de nieuwe bondscoach Xavi Hernández of hij doorgaat als international van Oranje. Dat gaf de aanvoerder van Liverpool en het Nederlands elftal aan in een interview met The Times.",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/virgil-van-dijk-hakt-na-gesprek-met-xavi-knoop-door-over-toekomst-bij-nederlands-elftal~a582125b/",
-      "datum": "2026-08-31T12:40:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Column Hugo Borst | Dat de KNVB weigerde Peter Bosz aan te stellen blijft beledigend en onverantwoord",
-      "samenvatting": "Hugo Borst zit met nogal wat vragen, biecht hij op in zijn column. Want waarom keept Joël Drommel niet bij Feyenoord? Waarom zit Peter Bosz nog bij PSV en is hij niet de bondscoach van Oranje? En wat zat er achter de liefdesverklaring van KNVB-directeur Marianne van Leeuwen aan FIFA-baas Gianni I...",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/column-hugo-borst-dat-de-knvb-weigerde-peter-bosz-aan-te-stellen-blijft-beledigend-en-onverantwoord~a0c868c8/",
-      "datum": "2026-08-31T10:19:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
       "titel": "KNVB-voorzitter Paauw: 'Oplossing is niet meer samen met Infantino te vinden'",
       "samenvatting": "KNVB-voorzitter Frank Paauw vindt dat het gedaan moet zijn met het FIFA-voorzitterschap van Gianni Infantino. Er is volgens hem een duidelijke grens overschreden met het omstreden en inmiddels van tafel geveegde aandelenplan van de FIFA-baas. \"Het is klaar. Vroeger kwamen we samen tot een oplossi...",
       "bron": "NOS Voetbal",
       "link": "https://nos.nl/l/2629082",
       "datum": "2026-08-31T10:02:46+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Nederland neemt het voortouw: vijf vragen en antwoorden over de frontale aanval van de KNVB op Gianni Infantino",
-      "samenvatting": "Met een uitgebreid statement roept de KNVB op tot de vorming van ‘een nieuwe FIFA’. Net als de rest van Europa wil de Nederlandse voetbalbond af van Gianni Infantino, maar waarom neemt de Nederlandse voetbalbond zo nadrukkelijk het voortouw in deze strijd? Vijf vragen en vijf antwoorden.",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/nederland-neemt-het-voortouw-vijf-vragen-en-antwoorden-over-de-frontale-aanval-van-de-knvb-op-gianni-infantino~abb08af7/",
-      "datum": "2026-08-31T06:38:00+00:00",
       "categorie": "oranje",
       "hot": false,
       "is_social": false
@@ -159,46 +149,6 @@
       "link": "https://nos.nl/l/2629021",
       "datum": "2026-08-31T04:01:40+00:00",
       "categorie": "algemeen",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Oranje-talenten Renee van Asten (19) en Lotte Keukelaar (20) schitteren voor Barcelona en Real Madrid",
-      "samenvatting": "Renee van Asten heeft zondagavond gescoord bij haar Officiële debuut voor FC Barcelona Femení. In de thuiswedstrijd tegen Tenerife (5-0) maakte ze van dichtbij de vierde goal voor de Spaanse topclub in het Estadi Johan Cruyff.",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/oranje-talenten-renee-van-asten-19-en-lotte-keukelaar-20-schitteren-voor-barcelona-en-real-madrid~aece9c6a/",
-      "datum": "2026-08-30T21:52:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Oranje-international De Roon tekent bij Roma, einde tijdperk clubicoon bij Atalanta",
-      "samenvatting": "Middenvelder Marten de Roon laat Atalanta en Bergamo na tien seizoenen achter zich. De 35-jarige Oranje-international stapt over naar AS Roma, waar hij een contract voor één seizoen tekende. Bij Roma wordt De Roon herenigd met zijn oude Atalanta-coach Gian Piero Gasperini. Ook treft hij er de Ned...",
-      "bron": "NOS Voetbal",
-      "link": "https://nos.nl/l/2629015",
-      "datum": "2026-08-30T21:48:23+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Twente dient Cambuur vierde nederlaag toe, Weghorst scoort weer",
-      "samenvatting": "Fraaie doelpunten hebben FC Twente zondagavond een makkelijke overwinning opgeleverd in Leeuwarden: 1-4. Voor thuisploeg SC Cambuur betekende het al de vierde nederlaag in evenveel wedstrijden sinds de terugkeer in de eredivisie. Twente-spits Wout Weghorst, afgelopen donderdag belangrijk in het b...",
-      "bron": "NOS Voetbal",
-      "link": "https://nos.nl/l/2629006",
-      "datum": "2026-08-30T19:55:04+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Bellingham en Mbappé wijzen winnend Real Madrid de weg, Dumfries op de bank",
-      "samenvatting": "Real Madrid beleeft een vliegende start in de Spaanse La Liga. De Koninklijke won ook zijn derde competitiewedstrijd van het seizoen, thuis werd het 4-0 tegen Málaga. Málaga speelde in Bernabéu best aardig mee, maar de aanvallende kwaliteiten van Real Madrid gaven snel de doorslag: Jude Bellingha...",
-      "bron": "NOS Voetbal",
-      "link": "https://nos.nl/l/2629002",
-      "datum": "2026-08-30T18:41:59+00:00",
-      "categorie": "oranje",
       "hot": false,
       "is_social": false
     }
