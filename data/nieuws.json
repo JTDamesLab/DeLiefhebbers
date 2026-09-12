@@ -1,15 +1,85 @@
 {
-  "laatste_update": "2026-09-11T09:24:09.556133+00:00",
-  "aantal_items": 10,
+  "laatste_update": "2026-09-12T09:03:47.260105+00:00",
+  "aantal_items": 12,
   "items": [
     {
-      "titel": "Arteta brengt update over Timber: Oranje-bondscoach Xavi kijkt hoopvol mee",
-      "samenvatting": "Jurriën Timber lijkt op korte termijn zijn rentree te gaan maken bij Arsenal. De verdediger was maandenlang uit de roulatie door een blessure, maar is mogelijk al inzetbaar tegen Sunderland. Dat is ook goed nieuws voor Oranje-bondscoach Xavi Hernández met het oog op de komende interlandperiode.",
+      "titel": "Malen krijgt hulp van Fiorentina-tiener: Serie A heeft nu al meer hattricks",
+      "samenvatting": "Voor het zeer zwak gestarte Fiorentina was de overwinning van vrijdagavond bij Venezia van cruciaal belang. Grote man aan paarse zijde was de negentienjarige Franco Mastantuono, wiens hattrick bijdroeg aan de 2-4 zege én aan een opvallende statistiek.",
       "bron": "VI",
-      "link": "https://www.vi.nl/nieuws/arteta-brengt-update-over-timber-oranje-bondscoach-xavi-kijkt-hoopvol-mee",
-      "datum": "2026-09-11T09:19:04+00:00",
+      "link": "https://www.vi.nl/nieuws/malen-krijgt-hulp-van-fiorentina-tiener-serie-a-heeft-nu-al-meer-hattricks",
+      "datum": "2026-09-12T08:45:00+00:00",
       "categorie": "oranje",
-      "hot": true,
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Kratten sjouwend naar een tweede kans in Oekraïne: 'Je gaat nog van me horen'",
+      "samenvatting": "Van twee trainingen bij Sportlust '46 naar de Oekraïense Premjer Liha. Een onverwachte kans zette de zomer van Jimmy Mpanzu volledig op zijn kop. Niet zo lang geleden bezorgde de 24-jarige verdediger nog boodschappen voor Albert Heijn, binnenkort speelt hij tegen Dinamo Kiev. 'Steeds meer besef i...",
+      "bron": "VI",
+      "link": "https://www.vi.nl/pro/kratten-sjouwend-naar-een-tweede-kans-in-oekraine-je-gaat-nog-van-me-horen",
+      "datum": "2026-09-12T08:00:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Tolu jaagt op Suárez, Brobbey en Kluivert na voortvarende start bij Ajax",
+      "samenvatting": "Tolu Arokodare is hard op weg om zich tussen een select rijtje voorgangers bij Ajax te scharen. Als de Nigeriaanse spits ook tegen Fortuna Sittard weer in de basis staat én scoort, treedt hij in de voetsporen van mannen als Brian Brobbey en Luis Suárez.",
+      "bron": "VI",
+      "link": "https://www.vi.nl/nieuws/tolu-jaagt-op-suarez-brobbey-en-kluivert-na-voortvarende-start-bij-ajax",
+      "datum": "2026-09-12T04:30:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Voetbalwedstrijden voortaan direct gestaakt bij vuurwerk gooien naar veld of tribunes",
+      "samenvatting": "De KNVB heeft de protocollen rond het gebruik van vuurwerk tijdens voetbalwedstrijden aangescherpt. Voortaan worden wedstrijden direct gestaakt als er vuurwerk wordt gegooid of geschoten richting het veld of een ander vak. Dit besluit is genomen na overleg van de voetbalbond met het Openbaar Mini...",
+      "bron": "NOS Voetbal",
+      "link": "https://nos.nl/l/2630588",
+      "datum": "2026-09-11T13:27:49+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Voetbalwedstrijd voortaan standaard gestaakt bij gooien van vuurwerk",
+      "samenvatting": "Voetbalwedstrijden worden vanaf nu standaard gestaakt als er op de tribune vuurwerk wordt afgestoken dat op het veld of op andere tribunes terechtkomt. De wedstrijd zal pas op een andere dag worden uitgespeeld. Dat hebben de KNVB, het Openbaar Ministerie en minister David van Weel (Justitie en Ve...",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/politiek/voetbalwedstrijd-voortaan-standaard-gestaakt-bij-gooien-van-vuurwerk~af01e4b8/",
+      "datum": "2026-09-11T13:00:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Memphis Depay steekt middelvinger op naar Argentijnse fans, Zuid-Amerikaanse bond start onderzoek",
+      "samenvatting": "Memphis Depay moet mogelijk vrezen voor een schorsing. Tijdens de wedstrijd tegen Estudiantes om de Copa Libertadores stak de speler van Corinthians zijn middelvinger op naar het Argentijnse publiek. De Zuid-Amerikaanse voetbalbond CONMEBOL is een onderzoek gestart naar de actie van de topscorer ...",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/memphis-depay-steekt-middelvinger-op-naar-argentijnse-fans-zuid-amerikaanse-bond-start-onderzoek~af3acf64e/",
+      "datum": "2026-09-11T11:33:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Xavi zag het met eigen ogen in Liverpool: waarom zijn Oranje-middenveld er straks heel anders uitziet",
+      "samenvatting": "Xavi Hernández zat woensdag op de tribune in Liverpool. Hij zag Virgil van Dijk spelen en Ryan Gravenberch de bank warmhouden, zijn nieuwe rol. Welke indrukken en observaties neemt de bondscoach nog meer mee uit de eerste Champions League-week van zijn (kandidaat)-internationals?",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/xavi-zag-het-met-eigen-ogen-in-liverpool-waarom-zijn-oranje-middenveld-er-straks-heel-anders-uitziet~a06e6d5e/",
+      "datum": "2026-09-11T11:00:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Feyenoord deelt 47 stadionverboden uit na vuurwerkincident bij Cambuur",
+      "samenvatting": "Feyenoord heeft 47 supporters een stadionverbod opgelegd na misdragingen tijdens de uitwedstrijd bij SC Cambuur. De daders kunnen geen wedstrijden meer bezoeken in de Kuip, hun kaart voor uitwedstrijden is geblokkeerd en ze worden bij de KNVB aangemeld voor een landelijk stadionverbod, zo meldt d...",
+      "bron": "NOS Voetbal",
+      "link": "https://nos.nl/l/2630557",
+      "datum": "2026-09-11T10:08:13+00:00",
+      "categorie": "oranje",
+      "hot": false,
       "is_social": false
     },
     {
@@ -23,41 +93,11 @@
       "is_social": false
     },
     {
-      "titel": "Marokkaanse bondsvoorzitter claimt WK-finale voor Casablanca, FIFA fluit hem terug",
-      "samenvatting": "Volgens Fouzi Lekjaa, president van de Marokkaanse voetbalbond, wordt de WK-finale van 2030 in Casablanca gespeeld. De FIFA sprak dat echter direct tegen en de uitspraak lijkt vooral bedoeld voor zijn eigen herverkiezingscampagne.",
-      "bron": "VI",
-      "link": "https://www.vi.nl/nieuws/marokkaanse-bondsvoorzitter-claimt-wk-finale-voor-casablanca-fifa-fluit-hem-terug",
-      "datum": "2026-09-11T07:20:09+00:00",
-      "categorie": "algemeen",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Musaba volgt voorbeeld Banzuzi en kiest voor interlandloopbaan bij DR Congo",
-      "samenvatting": "Anthony Musaba gaat zijn interlands spelen voor het nationale elftal van DR Congo. De 25-jarige aanvaller van Norwich City speelde drie interlands voor Jong Oranje, maar besloot net als Ezechiel Banzuzi en Jorthy Mokio voor het Afrikaanse land te kiezen.",
-      "bron": "VI",
-      "link": "https://www.vi.nl/nieuws/musaba-volgt-voorbeeld-banzuzi-en-kiest-voor-interlandloopbaan-bij-dr-congo",
-      "datum": "2026-09-11T06:03:05+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Nico Paz treedt in voetsporen van Messi op droomavond voor Como",
-      "samenvatting": "De Champions League raast door, bij hoge uitzondering ook op de donderdag. Bayern München en Manchester United kwamen bijvoorbeeld in actie en Donyell Malen stond met AS Roma al vroeg tegenover het Fenerbahçe van bijvoorbeeld Nathan Aké, Jayden Oosterwolde en assistent-trainer Dirk Kuijt.",
-      "bron": "VI",
-      "link": "https://www.vi.nl/nieuws/vi-live-bayern-won-openingsduel-champions-league-in-laatste-23-edities",
-      "datum": "2026-09-10T21:45:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
       "titel": "Napoli laat Noa Lang uit selectie na ruzie op training: ‘Hij gedroeg zich slecht’",
       "samenvatting": "Noa Lang ontbrak woensdagavond in de selectie van Napoli voor het Champions League-duel met Arsenal (0-1 nederlaag). De Oranje-international werd disciplinair gestraft na een incident op de training.",
       "bron": "AD Voetbal",
       "link": "https://www.ad.nl/voetbal/napoli-laat-noa-lang-uit-selectie-na-ruzie-op-training-hij-gedroeg-zich-slecht~a6c1be6f/",
-      "datum": "2026-09-10T05:53:50+00:00",
+      "datum": "2026-09-10T05:53:00+00:00",
       "categorie": "oranje",
       "hot": true,
       "is_social": false
@@ -73,31 +113,11 @@
       "is_social": false
     },
     {
-      "titel": "Xavi bekijkt Virgil van Dijk bij Liverpool-Atlético en praat daarna met Oranje-aanvoerder",
-      "samenvatting": "Xavi Hernández zit vanavond op de tribune bij de Champions League-wedstrijd tussen Liverpool en Atlético Madrid. De bondscoach van Oranje is op Anfield om Virgil van Dijk aan het werk te zien. Aansluitend heeft hij een gesprek met de aanvoerder van het Nederlands elftal.",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/xavi-bekijkt-virgil-van-dijk-bij-liverpool-atletico-en-praat-daarna-met-oranje-aanvoerder~aaf41ef5/",
-      "datum": "2026-09-09T20:18:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
       "titel": "Twente wint van Telstar in weinig enerverend inhaalduel",
       "samenvatting": "FC Twente heeft een zuinige, maar verdiende 1-0 zege geboekt in het inhaalduel met Telstar. Vanwege Europese verplichtingen werd de wedstrijd uit de derde spelronde van de eredivisie woensdagavond gespeeld. Het winnende doelpunt kwam in de tweede helft van Sondre Ørjasaeter. Wout Weghorst miste v...",
       "bron": "NOS Voetbal",
       "link": "https://nos.nl/l/2630364",
       "datum": "2026-09-09T18:43:19+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "De nieuwe Sagrada Familia van Barcelona: renovatie Camp Nou is nog lang niet klaar",
-      "samenvatting": "Als de spelers van Feyenoord vanavond bij het betreden van de grasmat van het iconische Camp Nou om zich heen kijken, zien ze een half voltooid stadion. De grootste voetbaltempel van Europa wordt verbouwd, en die renovatie is nog lang niet klaar. Het is onze nieuwe Sagrada Familia, is de grap die...",
-      "bron": "NOS Voetbal",
-      "link": "https://nos.nl/l/2630261",
-      "datum": "2026-09-09T04:24:33+00:00",
       "categorie": "oranje",
       "hot": false,
       "is_social": false
