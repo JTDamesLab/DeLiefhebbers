@@ -1,73 +1,123 @@
 {
-  "laatste_update": "2026-10-02T10:55:43.407191+00:00",
+  "laatste_update": "2026-10-03T10:15:33.963047+00:00",
   "aantal_items": 20,
   "items": [
+    {
+      "titel": "Gasperini lyrisch: 'Ik dacht altijd al dat Donyell Malen beter was als spits'",
+      "samenvatting": "In Rome raakt men niet uitgepraat over Donyell Malen. De spits ontbreekt tijdens de interlandperiode bij Oranje vanwege een blessure. Trainer Gian Piero Gasperini is echter maar wat blij met de blakende vorm waarin zijn aanvaller verkeerde tot dusverre.",
+      "bron": "VI",
+      "link": "https://www.vi.nl/nieuws/gasperini-lyrisch-aston-villa-begreep-de-kracht-van-donyell-malen-niet",
+      "datum": "2026-10-03T09:25:28+00:00",
+      "categorie": "oranje",
+      "hot": true,
+      "is_social": false
+    },
+    {
+      "titel": "Dat beeld met het kleumende meisje bleef hangen: vijf oud-bondscoaches over jubilaris Virgil van Dijk",
+      "samenvatting": "Virgil van Dijk speelt zondagavond tegen Servië zijn 100ste interland voor Oranje. Wat is zijn erfenis tot nu toe? Vijf bondscoaches die met hem werkten oordelen. Ronald Koeman, Louis van Gaal, Danny Blind, Frank de Boer en Dick Advocaat kiezen ook één wedstrijd met Van Dijk die hen bijblijft.",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/dat-beeld-met-het-kleumende-meisje-bleef-hangen-vijf-oud-bondscoaches-over-jubilaris-virgil-van-dijk~a8b3c4fe/",
+      "datum": "2026-10-03T05:01:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Blessure bij nationaal elftal? FIFA betaalt clubs tot ruim 20.000 euro compensatie per dag",
+      "samenvatting": "Frenkie de Jong kwam geblesseerd terug van het WK, Brian Brobbey en Cody Gakpo vielen afgelopen week geblesseerd uit en ook Jan Paul van Hecke verliet Oranje, met een voetblessure. Blessures tijdens interlandperiodes zijn een terugkerend thema. Het is vervelend voor de speler, voor het Nederlands...",
+      "bron": "NOS Voetbal",
+      "link": "https://nos.nl/l/2633469",
+      "datum": "2026-10-03T04:00:10+00:00",
+      "categorie": "oranje",
+      "hot": true,
+      "is_social": false
+    },
+    {
+      "titel": "Van 't Schips Kazachstan gaat opnieuw onderuit",
+      "samenvatting": "Vrijdagavond startte met een belangrijk EK-kwalificatieduel van Jong Oranje met Slovenië (18.00 uur). Om 20.45 uur was er Nations League-voetbal met onder meer het België van Mark van Bommel tegen Turkije en de kraker tussen Frankrijk en Italië. Ondertussen speelde Heracles Almelo ook een belangr...",
+      "bron": "VI",
+      "link": "https://www.vi.nl/nieuws/heracles-mist-eerste-kans-op-periodetitel",
+      "datum": "2026-10-02T21:08:57+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Deze vier Oranje-spelers staan op scherp in duel met Servië",
+      "samenvatting": "Vier spelers van het Nederlands elftal moeten op hun tellen passen in het Nations League-duel met Servië. Zij hebben al een gele kaart gepakt in de eerste drie duels en staan dus op scherp.",
+      "bron": "VI",
+      "link": "https://www.vi.nl/nieuws/deze-vier-oranje-spelers-staan-op-scherp-in-duel-met-servie",
+      "datum": "2026-10-02T20:09:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Jong Oranje mag blijven hopen op EK na doelpuntrijke zege in Slovenië",
+      "samenvatting": "Jong Oranje houdt door een moeizame zege op Slovenië zicht op het EK. De ploeg van bondscoach Michael Reiziger scoorde er voor de verandering op los, maar maakte er defensief wel een potje van: 2-4. Ayoub Oufkir (AZ), Lequincio Zeefuik (verhuurd door AZ), Ernest Poku (ex-AZ) en Kees Smit (AZ) maa...",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/jong-oranje-mag-blijven-hopen-op-ek-na-doelpuntrijke-zege-in-slovenie~ae2ccce9/",
+      "datum": "2026-10-02T17:54:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Jong Oranje houdt zicht op EK met winst in Slovenië, dinsdag allesbeslissende dag",
+      "samenvatting": "Jong Oranje heeft gedaan wat het moest doen om zicht te houden op deelname aan het EK 2027. In Slovenië boekte de ploeg van Michael Reiziger een 2-4 overwinning. Met nog één wedstrijd te spelen staat Jong Oranje derde in de kwalificatiepoule, op een punt van Israël. Komende dinsdag speelt Jong Or...",
+      "bron": "NOS Voetbal",
+      "link": "https://nos.nl/l/2633452",
+      "datum": "2026-10-02T17:49:39+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Vrouw en kinderen vliegen speciaal over voor 100ste interland van Virgil van Dijk: ‘En mijn moeder is er ook, prachtig’",
+      "samenvatting": "Virgil van Dijk speelt komende zondag zijn honderdste interland, thuis tegen Servië in het Philips Stadion. „Dit leek voor mij iets onbereikbaars. Daarom heb ik er ook nooit echt van durven dromen’’, zo kijkt de aanvoerder van Oranje alvast vooruit.",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/vrouw-en-kinderen-vliegen-speciaal-over-voor-100ste-interland-van-virgil-van-dijk-en-mijn-moeder-is-er-ook-prachtig~a001f14e/",
+      "datum": "2026-10-02T14:00:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Jong Oranje staat voor bijna onmogelijke opdracht: zo kan het EK toch nog worden gehaald",
+      "samenvatting": "Het wordt op zijn zachtst gezegd een flinke klus voor Jong Oranje. Na de 3-2 zege van Jong Israël op Slovenië staat de ploeg van Michael Reiziger vierde in de EK-kwalificatiegroep. Er moet een mirakel gebeuren om het toernooi nog te bereiken. Dit zijn de scenario’s.",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/jong-oranje-staat-voor-bijna-onmogelijke-opdracht-zo-kan-het-ek-toch-nog-worden-gehaald~a59157b2/",
+      "datum": "2026-10-02T12:23:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Mossou schrijft: ‘Weinig zo geestdodend als de mixed zone, waar selfies soms belangrijker zijn dan vragen’",
+      "samenvatting": "Sjoerd Mossou is in Thessaloniki in het spoor van Oranje en bracht na Griekenland- Nederland een uur door in de zogenoemde ‘mixed zone’. In dit dagelijkse blog laat de AD-columnist en -journalist zijn licht schijnen over de wereld van het (top)voetbal. Soms rechtstreeks vanuit de coulissen, soms ...",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/sport/mossou-schrijft-weinig-zo-geestdodend-als-de-mixed-zone-waar-selfies-soms-belangrijker-zijn-dan-vragen~af592adb/",
+      "datum": "2026-10-02T11:34:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Oranje begint vaak in slaapstand: alleen Duitsland nog zwakker in eerste helft",
+      "samenvatting": "Hoewel bondscoach Xavi donderdagavond de hand in eigen boezem stak, staat het moeizame gelijkspel van Oranje in Griekenland (2-2) niet op zichzelf. Nederland begon de laatste jaren vaker in slaapstand aan een interland. In vergelijking met andere Europese toplanden presteert Oranje erg slecht in ...",
+      "bron": "NOS Voetbal",
+      "link": "https://nos.nl/l/2633404",
+      "datum": "2026-10-02T11:14:45+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
     {
       "titel": "Zelfkritische Lang: 'Ik vind dat ik al een jaar stilsta in mijn ontwikkeling'",
       "samenvatting": "\"Eén zwaluw maakt nog geen zomer.\" Noa Lang is de eerste om zijn sterke invalbeurt donderdagavond halverwege de interland tegen Griekenland (2-2) te relativeren. Hij is zelfs niet helemaal tevreden over zijn optreden. \"Ik was dreigend, maar ik heb niet gescoord, ik heb geen assist, dus er is ruim...",
       "bron": "NOS Voetbal",
       "link": "https://nos.nl/l/2633399",
       "datum": "2026-10-02T10:40:45+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "'Het is altijd de schuld van de trainer'",
-      "samenvatting": "Columnist Süleyman Öztürk over het verantwoordelijkheidsgevoel van Oranje-bondscoach Xavi.&nbsp;",
-      "bron": "VI",
-      "link": "https://www.vi.nl/pro/het-is-altijd-de-schuld-van-de-trainer",
-      "datum": "2026-10-02T10:15:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Rondje Oranje: Xavi redt met wissels punt voor Nederland",
-      "samenvatting": "Het Nederlands elftal speelde donderdag op de valreep gelijk in en tegen Griekenland in de Nations League. In Rondje Oranje blikt VI een dag later uitgebreid terug op de ontmoeting in Thessaloniki.",
-      "bron": "VI",
-      "link": "https://www.vi.nl/nieuws/rondje-oranje-xavi-redt-met-wissels-punt-voor-nederland",
-      "datum": "2026-10-02T09:58:11+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Slechtste reeks Oranje-defensie in 68 jaar: elf duels op rij een tegengoal",
-      "samenvatting": "De defensie van het Nederlands elftal zit er de laatste wedstrijden niet lekker in. In ieder van de laatste elf wedstrijden werd minstens één goal geïncasseerd. Eén van de slechtste reeksen in de historie van Oranje.",
-      "bron": "VI",
-      "link": "https://www.vi.nl/nieuws/slechtste-reeks-oranje-defensie-in-68-jaar-elf-duels-op-rij-een-tegengoal",
-      "datum": "2026-10-02T09:52:44+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Servië-bondscoach Paunovic loopt leeg in aanloop naar duel met Oranje",
-      "samenvatting": "Servië verloor donderdag van Duitsland in de Nations League en leed daarmee de derde nederlaag op rij in de groep die de Serviërs delen met het Nederlands elftal en Griekenland. Na afloop was Veljko Paunovic even klaar met de kritiek die zijn ploeg voortdurend krijgt.",
-      "bron": "VI",
-      "link": "https://www.vi.nl/nieuws/servie-bondscoach-paunovic-loopt-leeg-in-aanloop-naar-duel-met-oranje",
-      "datum": "2026-10-02T09:48:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Xavi wil blessuregevallen niet als excuus gebruiken bij Oranje",
-      "samenvatting": "De spelers van het Nederlands elftal lijken deze interlandperiode met bosjes om te vallen. Ten opzichte van de eerste wedstrijd onder Xavi waren Brian Brobbey, Cody Gakpo en Jan Paul van Hecke er niet bij tegen Griekenland. Toch wil de Spaanse bondscoach van Oranje dat niet als een excuus gebruiken.",
-      "bron": "VI",
-      "link": "https://www.vi.nl/video/xavi-wil-blessuregevallen-niet-als-excuus-gebruiken-bij-oranje",
-      "datum": "2026-10-02T09:46:23+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Buitenspel van Dumfries: dit zijn de regels",
-      "samenvatting": "Het Nederlands elftal knokte zich donderdagavond tegen Griekenland terug van een achterstand en sleepte een gelijkspel uit het vuur. Dat had ook een overwinning kunnen zijn, ware het niet dat een doelpunt van Denzel Dumfries werd afgekeurd voor buitenspel. Hoe zit dat precies?",
-      "bron": "VI",
-      "link": "https://www.vi.nl/nieuws/buitenspel-van-dumfries-dit-zijn-de-regels",
-      "datum": "2026-10-02T09:20:07+00:00",
       "categorie": "oranje",
       "hot": false,
       "is_social": false
@@ -83,81 +133,11 @@
       "is_social": false
     },
     {
-      "titel": "'Wedstrijd met twee gezichten' volgens Xavi: 'Goed om van te leren'",
-      "samenvatting": "Het Nederlands elftal speelde donderdagavond gelijk op bezoek bij Griekenland. Na rust werd er door de ploeg van Xavi een achterstand goedgemaakt, waardoor Oranje toch nog een punt pakte. De Spaanse bondscoach van Nederland keek na een matige eerste helft vooral naar zichzelf en ziet een leerproc...",
-      "bron": "VI",
-      "link": "https://www.vi.nl/video/wedstrijd-met-twee-gezichten-volgens-xavi-goed-om-van-te-leren",
-      "datum": "2026-10-02T08:42:58+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
       "titel": "Griekse media: ‘Erkenning van fout leidde tot uitstekende coaching van Xavi in de tweede helft’",
       "samenvatting": "Ondanks het weggeven van een 2-0 voorsprong overheerst in Griekenland een gevoel van trots na de 2-2 tegen Oranje. ‘Ook tegen Nederland werd bevestigd dat we voor niets en niemand bang zijn!’",
       "bron": "AD Voetbal",
       "link": "https://www.ad.nl/voetbal/griekse-media-erkenning-van-fout-leidde-tot-uitstekende-coaching-van-xavi-in-de-tweede-helft~ada8f681/",
       "datum": "2026-10-02T07:38:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Curaçao jaagt na het WK op nieuwe doelen",
-      "samenvatting": "Curaçao is het post-WK-tijdperk op imponerende wijze begonnen. De thriller op bezoek bij Costa Rica, waar The Blue Wave een 3-0 achterstand omboog in een 3-4 overwinning, zal nog lang beklijven. Daarna boekte de ploeg van Dick Advocaat ook zeges op Nicaragua (6-1) en, afgelopen nacht, Trinidad &a...",
-      "bron": "VI",
-      "link": "https://www.vi.nl/pro/curacao-jaagt-na-het-wk-op-nieuwe-doelen",
-      "datum": "2026-10-02T07:31:31+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Oranje in het buitenland: Xavi's 'gigantische reactie' en 'knullige' Van Bommel",
-      "samenvatting": "In Spanje kijken ze met groot genoegen naar het wisselbeleid van Xavi Hernández bij het Nederlands elftal. Volgens het Spaanse journaille voorkwam Oranje een nederlaag ( 2-2 ) in Thessaloniki dankzij de 'gigantische reactie' van de bondscoach. In België ging het vooral over het 'knullige' balverl...",
-      "bron": "VI",
-      "link": "https://www.vi.nl/nieuws/spaanse-media-onder-de-indruk-van-xavi-s-gigantische-reactie-tegen-griekenland",
-      "datum": "2026-10-02T07:20:23+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Grieken teleurgesteld: 'Maar we moeten ook bescheiden blijven'",
-      "samenvatting": "In Griekenland heerste teleurstelling, nadat er donderdagavond een punt werd gepakt tegen het Nederlands elftal . Tijjani Reijnders schoot de Griekse droom pas laat in de wedstrijd aan diggelen, waardoor bondscoach Ivan Jovanovic en verdediger Konstantinos Tsimikas er toch wat beteuterd bij stonden.",
-      "bron": "VI",
-      "link": "https://www.vi.nl/nieuws/grieken-teleurgesteld-maar-we-moeten-ook-bescheiden-blijven",
-      "datum": "2026-10-02T07:03:32+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Waarom Oranje onder Xavi weer moest repareren",
-      "samenvatting": "Nederland is ontsnapt aan een nederlaag in Griekenland: 2-2. Tactische analyse van een wedstrijd waarin Xavi Hernández opnieuw tactische herstelwerkzaamheden moet uitvoeren.",
-      "bron": "VI",
-      "link": "https://www.vi.nl/pro/tactische-analyse-griekenland-nederland-waarom-xavi-weer-moest-repareren",
-      "datum": "2026-10-02T06:35:28+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Xavi gaat mentaliteit Oranje bespreken: 'Mogen niet met angst spelen'",
-      "samenvatting": "Na het gelijkspel van Nederland bij Griekenland pikte bondscoach Xavi er één specifiek punt uit om te bespreken met zijn groep: de mentaliteit. De Spanjaard hecht veel waarde aan plezier hebben in het spelletje en wil dat ook overbrengen op de spelers.",
-      "bron": "VI",
-      "link": "https://www.vi.nl/video/xavi-gaat-mentaliteit-oranje-bespreken-mogen-niet-met-angst-spelen",
-      "datum": "2026-10-02T06:33:50+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Jurriën Timber na eerste Oranje-basisplaats van 2026: 'Het was niet best'",
-      "samenvatting": "Jurriën Timber voelt zich fysiek over het algemeen goed na het duel van het Nederlands elftal met Griekenland in de Nations League ( 2-2 ). Samen met zijn broer Quinten Timber stond de verdediger in de basis, voor het eerst in hun gezamenlijke Oranje-loopbaan.",
-      "bron": "VI",
-      "link": "https://www.vi.nl/nieuws/jurrien-timber-na-eerste-oranje-basisplaats-van-2026-het-was-niet-best",
-      "datum": "2026-10-02T06:07:14+00:00",
       "categorie": "oranje",
       "hot": false,
       "is_social": false
@@ -170,16 +150,6 @@
       "datum": "2026-10-02T06:00:00+00:00",
       "categorie": "oranje",
       "hot": true,
-      "is_social": false
-    },
-    {
-      "titel": "LIVE EK-kwalificatie | Jong Oranje heeft plaatsing niet meer in eigen hand: vanavond Jong Slovenië tegenstander",
-      "samenvatting": "Jong Oranje heeft kwalificatie voor het EK Onder 21 niet meer in eigen hand. De ploeg van Michael Reiziger moet in ieder geval zelf winnen van Jong Slovenië. Volg het hier vanaf 18.00 uur live.",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/live-ek-kwalificatie-jong-oranje-heeft-plaatsing-niet-meer-in-eigen-hand-vanavond-jong-slovenie-tegenstander~ae2ccce9/",
-      "datum": "2026-10-02T04:00:49+00:00",
-      "categorie": "oranje",
-      "hot": false,
       "is_social": false
     },
     {
@@ -198,6 +168,36 @@
       "bron": "NOS Voetbal",
       "link": "https://nos.nl/l/2633349",
       "datum": "2026-10-01T21:54:04+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Schuldbewuste Xavi: 'Mijn excuses, slechte eerste helft was mijn fout'",
+      "samenvatting": "Oranje-bondscoach Xavi Hernández trekt na het 2-2 gelijkspel tegen Griekenland nadrukkelijk het boetekleed aan. \"De eerste helft waren we zo, zo slecht. En ik denk dat dat mijn fout is als trainer.\" Voor rust oogde Oranje machteloos en kwam het op een terechte 2-0 achterstand. In de rust bracht X...",
+      "bron": "NOS Voetbal",
+      "link": "https://nos.nl/l/2633348",
+      "datum": "2026-10-01T21:44:01+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Bondscoach Xavi neemt schuld op zich na zwakke eerste helft Oranje: ‘Dat is mijn fout’",
+      "samenvatting": "Oranje toonde donderdagavond twee gezichten in Thessaloniki. Na een belabberde eerste helft stond het Nederlands elftal met 2-0 achter, door een goed optreden na rust werd het nog 2-2 tegen Griekenland. Bondscoach Xavi Hernández trok het boetekleed aan en nam de schuld op zich voor de zwakke eers...",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/bondscoach-xavi-neemt-schuld-op-zich-na-zwakke-eerste-helft-oranje-dat-is-mijn-fout~a14c7ffc/",
+      "datum": "2026-10-01T21:26:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Oranje op rapport | PSV’ers krijgen een 4,5 voor duel in Griekenland, wel hoge cijfers voor Lang en Reijnders",
+      "samenvatting": "Het Nederlands elftal hield na een zwakke eerste en een heel wat betere tweede helft een punt over aan de uitwedstrijd tegen Griekenland: 2-2. Dat dankte het deels aan de invallers Noa Lang en Tijjani Reijnders, die een ruime voldoende scoorden. Dit zijn de cijfers van onze verslaggever Mikos Gouka.",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/oranje-op-rapport-psvers-krijgen-een-4-5-voor-duel-in-griekenland-wel-hoge-cijfers-voor-lang-en-reijnders~ac08761d/",
+      "datum": "2026-10-01T21:11:00+00:00",
       "categorie": "oranje",
       "hot": false,
       "is_social": false
