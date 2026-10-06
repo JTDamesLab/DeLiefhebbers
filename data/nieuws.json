@@ -1,33 +1,103 @@
 {
-  "laatste_update": "2026-10-05T12:06:04.390181+00:00",
+  "laatste_update": "2026-10-06T11:50:44.967764+00:00",
   "aantal_items": 20,
   "items": [
+    {
+      "titel": "Jong Oranje staat voor allesbeslissende avond: zo houdt ploeg van Michael Reiziger deur richting het EK open",
+      "samenvatting": "Jong Oranje gaat dinsdagavond voor zijn laatste kans op kwalificatie voor het EK van komende zomer. Jong Bosnië en Herzegovina is om 18.45 uur de tegenstander in Doetinchem. De ploeg van bondscoach Michael Reiziger heeft het niet meer in eigen hand en is afhankelijk van de uitslag in Noorwegen. D...",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/jong-oranje-staat-voor-allesbeslissende-avond-zo-houdt-ploeg-van-michael-reiziger-deur-richting-het-ek-open~af5ac128/",
+      "datum": "2026-10-06T11:00:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "'Hoogtepunt van de training': Frenkie de Jong sluit weer aan bij Barcelona",
+      "samenvatting": "Frenkie de Jong heeft een volgende stap gezet richting zijn eerste minuten van het seizoen. De middenvelder sloot dinsdag aan op de groepstraining van Barcelona.",
+      "bron": "VI",
+      "link": "https://www.vi.nl/nieuws/hoogtepunt-van-de-training-frenkie-de-jong-sluit-weer-aan-bij-barcelona",
+      "datum": "2026-10-06T10:33:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "België hield lang stand tegen Frankrijk: 'Was uiteindelijk geen houden meer aan'",
+      "samenvatting": "België leek lange tijd op weg naar een stunt tegen Frankrijk. De Belgen stonden tot de 77ste minuut met 0-1 voor, maar uiteindelijk sloegen de Fransen alsnog toe. Met vier treffers in de slotfase draaiden ze de wedstrijd volledig om. In VI ZSM bespreken Bart Frouws en Tim Tempelaars de wedstrijd ...",
+      "bron": "VI",
+      "link": "https://www.vi.nl/video/belgie-hield-lang-stand-tegen-frankrijk-was-uiteindelijk-geen-houden-meer-aan",
+      "datum": "2026-10-06T08:25:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Zo kijk je naar beslissend duel Jong Oranje in EK-kwalificatiegroep",
+      "samenvatting": "Jong Oranje speelt dinsdagavond de laatste wedstrijd in de EK-kwalificatiegroep. De ploeg van Michael Reiziger neemt het op tegen Bosnië en Herzegovina en probeert de tweede plek nog te bemachtigen. In dit artikel lees je waar het duel wordt uitgezonden.",
+      "bron": "VI",
+      "link": "https://www.vi.nl/nieuws/zo-kijk-je-naar-beslissend-duel-jong-oranje-in-ek-kwalificatiegroep",
+      "datum": "2026-10-06T07:33:25+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "AD Voetbalpodcast | ‘Er komt een moment dat clubs deze interlandperiodes niet meer accepteren’",
+      "samenvatting": "Voor Oranje zit de interlandperiode erop. Noorwegen was ook klaar met de Nations league. Of liever gezegd: de spelers. Na de nederlaag tegen Portugal vlogen ze met privéjets terug naar hun club. Het was een zware periode, zo vertelde de bondscoach na afloop.",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/ad-voetbalpodcast-er-komt-een-moment-dat-clubs-deze-interlandperiodes-niet-meer-accepteren~a42af5cd9/",
+      "datum": "2026-10-06T06:00:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Interlandbreak XL: waslijst aan blessures en kritiek, maar ook eindelijk tijd voor clubs",
+      "samenvatting": "De interlandperiode-XL zit er na vanavond op. Het Nederlands elftal was zestien dagen bijeen en speelde liefst vier interlands, met wisselend succes. Tijdens die interlands viel op dat meerdere spelers moesten afhaken met blessures. Brian Brobbey, Lutsharel Geertruida, Cody Gakpo, Jan Paul van He...",
+      "bron": "NOS Voetbal",
+      "link": "https://nos.nl/l/2633815",
+      "datum": "2026-10-06T04:14:11+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Frankrijk slaat hard toe in slotkwartier tegen dappere Belgen, ook Italië wint",
+      "samenvatting": "Frankrijk heeft ten koste van een dapper België zijn derde groepszege in de Nations League geboekt. De Fransen maakten in Parijs in het slotkwartier dankzij invallers Michael Olise en Rayan Cherki pas het verschil na lang op achterstand te hebben gestaan: 4-1. Het duel in het Stade de France was ...",
+      "bron": "NOS Voetbal",
+      "link": "https://nos.nl/l/2633809",
+      "datum": "2026-10-05T20:45:18+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Indonesië pakt eerste prijs sinds 1991 na penalty's tegen Thailand",
+      "samenvatting": "Het Indonesische voetbalelftal, vol (ex-)eredivisiespelers, heeft voor het eerst in 35 jaar een internationaal toernooi gewonnen. In de boeiende finale van de ASEAN Cup, een nieuw FIFA-toernooi voor landen uit Zuidoost-Azië, versloeg het Thailand na penalty's. Na een 2-2 gelijkspel na 120 minuten...",
+      "bron": "NOS Voetbal",
+      "link": "https://nos.nl/l/2633784",
+      "datum": "2026-10-05T16:31:05+00:00",
+      "categorie": "algemeen",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Mossou schrijft: ‘Van afwashulp naar honderd keer in Oranje: Virgil bewijst dat het kan’",
+      "samenvatting": "Lang voordat Virgil van Dijk honderd interlands voor Oranje speelde, verdiende hij zijn eerste euro’s als afwasser in Breda. AD-columnist en -journalist Sjoerd Mossou laat dagelijks zijn licht schijnen over de wereld van het (top)voetbal. Soms rechtstreeks vanuit de coulissen, soms door een heel ...",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/sport/mossou-schrijft-van-afwashulp-naar-honderd-keer-in-oranje-virgil-bewijst-dat-het-kan~af592adb/",
+      "datum": "2026-10-05T15:30:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
     {
       "titel": "Column Willem van Hanegem | Ruben van Bommel, Gjivai Zechiël en Mexx Meerdink komen nu in een andere fase",
       "samenvatting": "Columnist Willem van Hanegem vindt niet dat Oranje zich in de eerste twee weken onder bondscoach Xavi enorm heeft ontwikkeld. Maar toch zag hij genoeg lichtpuntjes. „Ruben van Bommel, Gjivai Zechiël en Mexx Meerdink weten na drie weken Oranje dat ze gewoon mee kunnen.’’",
       "bron": "AD Voetbal",
       "link": "https://www.ad.nl/voetbal/column-willem-van-hanegem-ruben-van-bommel-gjivai-zechiel-en-mexx-meerdink-komen-nu-in-een-andere-fase~a403cc8a/",
-      "datum": "2026-10-05T11:00:03+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Rondje Oranje: Xavi sluit eerste periode af met zege",
-      "samenvatting": "Om 12.00 uur weer een nieuwe aflevering van Rondje Oranje. Süleyman Öztürk en Simon Zwartkruis praten uitgebreid na over de zege van Nederland tegen Servië.",
-      "bron": "VI",
-      "link": "https://www.vi.nl/nieuws/rondje-oranje-xavi-sluit-eerste-periode-af-met-zege",
-      "datum": "2026-10-05T10:01:08+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Xavi bewijst ongelijk Koeman over Saoedische competitie, defensie valt tegen",
-      "samenvatting": "De eerste interlandperiode van Xavi Hernández als bondscoach van het Nederlands elftal zit erop. Een goed moment om de balans op te maken. Welke spelers kwamen het best uit de VI-beoordelingen en welke spelers vielen door de mand?",
-      "bron": "VI",
-      "link": "https://www.vi.nl/nieuws/xavi-bewijst-ongelijk-koeman-over-saoedische-competitie-defensie-valt-tegen",
-      "datum": "2026-10-05T09:45:00+00:00",
+      "datum": "2026-10-05T11:00:00+00:00",
       "categorie": "oranje",
       "hot": false,
       "is_social": false
@@ -43,101 +113,11 @@
       "is_social": false
     },
     {
-      "titel": "Wat de rol van Koopmeiners betekende voor de tactiek van Oranje",
-      "samenvatting": "Het was zonder twijfel wat het meest in het oog sprong bij de opstelling van Oranje tegen Servië: Teun Koopmeiners, die de rol van linkercentrale verdediger moest invullen. Wat dat betekende voor de tactiek die het Nederlands elftal hanteerde tegen de Serviërs, bespraken hoofdredacteur Pieter Zwa...",
-      "bron": "VI",
-      "link": "https://www.vi.nl/video/wat-de-rol-van-koopmeiners-betekende-voor-de-tactiek-van-oranje",
-      "datum": "2026-10-05T09:10:00+00:00",
-      "categorie": "oranje",
-      "hot": true,
-      "is_social": false
-    },
-    {
       "titel": "Drie lessen uit eerste interlandperiode Xavi en één prikkelende vraag over Frenkie de Jong-Joey Veerman als duo",
       "samenvatting": "Xavi Hernández heeft zijn eerste interlandperiode met Oranje achter de rug. Qua resultaten is het begin goed, qua spel zeer wisselvallig. De belofte die de nieuwe bondscoach deed kwam hij na: de strijd om een plek is op meerdere posities open gegooid. Onze voetbalexpert Maarten Wijffels trekt dri...",
       "bron": "AD Voetbal",
       "link": "https://www.ad.nl/voetbal/drie-lessen-uit-eerste-interlandperiode-xavi-en-een-prikkelende-vraag-over-frenkie-de-jong-joey-veerman-als-duo~ad4c363a/",
       "datum": "2026-10-05T09:00:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "VI Discussie: hoe deed Xavi het in zijn eerste duels als bondscoach van Oranje?",
-      "samenvatting": "De kop is eraf voor bondscoach Xavi Hernández. Aan zijn eerste vier wedstrijden als bondscoach van het Nederlands elftal hield de Spanjaard twee zeges en twee remises over. Hoe heeft Xavi het volgens onze lezers gedaan? Praat mee en breng je stem uit.",
-      "bron": "VI",
-      "link": "https://www.vi.nl/nieuws/vi-discussie-hoe-deed-xavi-het-in-zijn-eerste-duels-als-bondscoach-van-oranje",
-      "datum": "2026-10-05T08:45:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Toen Perisic Bosz weer vertrouwen gaf bij PSV: 'Ja, dat zit goed'",
-      "samenvatting": "Zo lang Peter Bosz bij PSV zit, heeft de trainer de honger ieder jaar geproefd. 'Dat is heerlijk om mee te werken', zegt hij. 'Heel even ben ik dat kwijt geweest. In mijn tweede jaar, na het EK. Dat was het jaar dat we besloten hadden alle spelers te houden.'",
-      "bron": "VI",
-      "link": "https://www.vi.nl/nieuws/toen-perisic-bosz-weer-vertrouwen-gaf-bij-psv-ja-dat-zit-goed",
-      "datum": "2026-10-05T08:45:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Duitse media speculeren al over 'zeldzaam scenario' in Oranje-groep",
-      "samenvatting": "De Duitse media speculeren al over een opvallend scenario in de Nations League-groep van Nederland, Griekenland, Duitsland en Servië. De Duitsers zijn onder bondscoach Jürgen Klopp teleurstellend begonnen aan de campagne. Indien Duitsland zich in de laatste twee duels herpakt en de overige uitsla...",
-      "bron": "VI",
-      "link": "https://www.vi.nl/nieuws/duitse-media-speculeren-al-over-zeldzaam-scenario-in-oranje-groep",
-      "datum": "2026-10-05T08:32:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Opluchting bij Spurs na blessurenieuws over Van de Ven en Van Hecke",
-      "samenvatting": "Tottenham Hotspur lijkt niet te hoeven vrezen voor een lange absentie van Micky van de Ven en Jan Paul van Hecke. De geplaagde Premier League-club zag beide internationals met blessures wegvallen bij Oranje. Tóch valt de schade op het eerste oog mee.",
-      "bron": "VI",
-      "link": "https://www.vi.nl/nieuws/opluchting-bij-spurs-na-blessurenieuws-over-van-de-ven-en-van-hecke",
-      "datum": "2026-10-05T08:04:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Oranje in cijfers: vrije trap terug, clean sheet ver weg",
-      "samenvatting": "Het Nederlands elftal heeft zondagavond de eerste interlandperiode onder Xavi afgesloten met een overwinning. In Eindhoven werd Servië met 2-1 verslagen. Dit zijn de belangrijkste statistieken van het duel, waarin Oranje eindelijk weer eens trefzeker was uit een directe vrije trap, Joshua Zirkzee...",
-      "bron": "VI",
-      "link": "https://www.vi.nl/pro/oranje-in-cijfers-vrije-trap-terug-clean-sheet-ver-weg",
-      "datum": "2026-10-05T08:00:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Indonesië speelt vandaag finale ASEAN Cup: 'Dit is gekkenwerk'",
-      "samenvatting": "Indonesië is volledig in de ban van de FIFA ASEAN Cup-finale. Het land treft maandagmiddag Thailand en kan de eerste officiële prijs sinds 1991 in de wacht slepen. Ole Romeny verwacht een totaal gekkenhuis in Jakarta.",
-      "bron": "VI",
-      "link": "https://www.vi.nl/nieuws/indonesie-speelt-vandaag-finale-asean-cup-dit-is-gekkenwerk",
-      "datum": "2026-10-05T07:49:00+00:00",
-      "categorie": "algemeen",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Mijlpaal Quiz: Van Dijk en zijn medeleden van de Club van 100",
-      "samenvatting": "Virgil van Dijk speelde zondagavond zijn honderdste interland voor Oranje en dus pakten we het mijlpalenlijstje erbij voor een quiz.",
-      "bron": "VI",
-      "link": "https://www.vi.nl/nieuws/mijlpaal-quiz-van-dijk-en-zijn-medeleden-van-de-club-van-100",
-      "datum": "2026-10-05T07:30:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Wereldpers niet onder indruk van 'futloos' Oranje: 'Het absolute minimum'",
-      "samenvatting": "De wereldmedia waren niet erg te spreken over het optreden van Nederland tegen Servië . De ploeg van Xavi Hernández bleef ongeslagen in deze interlandperiode, maar heeft niet bepaald indruk gemaakt in het buitenland. 'Oranje oogde wankel in de slotminuten.'",
-      "bron": "VI",
-      "link": "https://www.vi.nl/nieuws/wereldmedia-nog-niet-overtuigd-het-nederland-van-xavi-is-verre-van-perfect",
-      "datum": "2026-10-05T06:48:11+00:00",
       "categorie": "oranje",
       "hot": false,
       "is_social": false
@@ -183,21 +163,41 @@
       "is_social": false
     },
     {
-      "titel": "AD Voetbalpodcast | ‘Zoektocht naar de goede balans bij Oranje zal nog wel even duren’",
-      "samenvatting": "Een moeizame zege op Servië (2-1) in de Nations League. Een matige wedstrijd met spaarzame hoogtepunten. Het omschrijft de laatste interland van Oranje in deze periode van twee weken.",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/ad-voetbalpodcast-zoektocht-naar-de-goede-balans-bij-oranje-zal-nog-wel-even-duren~a42af5cd9/",
-      "datum": "2026-10-04T22:50:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
       "titel": "Xavi is stem kwijt na intense debuutweken: 'We zijn een familie aan het smeden'",
       "samenvatting": "Bondscoach Xavi Hernández gaf na de benauwde zege (2-1) op Servië aan dat hij even moet bijkomen van zijn eerste periode als bondscoach van het Nederlands elftal. \"Ik ben mijn stem kwijt. Maar dat is normaal.\" De bondscoach zag dat Oranje het wederom lastig had tegen Servië in de Nations League. ...",
       "bron": "NOS Voetbal",
       "link": "https://nos.nl/l/2633687",
       "datum": "2026-10-04T22:04:13+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Van Dijk had het moeilijk in kleedkamer na 100ste interland: 'Ben best wel emotioneel'",
+      "samenvatting": "Van alle Oranje-internationals die in Eindhoven van Servië wonnen (2-1) is er zeker één die de wedstrijd nooit zal vergeten. Aanvoerder Virgil van Dijk speelde zijn honderdste interland. \"Een hele speciale avond en een mooie mijlpaal, waar ik trots op ben\", zegt Van Dijk. \"Ik had het net wel even...",
+      "bron": "NOS Voetbal",
+      "link": "https://nos.nl/l/2633681",
+      "datum": "2026-10-04T21:27:10+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Virgil van Dijk emotioneel na zijn 100ste interland: ‘In de kleedkamer had ik het best wel moeilijk’",
+      "samenvatting": "Virgil van Dijk ontving na de wedstrijd van het Nederlands elftal in Eindhoven tegen Servië (2-1) een gouden schaal. De 35-jarige aanvoerder speelde zijn honderdste interland.",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/virgil-van-dijk-emotioneel-na-zijn-100ste-interland-in-de-kleedkamer-had-ik-het-best-wel-moeilijk~a941cf4b/",
+      "datum": "2026-10-04T21:21:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Oranje op rapport | Doelman Bart Verbruggen krijgt hoogste cijfer tegen Servië, veel nipte voldoendes",
+      "samenvatting": "Het Nederlandse elftal sloot de eerste interlandperiode onder bondscoach Xavi Hernández zondag af met een zwaarbevochten zege op Servië (2-1). Doelman Bart Verbruggen was belangrijk met de nodige reddingen en krijgt dan ook een 7 als rapportcijfer voor zijn optreden. Dit zijn de cijfers van onze ...",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/oranje-op-rapport-doelman-bart-verbruggen-krijgt-hoogste-cijfer-tegen-servie-veel-nipte-voldoendes~accfe7da/",
+      "datum": "2026-10-04T20:52:00+00:00",
       "categorie": "oranje",
       "hot": false,
       "is_social": false
