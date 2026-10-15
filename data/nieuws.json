@@ -1,33 +1,113 @@
 {
-  "laatste_update": "2026-10-14T09:57:39.850924+00:00",
-  "aantal_items": 17,
+  "laatste_update": "2026-10-15T09:39:22.787142+00:00",
+  "aantal_items": 18,
   "items": [
+    {
+      "titel": "Donyell Malen komt op gelijke hoogte met Yamal en Haaland door indrukwekkende cijfers bij AS Roma",
+      "samenvatting": "Donyell Malen kent een fantastisch seizoen bij AS Roma. In de top vijf grote Europese competities moet hij momenteel slechts twee spitsen voor zich dulden qua doelpunten. Twee treffers tegen Real Madrid in de Champions League onderstreepten zijn blakende vorm nog maar eens.",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/donyell-malen-komt-op-gelijke-hoogte-met-yamal-en-haaland-door-indrukwekkende-cijfers-bij-as-roma~aba78afa5/",
+      "datum": "2026-10-15T08:57:41+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "'Dan kan het Real Madrid zijn, maar wat Roma deed kan echt niet op dit niveau'",
+      "samenvatting": "AS Roma leek op weg naar een stunt tegen Real Madrid. Dankzij goals van Donyell Malen en Marten de Roon stond de ploeg zeven minuten voor tijd nog met 3-1 voor, maar in de slotfase ging het alsnog helemaal mis. In VI ZSM bespreken Rob Aarts en Jarno Verweij hoe Roma de overwinning door zwak verde...",
+      "bron": "VI",
+      "link": "https://www.vi.nl/video/dan-kan-het-real-madrid-zijn-maar-wat-roma-deed-kan-echt-niet-op-dit-niveau",
+      "datum": "2026-10-15T07:15:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Spaanse media luiden noodklok over Real Madrid: 'Mourinho heeft gefaald'",
+      "samenvatting": "Donyell Malen leek AS Roma even aan een verrassende 3-1 overwinning in Rome te helpen, maar in zeven minuten scoorde Real liefst drie keer . Genoeg stof tot napraten voor de Spaanse media.",
+      "bron": "VI",
+      "link": "https://www.vi.nl/nieuws/spaanse-media-luiden-noodklok-over-real-madrid-mourinho-heeft-gefaald",
+      "datum": "2026-10-15T06:48:22+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "'Uitzonderlijke' Malen zit Raphinha op de hielen met hoofdrol tegen Real Madrid",
+      "samenvatting": "Donyell Malen heeft zich weer van zijn beste kant laten zien. Met twee doelpunten tegen Real Madrid zorgde de Nederlander van AS Roma voor een indrukwekkende statistiek.",
+      "bron": "VI",
+      "link": "https://www.vi.nl/nieuws/uitzonderlijke-malen-zit-raphinha-op-de-hielen-met-hoofdrol-tegen-real-madrid",
+      "datum": "2026-10-15T05:35:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "AS Roma bezwijkt na doelpunten De Roon en Malen alsnog tegen Real Madrid",
+      "samenvatting": "AS Roma heeft Real Madrid laten ontsnappen in de Champions League. Door drie doelpunten van Nederlandse makelij, twee van Donyell Malen en een van Marten de Roon, kwam Roma met 3-1 voor. In de slotfase boog Madrid het duel op merkwaardige wijze helemaal om: 3-4. De Spanjaarden scoorden in de 83st...",
+      "bron": "NOS Voetbal",
+      "link": "https://nos.nl/l/2635012",
+      "datum": "2026-10-14T21:10:59+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Drie Nederlandse goals niet genoeg voor AS Roma: Real Madrid ontsnapt in krankzinnige slotfase",
+      "samenvatting": "Donyell Malen en Marten de Roon maakten samen drie goals voor AS Roma tegen Real Madrid, maar het bleek niet genoeg voor de overwinning. Gouden wissels van José Mourinho en drie rake hoekschoppen zorgden in een krankzinnige slotfase voor een late comeback: 3-4.",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/drie-nederlandse-goals-niet-genoeg-voor-as-roma-real-madrid-ontsnapt-in-krankzinnige-slotfase~ad16685c/",
+      "datum": "2026-10-14T20:11:00+00:00",
+      "categorie": "oranje",
+      "hot": true,
+      "is_social": false
+    },
+    {
+      "titel": "Gjivai Zechiël blijkt opnieuw Feyenoords belangrijkste ‘aanwinst’ van deze zomer",
+      "samenvatting": "Gjivai Zechiël maakte deze maand al zijn debuut in Oranje, woensdagavond was hij de absolute uitblinker in het Champions League-duel met Como. De doorbraak van de jonge Feyenoorder begint steeds meer op een sensatie te lijken.",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/gjivai-zechiel-blijkt-opnieuw-feyenoords-belangrijkste-aanwinst-van-deze-zomer~a2fa5b8a/",
+      "datum": "2026-10-14T19:47:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Zechiël en Hadj Moussa leiden sterk en effectief Feyenoord langs Como",
+      "samenvatting": "Feyenoord heeft in de Champions League zijn eerste overwinning van het seizoen geboekt door het Italiaanse Como te verslaan: 3-2. De koploper van de eredivisie was uitermate effectief en gaf nauwelijks kansen weg tegen de nummer 4 van het afgelopen Serie A-seizoen. Kersvers Oranje-international G...",
+      "bron": "NOS Voetbal",
+      "link": "https://nos.nl/l/2634991",
+      "datum": "2026-10-14T18:41:36+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Barcola hattrickheld Liverpool, ook Frimpong draagt bij aan doelpuntenfestijn in Linz",
+      "samenvatting": "Liverpool heeft een doelpuntrijke zege geboekt in de tweede speelronde van de Champions League. In Oostenrijk won de Engelse ploeg zonder aanvoerder Virgil van Dijk in de basis met 3-6 van LASK Linz. Bradley Barcola was met een hattrick de grote man bij Liverpool.",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/barcola-hattrickheld-liverpool-ook-frimpong-draagt-bij-aan-doelpuntenfestijn-in-linz~a3201bbc/",
+      "datum": "2026-10-14T18:36:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Voor uitblinker Valente is Feyenoord thuis geworden: 'Beetje het Groningen-gevoel'",
+      "samenvatting": "Als je een pass kan geven zoals Luciano Valente dat zaterdag tegen AZ deed op Givairo Read, zit je goed in je vel. Juist in de maand dat hij verrassend genoeg niet werd geselecteerd voor Oranje, blinkt de 23-jarige middenvelder uit. In Italië hebben ze ook wel door dat er een jongen met een Itali...",
+      "bron": "NOS Voetbal",
+      "link": "https://nos.nl/l/2634934",
+      "datum": "2026-10-14T11:45:07+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
     {
       "titel": "Genomineerd voor Gouden Bal, maar bij Oranje verliest Kerstin Casparij de strijd om een basisplek",
       "samenvatting": "Kerstin Casparij is één van de dertig beste speelsters ter wereld. Voor het eerst in haar carrière werd de Manchester City-speelster genomineerd voor de Gouden Bal. Maar bij Oranje moet ze het doen met invalbeurten. „Op dit moment wint Lynn Wilms die strijd.”",
       "bron": "AD Voetbal",
       "link": "https://www.ad.nl/voetbal/genomineerd-voor-gouden-bal-maar-bij-oranje-verliest-kerstin-casparij-de-strijd-om-een-basisplek~ab5c4e0b/",
       "datum": "2026-10-14T07:30:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Slovenië laatste horde richting WK voor Oranje Vrouwen",
-      "samenvatting": "Nog één tweeluik te gaan en de Oranje Leeuwinnen kunnen de tickets voor het WK in Brazilië boeken. Nadat Hongarije twee keer met het grootste gemak (0-8 en 3-0) werd verslagen wacht een play-off-finale tegen Slovenië.",
-      "bron": "VI",
-      "link": "https://www.vi.nl/pro/slovenie-laatste-horde-richting-wk-voor-oranje-vrouwen",
-      "datum": "2026-10-14T06:30:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "LIVE Champions League | Liverpool op bezoek in Oostenrijk, vanavond Malen tegenover Dumfries",
-      "samenvatting": "Een mooie avond vol Champions League-voetbal. Onder meer Liverpool, AS Roma, Real Madrid en Borussia Dortmund komen in actie. Volg alle tussenstanden hier live.",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/live-champions-league-liverpool-op-bezoek-in-oostenrijk-vanavond-malen-tegenover-dumfries~a3201bbc/",
-      "datum": "2026-10-14T04:00:30+00:00",
       "categorie": "oranje",
       "hot": false,
       "is_social": false
@@ -83,26 +163,6 @@
       "is_social": false
     },
     {
-      "titel": "Henk Fraser reageert op racisme bij duel Suriname: ‘Er waren ook spelers van Guatemala die er schande van spraken’",
-      "samenvatting": "Suriname wacht nog altijd af of het officiële protest dat de voetbalbond indiende bij de Concacaf iets oplevert. Het racistisch bejegen van de Surinaamse spelers door Guatemala moet worden bestraft, meent bondscoach Henk Fraser. FIFA-baas Gianni Infantino zei het land te steunen, maar tot op hede...",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/henk-fraser-reageert-op-racisme-bij-duel-suriname-er-waren-ook-spelers-van-guatemala-die-er-schande-van-spraken~ac0c1837/",
-      "datum": "2026-10-13T15:08:00+00:00",
-      "categorie": "algemeen",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Netflix bemachtigt Spaanse uitzendrechten WK voetbal 2030",
-      "samenvatting": "Netflix heeft de exclusieve uitzendrechten van het WK voetbal van 2030 bemachtigd voor Spanje en Andorra. De streamingdienst zendt alle 104 wedstrijden uit van het toernooi dat Spanje, Marokko en Portugal over vier jaar organiseren. Dat hebben Netflix en de FIFA dinsdag bekendgemaakt.",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/netflix-bemachtigt-spaanse-uitzendrechten-wk-voetbal-2030~a9c491e7e/",
-      "datum": "2026-10-13T14:32:01+00:00",
-      "categorie": "algemeen",
-      "hot": true,
-      "is_social": false
-    },
-    {
       "titel": "De Jong blijft nog vier jaar directeur topvoetbal bij KNVB",
       "samenvatting": "Nigel de Jong heeft zijn verbintenis met de KNVB verlengd en blijft nog vier jaar directeur topvoetbal van de KNVB. Het nieuwe contract van de oud-international gaat in op 1 januari, meldt de voetbalbond. Intern maakte de KNVB de contractverlenging van de 41-jarige De Jong eind vorige maand al be...",
       "bron": "NOS Voetbal",
@@ -113,61 +173,11 @@
       "is_social": false
     },
     {
-      "titel": "Clarence Seedorf leidt woensdag eerste training bij club van Memphis Depay en Zakaria Labyad",
-      "samenvatting": "Clarence Seedorf wordt komende woensdag gepresenteerd bij zijn nieuwe club Corinthians. De oud-speler van Ajax, Real Madrid, Inter en AC Milan zal die dag ook meteen zijn eerste training leiden, zo meldt de Braziliaanse club.",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/clarence-seedorf-leidt-woensdag-eerste-training-bij-club-van-memphis-depay-en-zakaria-labyad~a923909d/",
-      "datum": "2026-10-13T09:08:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Welke naam dragen fans van Oranje straks op hun shirt? ‘Een team dat voor elkaar vecht, trekt ook supporters aan’",
-      "samenvatting": "Minder hiërarchie en meer eenheid. Zo hervormde de nieuwe generatie Oranje Leeuwinnen afgelopen jaar de teamcultuur. Maar trekt zo’n sterk team zonder duidelijke uithangborden à la Lieke Martens of Sherida Spitse ook het publiek aan? „Ik denk dat dat óók iets is waar fans voor naar het stadion ko...",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/welke-naam-dragen-fans-van-oranje-straks-op-hun-shirt-een-team-dat-voor-elkaar-vecht-trekt-ook-supporters-aan~a6c3d164/",
-      "datum": "2026-10-13T08:00:42+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
       "titel": "Voetbalsters hebben naast WK nog een doel: 'Fans vermaken en naar stadion krijgen'",
       "samenvatting": "In de play-offs telt maar één ding: plaatsing voor het WK 2027 in Brazilië. Toch voelen de voetbalsters van Oranje dat er zeker in thuiswedstrijden ook iets anders te winnen valt: meer publiek naar de stadions trekken. Lynn Wilms spreekt van een \"dalende lijn\" in de afgelopen jaren. De 26-jarige ...",
       "bron": "NOS Voetbal",
       "link": "https://nos.nl/l/2634753",
       "datum": "2026-10-13T04:15:07+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Tevreden bondscoach gaat weinig wijzigen bij Oranjevoetbalsters na 0-8 uitzege",
-      "samenvatting": "Bondscoach Arjan Veurink is van plan weinig te veranderen aan de basis van het Nederlands elftal voor de thuiswedstrijd tegen Hongarije. De Oranjevoetbalsters wonnen vrijdag de uitwedstrijd met 0-8 en zijn dus al zo goed als zeker van een plek in de laatste ronde van de play-offs om een WK-ticket...",
-      "bron": "NOS Voetbal",
-      "link": "https://nos.nl/l/2634717",
-      "datum": "2026-10-12T16:28:28+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Bij nieuwe club Seedorf moeten spelers elkaar financieel bijstaan: 'Een nachtmerrie'",
-      "samenvatting": "Verdediger Gabriel Paulista heeft stevige kritiek geuit op het bestuur van het Braziliaanse Corinthians, de nieuwe club van trainer Clarence Seedorf. De ploeggenoot van Memphis Depay en Zakaria Labyad spreekt van een financiële crisis, van betalingsachterstanden van salarissen en van bestuurders ...",
-      "bron": "NOS Voetbal",
-      "link": "https://nos.nl/l/2634663",
-      "datum": "2026-10-12T09:41:22+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Op Anfield beschimpt Manchester City slaat hard toe na rode kaart Gravenberch",
-      "samenvatting": "Het veelbesproken Manchester City heeft de Premier League hervat met een overwinning bij Liverpool. Een rode kaart voor Ryan Gravenberch in de tweede helft, bij een stand van 0-0, was grotendeels bepalend op Anfield: 0-3. Het was voor City de eerste wedstrijd nadat de Premier League bekend had ge...",
-      "bron": "NOS Voetbal",
-      "link": "https://nos.nl/l/2634617",
-      "datum": "2026-10-11T17:41:21+00:00",
       "categorie": "oranje",
       "hot": false,
       "is_social": false
