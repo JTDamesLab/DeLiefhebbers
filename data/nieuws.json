@@ -1,43 +1,93 @@
 {
-  "laatste_update": "2026-10-15T09:39:22.787142+00:00",
-  "aantal_items": 18,
+  "laatste_update": "2026-10-16T09:32:51.027819+00:00",
+  "aantal_items": 17,
   "items": [
+    {
+      "titel": "Balende Quinten Timber: 'Niet hoe we ons willen laten zien in Europa'",
+      "samenvatting": "Quinten Timber vindt dat Crystal Palace het heeft laten liggen tegen Olympique Lyon . Zijn club verloor donderdag de tweede Europa League-wedstrijd van het seizoen en volgens de Nederlander had er meer ingezeten.",
+      "bron": "VI",
+      "link": "https://www.vi.nl/nieuws/balende-quinten-timber-niet-hoe-we-ons-willen-laten-zien-in-europa",
+      "datum": "2026-10-16T09:30:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "FIFA past regels aan na Balogun-kwestie, maar voor België 'stopt het daar niet'",
+      "samenvatting": "De FIFA heeft donderdag tijdens een zitting van de FIFA Council in Zürich beloofd dat het de regels omtrent het intrekken van een disciplinaire sanctie zal aanpassen. Aanleiding daarvoor is de geruchtmakende zaak rond de Amerikaanse aanvaller Folarin Balogun, die na de inmenging van Donald Trump ...",
+      "bron": "VI",
+      "link": "https://www.vi.nl/nieuws/fifa-past-regels-aan-na-balogun-kwestie-maar-voor-belgie-stopt-het-daar-niet",
+      "datum": "2026-10-16T09:09:40+00:00",
+      "categorie": "algemeen",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Seedorf drukt direct stempel bij Corinthians, fans roepen om slachtofferen Memphis",
+      "samenvatting": "De aanstelling van Clarence Seedorf als trainer van Corinthians maakt al voor zijn eerste wedstrijd een hoop los. Braziliaanse media zagen op het trainingsveld duidelijke veranderingen, al blijft het onrustig buiten het veld. Daarnaast roept een supportersdelegatie om het slachtofferen van Memphi...",
+      "bron": "VI",
+      "link": "https://www.vi.nl/nieuws/seedorf-drukt-direct-stempel-bij-corinthians-fans-roepen-om-slachtofferen-memphis",
+      "datum": "2026-10-16T07:00:59+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Oud-Feyenoorder scoort vanaf 40 meter, Brian Brobbey maakt rentree en rood voor Nederlander",
+      "samenvatting": "Ilias Sebaoui, doet die naam een belletje rinkelen? De 25-jarige Belg stond van 2023 tot en met 2025 onder contract bij Feyenoord. Donderdagavond schitterde hij met een heerlijke goal in de Conference League.",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/oud-feyenoorder-scoort-vanaf-40-meter-brian-brobbey-maakt-rentree-en-rood-voor-nederlander~a6d56ff3/",
+      "datum": "2026-10-16T05:58:44+00:00",
+      "categorie": "oranje",
+      "hot": true,
+      "is_social": false
+    },
+    {
+      "titel": "Seedorf vertrekt als commissaris KNVB vanwege trainersklus in Brazilië",
+      "samenvatting": "Clarence Seedorf heeft zijn functie als lid van de raad van commissarissen van de KNVB per direct neergelegd. De oud-international is sinds kort trainer van het Braziliaanse Corinthians. Zowel de bond als Seedorf kwam tot de slotsom dat die banen niet te verenigen zijn. Seedorf, die verantwoordel...",
+      "bron": "NOS Voetbal",
+      "link": "https://nos.nl/l/2635130",
+      "datum": "2026-10-15T18:31:12+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Seedorf per direct weg bij KNVB door aanstelling bij Corinthians van Memphis Depay",
+      "samenvatting": "Clarence Seedorf heeft besloten om per direct terug te treden als lid van de raad van commissarissen (RvC) van de KNVB. Aanleiding is zijn nieuwe functie als trainer van het Braziliaanse Corinthians, tevens de club van Oranje’s topscorer aller tijden Memphis Depay.",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/seedorf-per-direct-weg-bij-knvb-door-aanstelling-bij-corinthians-van-memphis-depay~ad7e00d4/",
+      "datum": "2026-10-15T18:18:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "‘Deze uitbarsting van Martinez deed denken aan Quinten Timber, vorig seizoen bij Feyenoord’",
+      "samenvatting": "De media-afdelingen van voetbalclubs willen alles regisseren en controleren, maar dat lukt gelukkig lang niet altijd. AD-columnist en -journalist Sjoerd Mossou laat dagelijks zijn licht schijnen over de wereld van het (top)voetbal. Soms rechtstreeks vanuit de coulissen, soms door een heel persoon...",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/sport/deze-uitbarsting-van-martinez-deed-denken-aan-quinten-timber-vorig-seizoen-bij-feyenoord~af592adb/",
+      "datum": "2026-10-15T14:28:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "FIFA-raad wijst plan af om regels aan te passen na Donald Trump-controverse tijdens WK",
+      "samenvatting": "De FIFA wilde het tuchtreglement aan te passen om een herhaling te voorkomen van de controverse na het intrekken van de rode kaart voor Folarin Balogun tijdens het WK voetbal. Het plan is echter afgewezen door de FIFA-raad.",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/fifa-raad-wijst-plan-af-om-regels-aan-te-passen-na-donald-trump-controverse-tijdens-wk~a05de8e0/",
+      "datum": "2026-10-15T14:16:00+00:00",
+      "categorie": "algemeen",
+      "hot": false,
+      "is_social": false
+    },
     {
       "titel": "Donyell Malen komt op gelijke hoogte met Yamal en Haaland door indrukwekkende cijfers bij AS Roma",
       "samenvatting": "Donyell Malen kent een fantastisch seizoen bij AS Roma. In de top vijf grote Europese competities moet hij momenteel slechts twee spitsen voor zich dulden qua doelpunten. Twee treffers tegen Real Madrid in de Champions League onderstreepten zijn blakende vorm nog maar eens.",
       "bron": "AD Voetbal",
       "link": "https://www.ad.nl/voetbal/donyell-malen-komt-op-gelijke-hoogte-met-yamal-en-haaland-door-indrukwekkende-cijfers-bij-as-roma~aba78afa5/",
       "datum": "2026-10-15T08:57:41+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "'Dan kan het Real Madrid zijn, maar wat Roma deed kan echt niet op dit niveau'",
-      "samenvatting": "AS Roma leek op weg naar een stunt tegen Real Madrid. Dankzij goals van Donyell Malen en Marten de Roon stond de ploeg zeven minuten voor tijd nog met 3-1 voor, maar in de slotfase ging het alsnog helemaal mis. In VI ZSM bespreken Rob Aarts en Jarno Verweij hoe Roma de overwinning door zwak verde...",
-      "bron": "VI",
-      "link": "https://www.vi.nl/video/dan-kan-het-real-madrid-zijn-maar-wat-roma-deed-kan-echt-niet-op-dit-niveau",
-      "datum": "2026-10-15T07:15:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Spaanse media luiden noodklok over Real Madrid: 'Mourinho heeft gefaald'",
-      "samenvatting": "Donyell Malen leek AS Roma even aan een verrassende 3-1 overwinning in Rome te helpen, maar in zeven minuten scoorde Real liefst drie keer . Genoeg stof tot napraten voor de Spaanse media.",
-      "bron": "VI",
-      "link": "https://www.vi.nl/nieuws/spaanse-media-luiden-noodklok-over-real-madrid-mourinho-heeft-gefaald",
-      "datum": "2026-10-15T06:48:22+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "'Uitzonderlijke' Malen zit Raphinha op de hielen met hoofdrol tegen Real Madrid",
-      "samenvatting": "Donyell Malen heeft zich weer van zijn beste kant laten zien. Met twee doelpunten tegen Real Madrid zorgde de Nederlander van AS Roma voor een indrukwekkende statistiek.",
-      "bron": "VI",
-      "link": "https://www.vi.nl/nieuws/uitzonderlijke-malen-zit-raphinha-op-de-hielen-met-hoofdrol-tegen-real-madrid",
-      "datum": "2026-10-15T05:35:00+00:00",
       "categorie": "oranje",
       "hot": false,
       "is_social": false
@@ -103,16 +153,6 @@
       "is_social": false
     },
     {
-      "titel": "Genomineerd voor Gouden Bal, maar bij Oranje verliest Kerstin Casparij de strijd om een basisplek",
-      "samenvatting": "Kerstin Casparij is één van de dertig beste speelsters ter wereld. Voor het eerst in haar carrière werd de Manchester City-speelster genomineerd voor de Gouden Bal. Maar bij Oranje moet ze het doen met invalbeurten. „Op dit moment wint Lynn Wilms die strijd.”",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/genomineerd-voor-gouden-bal-maar-bij-oranje-verliest-kerstin-casparij-de-strijd-om-een-basisplek~ab5c4e0b/",
-      "datum": "2026-10-14T07:30:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
       "titel": "Voetbalsters zelfkritisch na 3-0 zege: 'Sprankelende niet weer kunnen opbrengen'",
       "samenvatting": "Na de 0-8 in Hongarije was de klus al geklaard. Toch wilden de voetbalsters van Oranje in Tilburg weer hun beste spel laten zien en veel scoren. Bondscoach Arjan Veurink \"had wel iets meer verwacht\" van de thuiswedstrijd, die dinsdag probleemloos met 3-0 werd gewonnen. \"De lat lag ook wel erg hoo...",
       "bron": "NOS Voetbal",
@@ -123,61 +163,11 @@
       "is_social": false
     },
     {
-      "titel": "Jurriën Timber helpt Arsenal met schitterende treffer aan zege op Lille: ‘Madueke schreeuwde dat ik moest schieten’",
-      "samenvatting": "Met een fraaie aanname en een minstens zo knap stiftje zette Jurriën Timber zijn ploeg Arsenal op voorsprong tegen Lille in de Champions League. Mede dankzij de treffer van de Oranje-international boekte de Londense ploeg een overtuigende 3-0 zege.",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/jurrien-timber-helpt-arsenal-met-schitterende-treffer-aan-zege-op-lille-madueke-schreeuwde-dat-ik-moest-schieten~a3b20439/",
-      "datum": "2026-10-13T21:53:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
       "titel": "Club Brugge en Viking stunten tegen Inter en Bayern, knappe goal Timber",
       "samenvatting": "De tweede speelronde in de Champions League heeft een paar grote verrassingen opgeleverd. Het Noorse Viking Stavanger hield Bayern München in een spectaculair duel op 3-3. Minstens zo spectaculair was de 3-4 zege van Club Brugge in Milaan tegen Internazionale. Barcelona kwam in Istanbul terug van...",
       "bron": "NOS Voetbal",
       "link": "https://nos.nl/l/2634875",
       "datum": "2026-10-13T21:19:25+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Alleen Slovenië staat nog tussen Oranjevrouwen en WK na nieuwe zege op Hongarije",
-      "samenvatting": "De Nederlandse voetbalsters hebben zich, zoals verwacht, geplaatst voor de laatste ronde van de play-offs voor het WK 2027. Nadat Hongarije afgelopen vrijdag al met 0-8 was verslagen, boekte Oranje in de terugwedstrijd in Tilburg opnieuw een gemakkelijke zege: 3-0. In de laatste kwalificatieronde...",
-      "bron": "NOS Voetbal",
-      "link": "https://nos.nl/l/2634867",
-      "datum": "2026-10-13T20:37:37+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Oranje Leeuwinnen sparen Hongarije in Tilburg, maar plaatsen zich gemakkelijk voor finale play-offs",
-      "samenvatting": "De Oranje Leeuwinnen hebben zich met gemak geplaatst voor de laatste ronde play-offs van de WK-kwalificatie. De ploeg van bondscoach Arjan Veurink versloeg dinsdagavond Hongarije met 3-0, nadat het de uitwedstrijd al met 0-8 had gewonnen. Eind november is Slovenië de laatste horde voor het WK in ...",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/oranje-leeuwinnen-sparen-hongarije-in-tilburg-maar-plaatsen-zich-gemakkelijk-voor-finale-play-offs~a56ad083/",
-      "datum": "2026-10-13T20:37:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "De Jong blijft nog vier jaar directeur topvoetbal bij KNVB",
-      "samenvatting": "Nigel de Jong heeft zijn verbintenis met de KNVB verlengd en blijft nog vier jaar directeur topvoetbal van de KNVB. Het nieuwe contract van de oud-international gaat in op 1 januari, meldt de voetbalbond. Intern maakte de KNVB de contractverlenging van de 41-jarige De Jong eind vorige maand al be...",
-      "bron": "NOS Voetbal",
-      "link": "https://nos.nl/l/2634782",
-      "datum": "2026-10-13T09:40:52+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Voetbalsters hebben naast WK nog een doel: 'Fans vermaken en naar stadion krijgen'",
-      "samenvatting": "In de play-offs telt maar één ding: plaatsing voor het WK 2027 in Brazilië. Toch voelen de voetbalsters van Oranje dat er zeker in thuiswedstrijden ook iets anders te winnen valt: meer publiek naar de stadions trekken. Lynn Wilms spreekt van een \"dalende lijn\" in de afgelopen jaren. De 26-jarige ...",
-      "bron": "NOS Voetbal",
-      "link": "https://nos.nl/l/2634753",
-      "datum": "2026-10-13T04:15:07+00:00",
       "categorie": "oranje",
       "hot": false,
       "is_social": false
