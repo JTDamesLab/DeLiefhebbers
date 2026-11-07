@@ -1,53 +1,133 @@
 {
-  "laatste_update": "2026-11-06T12:44:58.844573+00:00",
-  "aantal_items": 15,
+  "laatste_update": "2026-11-07T11:33:25.192709+00:00",
+  "aantal_items": 18,
   "items": [
     {
-      "titel": "Rondje Europa: Meerdink in Oranje, Koopmeiners Derby en Ajax blijft maar gaan",
-      "samenvatting": "Ajax heeft wederom gewonnen: dit keer werd FC Midtjylland met grote cijfers verslagen in de Conference League. Ook was er succes voor NEC en FC Twente, terwijl AZ onderuit ging tegen Juventus in de Koopmeiners Derby. Daarnaast heeft Xavi de selectie voor Oranje bekendgemaakt. Ajax-watcher Lentin ...",
+      "titel": "Deze dartende spits richt zijn pijlen op Ally Pally: 'Het egoïsme zit er nog in'",
+      "samenvatting": "Als spits van Harkemase Boys en Staphorst schoot Heine Uuldriks met scherp in de Derde Divisie en de KNVB Beker. Tegenwoordig mikt de 37-jarige darter op een heel ander doel. Na de stunt tegen Ricardo Pietreczko droomt Uuldriks zelfs van het WK in Ally Pally . Waarom ook niet? 'Eigenlijk ben ik p...",
       "bron": "VI",
-      "link": "https://www.vi.nl/pro/rondje-europa-meerdink-in-oranje-koopmeiners-derby-en-ajax-blijft-maar-gaan",
-      "datum": "2026-11-06T12:30:43+00:00",
-      "categorie": "oranje",
-      "hot": true,
-      "is_social": false
-    },
-    {
-      "titel": "'Ik heb nog nooit een trainer kritisch horen zijn op Frenkie de Jong'",
-      "samenvatting": "Frenkie de Jong speelde dinsdag zijn 300ste wedstrijd voor Barcelona. Een bijzondere mijlpaal, zeker gezien de vele trainerswissels en veranderingen in speelstijl die hij bij de club heeft meegemaakt. Iedere keer weet hij zich weer aan te passen. In Rondje Europa Extra bespreken Bas van den Hoven...",
-      "bron": "VI",
-      "link": "https://www.vi.nl/video/ik-heb-nog-nooit-een-trainer-kritisch-horen-zijn-op-frenkie-de-jong",
-      "datum": "2026-11-06T12:20:00+00:00",
+      "link": "https://www.vi.nl/pro/deze-dartende-spits-richt-zijn-pijlen-op-ally-pally-het-egoisme-zit-er-nog-in",
+      "datum": "2026-11-07T09:00:00+00:00",
       "categorie": "oranje",
       "hot": false,
       "is_social": false
     },
     {
-      "titel": "LIVE interlandvoetbal | Bondscoach VS laat Pepi fit worden bij PSV, Bayern hoopt op terugkeer Kompany na interlandbreak",
+      "titel": "Lof voor onderschatte Linssen: 'Ongelofelijk, hij blijft maar gaan'",
+      "samenvatting": "Bryan Linssen bewees donderdagavond opnieuw zijn waarde voor NEC. De spits is één meter zeventig, maar oogst respect als het gaat om kopgoals. In Rondje Oranje werden de prestaties van de 36-jarige aanvaller geroemd, die zijn ploeg met twee doelpunten hielp aan een overwinning op Omonia Nicosia.",
+      "bron": "VI",
+      "link": "https://www.vi.nl/video/lof-voor-onderschatte-linssen-ongelofelijk-hij-blijft-maar-gaan",
+      "datum": "2026-11-07T07:05:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Tegenkandidaat Infantino laakt gedrag FIFA-baas: 'Dit mag nooit meer gebeuren'",
+      "samenvatting": "Kozo Tashima wil de FIFA hervormen. De Japanse bestuurder heeft zich eerder deze week als tegenkandidaat voor de huidige FIFA-baas Gianni Infantino opgeworpen . De 68-jarige erevoorzitter van de Japanse voetbalbond JFA laakt het beleid dat Infantino nu voert bij de wereldvoetbalbond.",
+      "bron": "VI",
+      "link": "https://www.vi.nl/nieuws/tegenkandidaat-infantino-laakt-gedrag-fifa-baas-dit-mag-nooit-meer-gebeuren",
+      "datum": "2026-11-07T06:35:00+00:00",
+      "categorie": "algemeen",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Peddemors leidt Wolfsburg naar zege in topper met derde 'doppelpack' in drie weken",
+      "samenvatting": "Ella Peddemors heeft wederom een hoofdrol vertolkt bij haar club VfL Wolfsburg. De nummer twee van de Frauen Bundesliga won, met ook Lieske Carleer in de basis, op bezoek bij directe concurrent Eintracht Frankfurt: 1-3. Oranje-international Peddemors maakte voor de derde keer in drie weken tijd e...",
+      "bron": "NOS Voetbal",
+      "link": "https://nos.nl/l/2638373",
+      "datum": "2026-11-06T22:04:11+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Everton overleeft goal oud-Vitessenaar door Barry in topvorm",
+      "samenvatting": "Everton heeft vrijdagavond in de Premier League afgerekend met Coventry City, al ging dat lang niet van harte. De topvorm van Thierno Barry bracht echter redding voor de Toffees , die op achterstand kwamen door een oude bekende voor de Eredivisie-fanatiekelingen.",
+      "bron": "VI",
+      "link": "https://www.vi.nl/nieuws/everton-overleeft-goal-oud-vitessenaar-door-barry-in-topvorm",
+      "datum": "2026-11-06T21:55:41+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Oranje-futsallers doen goede zaken in WK-kwalificatie met ruime zege op Andorra",
+      "samenvatting": "De Nederlandse futsallers hebben uitstekende zaken gedaan in de kwalificatiecampagne voor het WK in 2028. In Andorra la Vella werd het stugge Andorra met 1-5 verslagen. Ayoub Boukhari en Mohamed Chih schoten voor rust beiden twee keer raak, Tevfik Ceyar zorgde vlak voor tijd voor de eindstand. Ee...",
+      "bron": "NOS Voetbal",
+      "link": "https://nos.nl/l/2638365",
+      "datum": "2026-11-06T21:28:55+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "'Jongetje' Plat en oude rot De Jong hebben bij Cambuur de weg omhoog gevonden",
+      "samenvatting": "Nieuwkomer SC Cambuur kende een beroerde start in de eredivisie met vier verliespartijen op rij. Maar de Leeuwarders, gepromoveerd als nummer twee in de eerste divisie, zijn inmiddels bezig aan een imposante reeks: zeven wedstrijden zonder nederlaag, goed voor de negende plaats op de ranglijst na...",
+      "bron": "NOS Voetbal",
+      "link": "https://nos.nl/l/2638343",
+      "datum": "2026-11-06T18:22:25+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "‘Heb je ook maar één druppel Marokkaans bloed, dan duiken ze op je’: hoe Marokko Nederlandse talenten overtuigt",
+      "samenvatting": "De KNVB deed er naar eigen zeggen alles aan om de talentvolle aanvaller Ayoub Oufkir (20) te behouden. De Rotterdammer koos voor Marokko. Hun aanpak werkt. En dit is waarom.",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/heb-je-ook-maar-een-druppel-marokkaans-bloed-dan-duiken-ze-op-je-hoe-marokko-nederlandse-talenten-overtuigt~a4050ae3/",
+      "datum": "2026-11-06T17:00:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Infantino-uitdager Tashima: uitgesproken bestuurder die voetbal naar Japan haalde",
+      "samenvatting": "Kohzo Tashima stapte gisteren naar voren als eerste serieuze rivaal voor Gianni Infantino in de strijd om het voorzitterschap van wereldvoetbalbond FIFA. Wie is deze 68-jarige voormalig international? \"Niet nóg harder lopen!\" In de zomer van 1980 hoorde Kohzo Tashima in Keulen iets wat geen Japan...",
+      "bron": "NOS Voetbal",
+      "link": "https://nos.nl/l/2638316",
+      "datum": "2026-11-06T15:28:19+00:00",
+      "categorie": "algemeen",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Geen play-offs Jong Oranje voor Zechiël en Van Bommel: Xavi vindt dat ze hun plek bij A-selectie Oranje hebben verdiend",
+      "samenvatting": "Xavi Hernández heeft zijn selectie voor de komende twee Nations League-duels met Griekenland en Duitsland gevormd. Wat valt op in de groep van 25 man? Drie zaken uitgelicht.",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/geen-play-offs-jong-oranje-voor-zechiel-en-van-bommel-xavi-vindt-dat-ze-hun-plek-bij-a-selectie-oranje-hebben-verdiend~a68985b3/",
+      "datum": "2026-11-06T14:00:00+00:00",
+      "categorie": "oranje",
+      "hot": true,
+      "is_social": false
+    },
+    {
+      "titel": "Jong Oranje met debutanten Aaron Bouwman en Jerayno Schaken op jacht naar EK-ticket tegen Denemarken",
+      "samenvatting": "Aaron Bouwman (Ajax) en Jerayno Schaken (Feyenoord) maken voor het eerst deel uit van de selectie van Jong Oranje. De ploeg van bondscoach Michael Reiziger neemt het tijdens de komende interlandperiode in de play-offs voor het EK 2027 op tegen Denemarken.",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/jong-oranje-met-debutanten-aaron-bouwman-en-jerayno-schaken-op-jacht-naar-ek-ticket-tegen-denemarken~a1a8d161/",
+      "datum": "2026-11-06T13:00:00+00:00",
+      "categorie": "oranje",
+      "hot": true,
+      "is_social": false
+    },
+    {
+      "titel": "PS­V-trai­ner Peter Bosz over nieuwe rol van Henk de Jong bij SC Cambuur: ‘Ik zie het mezelf niet doen’",
+      "samenvatting": "PSV-trainer Peter Bosz weet dat zijn club niet zomaar gaat winnen op bezoek bij Cambuur. De oefenmeester wijst daarbij onder meer op de recente resultaten van de club uit Leeuwarden. Ook blikte hij vrijdag in zijn persconferentie terug op de Champions League-wedstrijd tegen Club Brugge.",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/psv-trainer-peter-bosz-over-nieuwe-rol-van-henk-de-jong-bij-sc-cambuur-ik-zie-het-mezelf-niet-doen~a9bfd3de/",
+      "datum": "2026-11-06T13:00:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "LIVE interlandvoetbal | Bondscoach VS laat Pepi fit worden bij PSV, Frankrijk zonder Dembélé in Nations League",
       "samenvatting": "De komende twee weken staan weer in het teken van interlandvoetbal. Oranje speelt twee duels in de Nations League (tegen Griekenland en Duitsland). Verder is het ook de eerste interlandperiode zonder Cristiano Ronaldo bij Portugal. Al het nieuws is hier tot half november te volgen.",
       "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/live-interlandvoetbal-bondscoach-vs-laat-pepi-fit-worden-bij-psv-bayern-hoopt-op-terugkeer-kompany-na-interlandbreak~a8c685ae/",
+      "link": "https://www.ad.nl/voetbal/live-interlandvoetbal-bondscoach-vs-laat-pepi-fit-worden-bij-psv-frankrijk-zonder-dembele-in-nations-league~a8c685ae/",
       "datum": "2026-11-06T12:15:00+00:00",
-      "categorie": "oranje",
-      "hot": true,
-      "is_social": false
-    },
-    {
-      "titel": "Van Taylor tot Weghorst: deze namen ontbreken bij Oranje",
-      "samenvatting": "Bondscoach Xavi maakte vrijdag de selectie bekend voor de interlands tegen Griekenland en Duitsland, maar niet iedereen heeft de schifting overleefd. Dit zijn de opvallendste afvallers.",
-      "bron": "VI",
-      "link": "https://www.vi.nl/nieuws/van-taylor-tot-weghorst-deze-namen-ontbreken-bij-oranje",
-      "datum": "2026-11-06T11:50:52+00:00",
-      "categorie": "oranje",
-      "hot": true,
-      "is_social": false
-    },
-    {
-      "titel": "De Jong, Malen, Maatsen en Kluivert terug bij Oranje, geen debutanten",
-      "samenvatting": "Xavi Hernández heeft de 25-koppige selectie van het Nederlands elftal bekendgemaakt. De Spaanse bondscoach roept geen potentiële debutanten op, maar onder anderen Frenkie de Jong en Donyell Malen keren terug. De geblesseerde Ryan Gravenberch ontbreekt.",
-      "bron": "VI",
-      "link": "https://www.vi.nl/nieuws/de-jong-malen-maatsen-en-kluivert-terug-bij-oranje-geen-debutanten",
-      "datum": "2026-11-06T11:22:32+00:00",
       "categorie": "oranje",
       "hot": true,
       "is_social": false
@@ -70,16 +150,6 @@
       "datum": "2026-11-06T11:07:43+00:00",
       "categorie": "oranje",
       "hot": true,
-      "is_social": false
-    },
-    {
-      "titel": "Wanneer speelt Nederland weer? Op deze datum is volgende interlandperiode",
-      "samenvatting": "In de eerste vier interlands onder bondscoach Xavi Hernández greep het Nederlands elftal de koppositie in de Nations League-groep. De laatste twee duels vinden ook nog in 2026 plaats en naderen rap. In dit artikel lees je wanneer de volgende interlandperiode is en wanneer Oranje weer speelt.",
-      "bron": "VI",
-      "link": "https://www.vi.nl/nieuws/wanneer-speelt-nederland-weer-op-deze-datum-is-volgende-interlandperiode",
-      "datum": "2026-11-06T09:30:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
       "is_social": false
     },
     {
@@ -109,46 +179,6 @@
       "link": "https://www.ad.nl/voetbal/meer-dan-een-voetballer-hoe-cristiano-ronaldo-zijn-land-op-de-wereldkaart-zette~ac9fe7906/",
       "datum": "2026-11-05T17:18:00+00:00",
       "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Oranje-beul, historie en tranen: de 23 indrukwekkende jaren van Cristiano Ronaldo in het shirt van Portugal",
-      "samenvatting": "Cristiano Ronaldo nam donderdag na 23 jaar afscheid als international van Portugal. Succes en verdriet wisselden elkaar af in zijn doelpuntrijke carrière. In deze special herbeleef je zijn interlandloopbaan in de mooiste foto’s. Bekijk de special hier.",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/oranje-beul-historie-en-tranen-de-23-indrukwekkende-jaren-van-cristiano-ronaldo-in-het-shirt-van-portugal~a96ee919/",
-      "datum": "2026-11-05T15:15:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Niclas Füllkrug keert terug in Duitse selectie voor duels met Servië en Oranje",
-      "samenvatting": "Niclas Füllkrug keert na ruim een jaar terug in de nationale ploeg van Duitsland. Bondscoach Jürgen Klopp heeft de spits opgenomen in zijn selectie voor de komende duels met Servië en het Nederlands elftal in de Nations League. De 33-jarige aanvaller van Werder Bremen is met negen doelpunten tops...",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/niclas-fullkrug-keert-terug-in-duitse-selectie-voor-duels-met-servie-en-oranje~ad7932f8/",
-      "datum": "2026-11-05T13:10:12+00:00",
-      "categorie": "oranje",
-      "hot": true,
-      "is_social": false
-    },
-    {
-      "titel": "Japanse oud-voetballer stelt zich kandidaat voor voorzitterschap FIFA",
-      "samenvatting": "Kozo Tashima stelt zich kandidaat voor de verkiezingen voor het voorzitterschap van wereldvoetbalbond FIFA. Dat heeft hij na een vergadering van de Japanse voetbalbond laten weten.",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/japanse-oud-voetballer-stelt-zich-kandidaat-voor-voorzitterschap-fifa~a3416766/",
-      "datum": "2026-11-05T12:50:00+00:00",
-      "categorie": "algemeen",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Japanner Tashima gaat strijd aan met Infantino om FIFA-voorzitterschap",
-      "samenvatting": "De Japanner Kohzo Tashima gaat zich kandidaat stellen voor het voorzitterschap van wereldvoetbalbond FIFA. Dat vertelde hij aan Japanse media na een vergadering van de Japanse voetbalbond JFA. \"Ik ben dankbaar dat ik deze aankondiging kan doen met de volledige steun van de JFA,\" zei Tashima. De 6...",
-      "bron": "NOS Voetbal",
-      "link": "https://nos.nl/l/2638138",
-      "datum": "2026-11-05T12:09:51+00:00",
-      "categorie": "algemeen",
       "hot": false,
       "is_social": false
     }
