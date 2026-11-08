@@ -1,34 +1,64 @@
 {
-  "laatste_update": "2026-11-07T11:33:25.192709+00:00",
-  "aantal_items": 18,
+  "laatste_update": "2026-11-08T11:45:54.530924+00:00",
+  "aantal_items": 12,
   "items": [
     {
-      "titel": "Deze dartende spits richt zijn pijlen op Ally Pally: 'Het egoïsme zit er nog in'",
-      "samenvatting": "Als spits van Harkemase Boys en Staphorst schoot Heine Uuldriks met scherp in de Derde Divisie en de KNVB Beker. Tegenwoordig mikt de 37-jarige darter op een heel ander doel. Na de stunt tegen Ricardo Pietreczko droomt Uuldriks zelfs van het WK in Ally Pally . Waarom ook niet? 'Eigenlijk ben ik p...",
+      "titel": "Fans zorgen dat Vitesse-De Graafschap niet doorgaat, KNVB boos",
+      "samenvatting": "De wedstrijd tussen Vitesse en De Graafschap gaat niet door. Dat hebben beide clubs zondagmiddag bekendgemaakt.",
       "bron": "VI",
-      "link": "https://www.vi.nl/pro/deze-dartende-spits-richt-zijn-pijlen-op-ally-pally-het-egoisme-zit-er-nog-in",
-      "datum": "2026-11-07T09:00:00+00:00",
+      "link": "https://www.vi.nl/nieuws/vitesse-de-graafschap-op-losse-schroeven-om-12-00-uur-meer-duidelijkheid",
+      "datum": "2026-11-08T11:32:11+00:00",
+      "categorie": "oranje",
+      "hot": true,
+      "is_social": false
+    },
+    {
+      "titel": "‘Waanzinnige situatie’: boze supporters De Graafschap blokkeren eigen spelersbus, duel met Vitesse afgelast",
+      "samenvatting": "De wedstrijd tussen Vitesse en De Graafschap in de Keuken Kampioen Divisie is afgelast. De spelersbus van De Graafschap werd bij eigen stadion geblokkeerd door boze supporters van de club, waardoor deze niet kon vertrekken voor de aftrap van 12.15 uur. De KNVB besloot een streep door het duel te ...",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/waanzinnige-situatie-boze-supporters-de-graafschap-blokkeren-eigen-spelersbus-duel-met-vitesse-afgelast~abb7ba6c/",
+      "datum": "2026-11-08T11:14:00+00:00",
       "categorie": "oranje",
       "hot": false,
       "is_social": false
     },
     {
-      "titel": "Lof voor onderschatte Linssen: 'Ongelofelijk, hij blijft maar gaan'",
-      "samenvatting": "Bryan Linssen bewees donderdagavond opnieuw zijn waarde voor NEC. De spits is één meter zeventig, maar oogst respect als het gaat om kopgoals. In Rondje Oranje werden de prestaties van de 36-jarige aanvaller geroemd, die zijn ploeg met twee doelpunten hielp aan een overwinning op Omonia Nicosia.",
+      "titel": "Van der Sar denkt dat Ajax nog altijd de beste opleiding van Nederland heeft",
+      "samenvatting": "Edwin van der Sar was afgelopen donderdag te gast bij de wedstrijd tussen AZ en Juventus, waar hij sprak over bijvoorbeeld de ontwikkeling van Donyell Malen en Kenneth Taylor. Ook denkt hij dat Ajax nog altijd de beste opleiding van Nederland heeft.",
       "bron": "VI",
-      "link": "https://www.vi.nl/video/lof-voor-onderschatte-linssen-ongelofelijk-hij-blijft-maar-gaan",
-      "datum": "2026-11-07T07:05:00+00:00",
+      "link": "https://www.vi.nl/nieuws/van-der-sar-denkt-dat-ajax-nog-altijd-de-beste-opleiding-van-nederland-heeft",
+      "datum": "2026-11-08T09:52:17+00:00",
       "categorie": "oranje",
       "hot": false,
       "is_social": false
     },
     {
-      "titel": "Tegenkandidaat Infantino laakt gedrag FIFA-baas: 'Dit mag nooit meer gebeuren'",
-      "samenvatting": "Kozo Tashima wil de FIFA hervormen. De Japanse bestuurder heeft zich eerder deze week als tegenkandidaat voor de huidige FIFA-baas Gianni Infantino opgeworpen . De 68-jarige erevoorzitter van de Japanse voetbalbond JFA laakt het beleid dat Infantino nu voert bij de wereldvoetbalbond.",
-      "bron": "VI",
-      "link": "https://www.vi.nl/nieuws/tegenkandidaat-infantino-laakt-gedrag-fifa-baas-dit-mag-nooit-meer-gebeuren",
-      "datum": "2026-11-07T06:35:00+00:00",
-      "categorie": "algemeen",
+      "titel": "LIVE eredivisie | Kraker in Enschede: Ajax op bezoek bij FC Twente",
+      "samenvatting": "Een heerlijk affiche vandaag in de eredivisie: Ajax gaat op bezoek bij FC Twente. Dat betekent ook een weerzien tussen de Amsterdammers en Wout Weghorst. Wie houdt zicht op de koppositie? Volg het vanaf 14.30 uur live.",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/live-eredivisie-kraker-in-enschede-ajax-op-bezoek-bij-fc-twente~a130f548/",
+      "datum": "2026-11-08T05:00:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Donyell Malen helpt gigantische kans om zeep, maar blijft ongeslagen met AS Roma",
+      "samenvatting": "Donyell Malen blijft met AS Roma ongeslagen in de Italiaanse Serie A. De Oranje-international won 3-0 van laagvlieger Sassuolo, maar hij zal zijn gemiste kans het meest onthouden.",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/donyell-malen-helpt-gigantische-kans-om-zeep-maar-blijft-ongeslagen-met-as-roma~a9137cb6/",
+      "datum": "2026-11-07T21:37:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Hoofdrolspeler reageert na bizar eigen doelpunt Telstar: ‘Je zakt natuurlijk volledig door de grond’",
+      "samenvatting": "Fortuna Sittard en Telstar speelden eerder vandaag met 2-2 gelijk. Na afloop ging het vooral over het opmerkelijke eigen doelpunt van Telstar-verdediger Sem Valk die zijn doelman, Ronald Koeman junior, vanaf een meter of 30 met een lob verraste.",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/hoofdrolspeler-reageert-na-bizar-eigen-doelpunt-telstar-je-zakt-natuurlijk-volledig-door-de-grond~a566aebf/",
+      "datum": "2026-11-07T20:38:00+00:00",
+      "categorie": "oranje",
       "hot": false,
       "is_social": false
     },
@@ -38,16 +68,6 @@
       "bron": "NOS Voetbal",
       "link": "https://nos.nl/l/2638373",
       "datum": "2026-11-06T22:04:11+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Everton overleeft goal oud-Vitessenaar door Barry in topvorm",
-      "samenvatting": "Everton heeft vrijdagavond in de Premier League afgerekend met Coventry City, al ging dat lang niet van harte. De topvorm van Thierno Barry bracht echter redding voor de Toffees , die op achterstand kwamen door een oude bekende voor de Eredivisie-fanatiekelingen.",
-      "bron": "VI",
-      "link": "https://www.vi.nl/nieuws/everton-overleeft-goal-oud-vitessenaar-door-barry-in-topvorm",
-      "datum": "2026-11-06T21:55:41+00:00",
       "categorie": "oranje",
       "hot": false,
       "is_social": false
@@ -100,86 +120,6 @@
       "datum": "2026-11-06T14:00:00+00:00",
       "categorie": "oranje",
       "hot": true,
-      "is_social": false
-    },
-    {
-      "titel": "Jong Oranje met debutanten Aaron Bouwman en Jerayno Schaken op jacht naar EK-ticket tegen Denemarken",
-      "samenvatting": "Aaron Bouwman (Ajax) en Jerayno Schaken (Feyenoord) maken voor het eerst deel uit van de selectie van Jong Oranje. De ploeg van bondscoach Michael Reiziger neemt het tijdens de komende interlandperiode in de play-offs voor het EK 2027 op tegen Denemarken.",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/jong-oranje-met-debutanten-aaron-bouwman-en-jerayno-schaken-op-jacht-naar-ek-ticket-tegen-denemarken~a1a8d161/",
-      "datum": "2026-11-06T13:00:00+00:00",
-      "categorie": "oranje",
-      "hot": true,
-      "is_social": false
-    },
-    {
-      "titel": "PS­V-trai­ner Peter Bosz over nieuwe rol van Henk de Jong bij SC Cambuur: ‘Ik zie het mezelf niet doen’",
-      "samenvatting": "PSV-trainer Peter Bosz weet dat zijn club niet zomaar gaat winnen op bezoek bij Cambuur. De oefenmeester wijst daarbij onder meer op de recente resultaten van de club uit Leeuwarden. Ook blikte hij vrijdag in zijn persconferentie terug op de Champions League-wedstrijd tegen Club Brugge.",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/psv-trainer-peter-bosz-over-nieuwe-rol-van-henk-de-jong-bij-sc-cambuur-ik-zie-het-mezelf-niet-doen~a9bfd3de/",
-      "datum": "2026-11-06T13:00:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "LIVE interlandvoetbal | Bondscoach VS laat Pepi fit worden bij PSV, Frankrijk zonder Dembélé in Nations League",
-      "samenvatting": "De komende twee weken staan weer in het teken van interlandvoetbal. Oranje speelt twee duels in de Nations League (tegen Griekenland en Duitsland). Verder is het ook de eerste interlandperiode zonder Cristiano Ronaldo bij Portugal. Al het nieuws is hier tot half november te volgen.",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/live-interlandvoetbal-bondscoach-vs-laat-pepi-fit-worden-bij-psv-frankrijk-zonder-dembele-in-nations-league~a8c685ae/",
-      "datum": "2026-11-06T12:15:00+00:00",
-      "categorie": "oranje",
-      "hot": true,
-      "is_social": false
-    },
-    {
-      "titel": "Frenkie de Jong keert na blessure terug in Oranje, Xavi haalt Ian Maatsen voor het eerst bij selectie",
-      "samenvatting": "Frenkie de Jong is terug bij het Nederlands elftal. Bondscoach Xavi Hernández heeft de middenvelder van FC Barcelona opgeroepen voor de laatste interlands in de groepsfase van de Nations League tegen Griekenland en Duitsland. De Spanjaard doet voor het eerst een beroep op Aston Villa-verdediger I...",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/frenkie-de-jong-keert-na-blessure-terug-in-oranje-xavi-haalt-ian-maatsen-voor-het-eerst-bij-selectie~aacca21d/",
-      "datum": "2026-11-06T11:08:00+00:00",
-      "categorie": "oranje",
-      "hot": true,
-      "is_social": false
-    },
-    {
-      "titel": "Selectie Oranje: Frenkie de Jong en Maatsen keren terug",
-      "samenvatting": "Bondscoach Xavi Hernandez heeft zoals verwacht Frenkie de Jong opgeroepen voor de Nations League-wedstrijden tegen Griekenland en Duitsland. De middenvelder miste door een blessure de eerste interlandperiode van dit seizoen. De Jong liep op het WK afgelopen zomer een knieblessure op, waardoor hij...",
-      "bron": "NOS Voetbal",
-      "link": "https://nos.nl/l/2638277",
-      "datum": "2026-11-06T11:07:43+00:00",
-      "categorie": "oranje",
-      "hot": true,
-      "is_social": false
-    },
-    {
-      "titel": "Ten Hag, Weghorst en Van den Brom stuwen Twente omhoog: 'Tevredenheid leidt tot luiheid'",
-      "samenvatting": "Eigenlijk zou dit verhaal gaan over de stiekeme opmars van FC Twente in de VriendenLoterij Eredivisie. Maar na de 0-9 overwinning van de Tukkers op Excelsior vorige week is die opmars niet meer zo stiekem. Met plek vier op de ranglijst en slechts twee punten achter koploper Feyenoord kun je wel s...",
-      "bron": "NOS Voetbal",
-      "link": "https://nos.nl/l/2638249",
-      "datum": "2026-11-06T08:40:27+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "'Spelen voor Portugal was voor Ronaldo egostrelend, daarom kon hij het niet loslaten'",
-      "samenvatting": "Het besluit van Cristiano Ronaldo om een punt te zetten achter zijn interlandcarrière is een verstandig besluit, zo vinden Rafael van der Vaart en Khalid Boulahrouz. De twee voormalig Oranje-internationals stonden op eindtoernooien tegenover de Portugese superster en zijn lovend over Ronaldo's kw...",
-      "bron": "NOS Voetbal",
-      "link": "https://nos.nl/l/2638195",
-      "datum": "2026-11-05T18:16:49+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Meer dan een voetballer: hoe Cristiano Ronaldo zijn land op de wereldkaart zette",
-      "samenvatting": "Zijn afscheid verliep tragisch, hij ging te lang door bij de nationale ploeg, maar de impact van Cristiano Ronaldo op Portugal was ruim twintig jaar lang van onschatbare waarde. Sportief, maar óók economisch, cultureel en sociaal-maatschappelijk. „Heel veel mensen in de wereld kennen Portugal pri...",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/meer-dan-een-voetballer-hoe-cristiano-ronaldo-zijn-land-op-de-wereldkaart-zette~ac9fe7906/",
-      "datum": "2026-11-05T17:18:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
       "is_social": false
     }
   ]
