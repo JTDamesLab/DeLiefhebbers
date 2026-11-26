@@ -1,13 +1,153 @@
 {
-  "laatste_update": "2026-11-25T15:20:12.126229+00:00",
-  "aantal_items": 10,
+  "laatste_update": "2026-11-26T14:47:03.836073+00:00",
+  "aantal_items": 19,
   "items": [
     {
-      "titel": "Column Vivianne Miedema | ‘Goed dat Lieke Martens zich uitspreekt, want het is voor Nederland superjammer’",
+      "titel": "Vanavond is EK-loting Jong Oranje: dit zijn mogelijke tegenstanders",
+      "samenvatting": "Jong Oranje heeft zich via de play-offs alsnog geplaatst voor het EK van aankomende zomer in Albanië en Servië. De ploeg van Michael Reiziger was in een tweeluik te sterk voor Jong Denemarken. In dit artikel lees je alles over de loting voor het EK Onder-21.",
+      "bron": "VI",
+      "link": "https://www.vi.nl/nieuws/op-deze-datum-is-ek-loting-jong-oranje-en-dit-zijn-mogelijke-tegenstanders",
+      "datum": "2026-11-26T14:45:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Duits international (28) krijgt zestien maanden schorsing en mist WK",
+      "samenvatting": "In dit blog volgen we alle ontwikkelingen in het vrouwenvoetbal. We besteden onder meer aandacht aan de Eurojackpot Vrouwen Eredivisie, de Europese toernooien en het Nederlands elftal.",
+      "bron": "VI",
+      "link": "https://www.vi.nl/nieuws/alles-over-vrouwenvoetbal-van-de-eredivisie-tot-aan-de-oranje-leeuwinnen",
+      "datum": "2026-11-26T13:19:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "FIFA erkent gehackt te zijn: persoonlijke en zakelijke gegevens gestolen",
+      "samenvatting": "De FIFA heeft te maken gehad met een hack. De wereldvoetbalbond maakte melding van de cyberaanval. Daarbij is 'een beperkte hoeveelheid' persoonlijke en zakelijke gegevens gestolen.",
+      "bron": "VI",
+      "link": "https://www.vi.nl/nieuws/fifa-erkent-gehackt-te-zijn-persoonlijke-en-zakelijke-gegevens-gestolen",
+      "datum": "2026-11-26T11:49:07+00:00",
+      "categorie": "algemeen",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Transfers PSV: Virgil van Dijk bespreekt De Bruyne-geruchten",
+      "samenvatting": "VI volgt het transfernieuws bij PSV op de voet. De doelwitten van de Eindhovenaren, duiding van de clubwatcher, of aandacht in buitenlandse media. We verzamelen alles hier.",
+      "bron": "VI",
+      "link": "https://www.vi.nl/nieuws/volg-in-dit-liveblog-alle-transferperikelen-rondom-psv-2026-27",
+      "datum": "2026-11-26T11:18:59+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Jong Oranje vanavond de koker in bij loting voor EK: dit zijn de mogelijke tegenstanders",
+      "samenvatting": "Jong Oranje plaatste zich via de play-offs voor het EK van 2027. Vandaag is de loting in Belgrado. Wie zijn de mogelijke tegenstanders van Nederland? Hier lees je hoe de loting in zijn werk gaat.",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/jong-oranje-vanavond-de-koker-in-bij-loting-voor-ek-dit-zijn-de-mogelijke-tegenstanders~a69d6c74/",
+      "datum": "2026-11-26T10:36:37+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Virgil van Dijk over derby tegen Everton en gemiste interlands bij Oranje: ‘Ik ga Xavi deze week bellen’",
+      "samenvatting": "Virgil van Dijk is met Liverpool bezig aan een belangrijke week in het seizoen. Zeges op Manchester United en Club Brugge (Champions League) geven vertrouwen voor de stadsderby zaterdag tegen Everton. In de clash met de buren tekent Van Dijk voor eenzelfde scenario als vorig seizoen. „In de 100st...",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/virgil-van-dijk-over-derby-tegen-everton-en-gemiste-interlands-bij-oranje-ik-ga-xavi-deze-week-bellen~aed3a52e/",
+      "datum": "2026-11-26T10:25:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Degradatiestrijd blijft zinderend voor Seedorfs Corinthians na laat puntenverlies",
+      "samenvatting": "Corinthians, de club van trainer Clarence Seedorf en aanvaller Memphis Depay, heeft gevoelig puntenverlies geleden in de Braziliaanse competitie. In de blessuretijd van de tweede helft werd een overwinning weggegeven tegen tien man van Atlético Mineiro (1-1). Met een overwinning had Corinthians a...",
+      "bron": "NOS Voetbal",
+      "link": "https://nos.nl/l/2641069",
+      "datum": "2026-11-26T08:46:03+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Clarence Seedorf en Memphis Depay slikken dure tegentreffer tegen tiental in strijd tegen degradatie",
+      "samenvatting": "Het Corinthians van Clarence Seedorf en Memphis Depay heeft op pijnlijke wijze puntenverlies geleden. De Braziliaanse ploeg leek op bezoek bij Atlético Mineiro een belangrijke zege te boeken in de strijd tegen degradatie, maar in blessuretijd werd alsnog een tegentreffer geïncasseerd: 1-1.",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/clarence-seedorf-en-memphis-depay-slikken-dure-tegentreffer-tegen-tiental-in-strijd-tegen-degradatie~acec06df/",
+      "datum": "2026-11-26T06:35:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Donyell Malen helpt AS Roma aan punt tegen PSG, Lille mede dankzij goal Ayase Ueda langs Bayern",
+      "samenvatting": "Donyell Malen liet zich woensdagavond opnieuw gelden bij AS Roma. De Nederlandse spits kwam als invaller in het veld en had slechts elf minuten nodig om in de Champions League toe te slaan tegen titelhouder Paris Saint-Germain. Door zijn rake strafschop eindigde het duel in Parijs in 2-2.",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/donyell-malen-helpt-as-roma-aan-punt-tegen-psg-lille-mede-dankzij-goal-ayase-ueda-langs-bayern~a5ff3428/",
+      "datum": "2026-11-25T22:45:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Goal Malen levert Roma punt op bij Paris Saint-Germain, Liverpool wint ruim in Brugge",
+      "samenvatting": "Paris Saint Germain heeft zijn eerste punten verloren in dit Champions League-seizoen. In het Parc des Princes in Parijs werd het tegen AS Roma 2-2 door een late strafschop van invaller en Oranje-international Donyell Malen. Door het puntenverlies van de bekerhouder is Real Madrid, dat gisteren P...",
+      "bron": "NOS Voetbal",
+      "link": "https://nos.nl/l/2641034",
+      "datum": "2026-11-25T22:08:19+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Eenvoudige Champions League-zege Barcelona in Bakoe, met De Jong als verdediger",
+      "samenvatting": "FC Barcelona heeft een comfortabele zege geboekt op het Azerbeidzjaanse Sabah FK in de Champions League. In Bakoe wonnen de Catalanen, met Frenkie de Jong als centrale verdediger in de basis, met 1-4. De ploeg van coach Hansi Flick plaatste zich daarmee steviger in de top acht van de Europese com...",
+      "bron": "NOS Voetbal",
+      "link": "https://nos.nl/l/2641016",
+      "datum": "2026-11-25T19:35:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "FC Barcelona wint met overtuigende cijfers in Azerbeidzjan, Frenkie de Jong krijgt ruim uur speeltijd",
+      "samenvatting": "FC Barcelona, met Frenkie de Jong als centrale verdediger in de basis, heeft woensdagavond de vierde overwinning van dit Champions League-seizoen geboekt. De Catalanen waren met 1-4 te sterk voor Sabah FC. De thuisploeg bood in Azerbeidzjan nog wel wat weerstand, maar kon uiteindelijk niet voorko...",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/fc-barcelona-wint-met-overtuigende-cijfers-in-azerbeidzjan-frenkie-de-jong-krijgt-ruim-uur-speeltijd~ae06af16/",
+      "datum": "2026-11-25T19:35:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Wout Weghorst weet uit eigen ervaring hoe mooi een Europees tripje met FC Twente kan zijn: ‘Dat was supergaaf’",
+      "samenvatting": "Wout Weghorst was erbij als supporter in de jaren dat FC Twente Champions League speelde. Donderdag, tegen Freiburg, zit zijn broertje op de tribune. Uit eigen ervaring weet Weghorst wat de bijna vierduizend Tukkers in Duitsland gaan beleven.",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/wout-weghorst-weet-uit-eigen-ervaring-hoe-mooi-een-europees-tripje-met-fc-twente-kan-zijn-dat-was-supergaaf~a6426c05/",
+      "datum": "2026-11-25T18:40:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Veurink blij met terugkeer Van Domselaar bij Oranje, afwezige Miedema 'niet belastbaar genoeg'",
+      "samenvatting": "\"Keuzes maken hoort erbij\", zegt Oranje-bondscoach Arjan Veurink over de concurrentie in zijn selectie voor de cruciale play-offs tegen Slovenië om een WK-ticket, volgende week dinsdag en zaterdag. Zo ontbreekt topscorer aller tijden Vivianne Miedema (104 goals in 132 interlands), die halverwege ...",
+      "bron": "NOS Voetbal",
+      "link": "https://nos.nl/l/2640996",
+      "datum": "2026-11-25T16:27:42+00:00",
+      "categorie": "oranje",
+      "hot": true,
+      "is_social": false
+    },
+    {
+      "titel": "Vivianne Miedema sluit zich volledig aan bij kritiek Lieke Martens: ‘Superjammer voor het Nederlandse vrouwenvoetbal’",
       "samenvatting": "Vivianne Miedema is na blessureleed terug op het veld, al komen de cruciale WK-kwalificatiewedstrijden van Oranje nog nét te vroeg. Ook sluit ze zich in haar column aan bij Lieke Martens, die deze week kritisch was op de omstandigheden in de Nederlandse competitie.",
       "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/column-vivianne-miedema-goed-dat-lieke-martens-zich-uitspreekt-want-het-is-voor-nederland-superjammer~a6d0204be/",
-      "datum": "2026-11-25T15:00:40+00:00",
+      "link": "https://www.ad.nl/voetbal/vivianne-miedema-sluit-zich-volledig-aan-bij-kritiek-lieke-martens-superjammer-voor-het-nederlandse-vrouwenvoetbal~a6d0204be/",
+      "datum": "2026-11-25T15:00:00+00:00",
       "categorie": "oranje",
       "hot": false,
       "is_social": false
@@ -33,16 +173,6 @@
       "is_social": false
     },
     {
-      "titel": "LIVE Champions League | Frenkie de Jong met FC Barcelona op bezoek bij Sabah FC",
-      "samenvatting": "Het FC Barcelona van Frenkie de Jong gaat vanavond op bezoek in Azerbeidzjan. De Spaanse grootmacht speelt tegen het in 2017 opgerichte Sabah FC. Volg het hier vanaf 18.45 uur live.",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/live-champions-league-frenkie-de-jong-met-fc-barcelona-op-bezoek-bij-sabah-fc~ae06af16/",
-      "datum": "2026-11-25T05:00:26+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
       "titel": "Goal Lang net geen drie punten waard voor Napoli bij City, ook Arsenal wint niet",
       "samenvatting": "Noa Lang leek voor Napoli drie belangrijke punten in de Champions League binnen te halen, maar door een laat doelpunt van Rayan Cherki kwam Manchester City toch nog langszij: 2-2. Door het gelijkspel staan Lang en zijn ploeggenoten na vijf speelronden in de competitiefase 27ste, drie plekken onde...",
       "bron": "NOS Voetbal",
@@ -59,46 +189,6 @@
       "link": "https://nos.nl/l/2640894",
       "datum": "2026-11-24T21:52:32+00:00",
       "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "PSV mag helft lang dromen van superstunt tegen Real, maar na rust staan Madrileense sterren op",
-      "samenvatting": "PSV heeft dinsdagavond geen punten overgehouden aan het loodzware uitduel met Real Madrid. De ploeg van trainer Peter Bosz maakte voor rust indruk en kwam ook dik verdiend op voorsprong in de Champions League-kraker, maar na de pauze gaf de Spaanse grootmacht even flink gas: 5-1.",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/psv-mag-helft-lang-dromen-van-superstunt-tegen-real-maar-na-rust-staan-madrileense-sterren-op~ab81cc85/",
-      "datum": "2026-11-24T21:52:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Gekke vraag over Lamine Yamal en GTA VI doet Frenkie de Jong verbaasd weglopen: ‘Natuurlijk niet’",
-      "samenvatting": "Frenkie de Jong lijkt woensdagavond (18.45 uur) te kunnen rekenen op een basisplaats bij FC Barcelona in het Champions League-duel met Sabah FK in Azerbeidzjan, maar zijn trainer Hansi Flick liet nog in het midden op welke positie de Oranje-international zal staan. Wel loofde hij De Jong, die bij...",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/gekke-vraag-over-lamine-yamal-en-gta-vi-doet-frenkie-de-jong-verbaasd-weglopen-natuurlijk-niet~a5869ac7/",
-      "datum": "2026-11-24T18:32:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Alternatief Oranje: deze elf ‘vergeten’ Nederlanders die voetballen in het buitenland verdienen een kans van Xavi",
-      "samenvatting": "In maart komt Oranje pas weer in actie, dus alle tijd voor bondscoach Xavi om na de 5-0 tegen Duitsland wellicht ook iets verder te kijken dan zijn vaste selectie. Wij stelden alvast een alternatief Oranje samen, uit onlangs niet geselecteerde spelers die in het buitenland wel opvallen.",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/alternatief-oranje-deze-elf-vergeten-nederlanders-die-voetballen-in-het-buitenland-verdienen-een-kans-van-xavi~a98fd2e6/",
-      "datum": "2026-11-24T12:04:00+00:00",
-      "categorie": "oranje",
-      "hot": true,
-      "is_social": false
-    },
-    {
-      "titel": "Oranjevrouwen bereiden zich voor op laatste horde voor WK: tweeluik tegen Slovenië",
-      "samenvatting": "De Nederlandse voetbalsters zijn nog één horde verwijderd van het WK voetbal volgend jaar in Brazilië (van 24 juni tot en met 25 juli 2027). In de laatste kwalificatieronde wacht een tweeluik met Slovenië, de nummer 36 van de FIFA-wereldranglijst. Nederland is de mondiale nummer elf. Vandaag meld...",
-      "bron": "NOS Voetbal",
-      "link": "https://nos.nl/l/2640784",
-      "datum": "2026-11-24T05:13:11+00:00",
-      "categorie": "algemeen",
       "hot": false,
       "is_social": false
     }
