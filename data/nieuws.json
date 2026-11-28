@@ -1,23 +1,73 @@
 {
-  "laatste_update": "2026-11-27T14:46:25.620129+00:00",
-  "aantal_items": 20,
+  "laatste_update": "2026-11-28T13:56:58.413719+00:00",
+  "aantal_items": 12,
   "items": [
     {
-      "titel": "Taylor afwezig door blessure bij Lazio: 'Niemand kan geven wat hij geeft'",
-      "samenvatting": "Kenneth Taylor miste dit seizoen nog geen wedstrijd bij Lazio, maar moet het duel van zaterdag wel aan zich voorbij laten gaan. Trainer Gennaro Gattuso bevestigde op een persmoment dat de Oranje-international niet aanwezig is door spierklachten voor het komende duel.",
+      "titel": "Rodri terug bij Barça, Flick moet keuzes maken: 'Een lastige situatie'",
+      "samenvatting": "Andreas Christensen, Lamine Yamal en Rodri keren voor het bezoek aan Riazor terug in de wedstrijdselectie van Barcelona. De spelers zijn op tijd hersteld voor het uitduel met Deportivo A Coruña. Wat is Hansi Flick van plan met Frenkie de Jong? 'We hebben veel kwaliteit, dat betekent dat we keuzes...",
       "bron": "VI",
-      "link": "https://www.vi.nl/nieuws/zorgen-in-rome-inzetbaarheid-taylor-onzeker-voor-zaterdag",
-      "datum": "2026-11-27T13:52:28+00:00",
+      "link": "https://www.vi.nl/nieuws/rodri-terug-bij-barca-flick-moet-keuzes-maken-een-lastige-situatie",
+      "datum": "2026-11-28T13:02:20+00:00",
       "categorie": "oranje",
-      "hot": true,
+      "hot": false,
       "is_social": false
     },
     {
-      "titel": "Degradatiestrijd Brazilië: dit heeft Corinthians van Seedorf en Memphis nodig",
-      "samenvatting": "Clarence Seedorf en Memphis Depay gaan een zinderende ontknoping tegemoet in de Braziliaanse Série A. Corinthians staat met nog twee speelrondes te gaan net boven de degradatiestreep, met evenveel punten als twee concurrenten. VI zet op een rij wat je moet weten over de degradatiestrijd in Brazilië.",
+      "titel": "Ook KKD-duel tussen FC Volendam en FC Eindhoven afgelast wegens weersomstandigheden",
+      "samenvatting": "De thuiswedstrijd van FC Volendam tegen FC Eindhoven in de Keuken Kampioen Divisie gaat zondag niet door vanwege de koude weersomstandigheden, meldt de KNVB. De voetbalbond zegt een nieuwe speeldatum later bekend te maken.",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/ook-kkd-duel-tussen-fc-volendam-en-fc-eindhoven-afgelast-wegens-weersomstandigheden~a0bc8d68/",
+      "datum": "2026-11-28T12:16:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Ex-toptalent Fofana scoort na vier jaar weer: 'Dat gevoel was heel lang dood'",
+      "samenvatting": "Heracles Almelo liet vrijdag twee punten liggen op bezoek bij Jong Ajax, maar één speler van de koploper van de Keuken Kampioen Divisie stapte nog enigszins met een goed gevoel van het veld. Fodé Fofana maakte zijn eerste doelpunt sinds 11 november 2022. 'Je voelt je weer onderdeel van de voetbal...",
       "bron": "VI",
-      "link": "https://www.vi.nl/nieuws/degradatiestrijd-brazilie-dit-heeft-corinthians-van-seedorf-en-memphis-nodig",
-      "datum": "2026-11-27T11:20:35+00:00",
+      "link": "https://www.vi.nl/nieuws/ex-toptalent-fofana-scoort-na-vier-jaar-weer-dat-gevoel-was-heel-lang-dood",
+      "datum": "2026-11-28T08:23:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Chelsea onderuit ondanks twee goals van uitblinker Emmanuel Emegha",
+      "samenvatting": "Chelsea heeft de uitwedstrijd tegen Nottingham Forest ondanks doelpunten van Emmanuel Emegha verloren (3-2). De 23-jarige spits, 2-voudig international voor Oranje, viel na rust in en scoorde tweemaal.",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/chelsea-onderuit-ondanks-twee-goals-van-uitblinker-emmanuel-emegha~ad63148a/",
+      "datum": "2026-11-27T22:27:58+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Column Sjoerd Mossou | José Mourinho heeft volledig gelijk, we gaan ten onder aan poëten",
+      "samenvatting": "5-1, 5-0 en 5-1. Feyenoord, Oranje en PSV gingen dit seizoen kansloos en roemloos ten onder in een zware uitwedstrijd. Misschien had José Mourinho toch een punt, denkt columnist Sjoerd Mossou.",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/column-sjoerd-mossou-jose-mourinho-heeft-volledig-gelijk-we-gaan-ten-onder-aan-poeten~a2e87af6/",
+      "datum": "2026-11-27T18:30:56+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "Tijjani Reijnders grijpt koppositie met Al-Qadsiah en sleept individuele prijs in de wacht",
+      "samenvatting": "Tijjani Reijnders is met zijn club Al-Qadsiah de nieuwe koploper in Saudi-Arabië. Al-Qadsiah won met de Oranje-international in de basis met 2-0 van laagvlieger Al-Fayha.",
+      "bron": "AD Voetbal",
+      "link": "https://www.ad.nl/voetbal/tijjani-reijnders-grijpt-koppositie-met-al-qadsiah-en-sleept-individuele-prijs-in-de-wacht~abaf419a/",
+      "datum": "2026-11-27T16:42:00+00:00",
+      "categorie": "oranje",
+      "hot": false,
+      "is_social": false
+    },
+    {
+      "titel": "RKC Waalwijk zet trainer Duits aan de kant na tegenvallende resultaten",
+      "samenvatting": "RKC Waalwijk heeft trainer Sander Duits ontslagen. De coach, die bezig was aan zijn tweede seizoen in Waalwijk, moet vanwege de tegenvallende resultaten de club verlaten. \"Het mag duidelijk zijn dat we niet staan waar we horen te staan. Daar hebben we lang en veel met elkaar over gesproken\", aldu...",
+      "bron": "NOS Voetbal",
+      "link": "https://nos.nl/l/2641266",
+      "datum": "2026-11-27T14:52:33+00:00",
       "categorie": "oranje",
       "hot": false,
       "is_social": false
@@ -53,26 +103,6 @@
       "is_social": false
     },
     {
-      "titel": "Georgische politie grijpt in op tribune bij Besiktas tegen Hapoel Beer Sjeva",
-      "samenvatting": "De wedstrijd tussen Besiktas en Hapoel Beer Sjeva in de Europa League is donderdagavond een half uur lang onderbroken. De politie moest ingrijpen op de tribunes, waar ongeregeldheden waren.",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/georgische-politie-grijpt-in-op-tribune-bij-besiktas-tegen-hapoel-beer-sjeva~a1656624/",
-      "datum": "2026-11-26T21:04:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Jong Oranje op EK 2027 weer tegen Noorwegen, maar ook tegen buurlanden",
-      "samenvatting": "Jong Oranje gaat het op het EK 2027 opnemen tegen Duitsland, Noorwegen en België. Het team van bondscoach Michael Reiziger gaat de drie poulewedstrijden in juni 2027 spelen in Albanië. De twee beste teams gaan door naar de kwartfinales.",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/jong-oranje-op-ek-2027-weer-tegen-noorwegen-maar-ook-tegen-buurlanden~a69d6c74/",
-      "datum": "2026-11-26T18:19:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
       "titel": "Jong Oranje treft Noorwegen opnieuw op EK, ook Duitsland en België in poule",
       "samenvatting": "Jong Oranje treft op het EK onder 21 van volgend jaar Duitsland, Noorwegen en België in de groepsfase. Dit wees de loting in Belgrado donderdagavond uit. In de kwalificatie kwam de ploeg van bondscoach Michael Reiziger de Noren ook al tegen. Noorwegen eindigde boven Nederland in de poule, mede da...",
       "bron": "NOS Voetbal",
@@ -83,121 +113,11 @@
       "is_social": false
     },
     {
-      "titel": "Duitse voetbalster Laura Freigang mist WK na gemiste dopingtests: ‘Ik wil mijn excuses aanbieden aan mijn teams en fans’",
-      "samenvatting": "De Duitse voetbalster Laura Freigang kan komende zomer niet meedoen aan het wereldkampioenschap. De 28-jarige Duitse is tot 7 oktober geschorst wegens het missen van dopingtests.",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/duitse-voetbalster-laura-freigang-mist-wk-na-gemiste-dopingtests-ik-wil-mijn-excuses-aanbieden-aan-mijn-teams-en-fans~a31e726d/",
-      "datum": "2026-11-26T17:14:00+00:00",
-      "categorie": "algemeen",
-      "hot": false,
-      "is_social": false
-    },
-    {
       "titel": "UEFA roept FIFA op tot onderzoek na uitspraken De Jong over druk van wereldvoetbalbond",
       "samenvatting": "De Europese voetbalbond UEFA wil dat er een onderzoek komt naar de wijze waarop de KNVB onder druk is gezet om FIFA-voorzitter Gianni Infantino te steunen in zijn campagne om herkozen te worden. Daarmee reageert UEFA op de onthullingen van secretaris-generaal Gijs de Jong van de KNVB in de podcas...",
       "bron": "NOS Voetbal",
       "link": "https://nos.nl/l/2641129",
       "datum": "2026-11-26T16:40:50+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Virgil van Dijk over derby tegen Everton en gemiste interlands bij Oranje: ‘Ik ga Xavi deze week bellen’",
-      "samenvatting": "Virgil van Dijk is met Liverpool bezig aan een belangrijke week in het seizoen. Zeges op Manchester United en Club Brugge (Champions League) geven vertrouwen voor de stadsderby zaterdag tegen Everton. In de clash met de buren tekent Van Dijk voor eenzelfde scenario als vorig seizoen. „In de 100st...",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/virgil-van-dijk-over-derby-tegen-everton-en-gemiste-interlands-bij-oranje-ik-ga-xavi-deze-week-bellen~aed3a52e/",
-      "datum": "2026-11-26T10:25:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Degradatiestrijd blijft zinderend voor Seedorfs Corinthians na laat puntenverlies",
-      "samenvatting": "Corinthians, de club van trainer Clarence Seedorf en aanvaller Memphis Depay, heeft gevoelig puntenverlies geleden in de Braziliaanse competitie. In de blessuretijd van de tweede helft werd een overwinning weggegeven tegen tien man van Atlético Mineiro (1-1). Met een overwinning had Corinthians a...",
-      "bron": "NOS Voetbal",
-      "link": "https://nos.nl/l/2641069",
-      "datum": "2026-11-26T08:46:03+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Clarence Seedorf en Memphis Depay slikken dure tegentreffer tegen tiental in strijd tegen degradatie",
-      "samenvatting": "Het Corinthians van Clarence Seedorf en Memphis Depay heeft op pijnlijke wijze puntenverlies geleden. De Braziliaanse ploeg leek op bezoek bij Atlético Mineiro een belangrijke zege te boeken in de strijd tegen degradatie, maar in blessuretijd werd alsnog een tegentreffer geïncasseerd: 1-1.",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/clarence-seedorf-en-memphis-depay-slikken-dure-tegentreffer-tegen-tiental-in-strijd-tegen-degradatie~acec06df/",
-      "datum": "2026-11-26T06:35:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Donyell Malen helpt AS Roma aan punt tegen PSG, Lille mede dankzij goal Ayase Ueda langs Bayern",
-      "samenvatting": "Donyell Malen liet zich woensdagavond opnieuw gelden bij AS Roma. De Nederlandse spits kwam als invaller in het veld en had slechts elf minuten nodig om in de Champions League toe te slaan tegen titelhouder Paris Saint-Germain. Door zijn rake strafschop eindigde het duel in Parijs in 2-2.",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/donyell-malen-helpt-as-roma-aan-punt-tegen-psg-lille-mede-dankzij-goal-ayase-ueda-langs-bayern~a5ff3428/",
-      "datum": "2026-11-25T22:45:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Goal Malen levert Roma punt op bij Paris Saint-Germain, Liverpool wint ruim in Brugge",
-      "samenvatting": "Paris Saint Germain heeft zijn eerste punten verloren in dit Champions League-seizoen. In het Parc des Princes in Parijs werd het tegen AS Roma 2-2 door een late strafschop van invaller en Oranje-international Donyell Malen. Door het puntenverlies van de bekerhouder is Real Madrid, dat gisteren P...",
-      "bron": "NOS Voetbal",
-      "link": "https://nos.nl/l/2641034",
-      "datum": "2026-11-25T22:08:19+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Eenvoudige Champions League-zege Barcelona in Bakoe, met De Jong als verdediger",
-      "samenvatting": "FC Barcelona heeft een comfortabele zege geboekt op het Azerbeidzjaanse Sabah FK in de Champions League. In Bakoe wonnen de Catalanen, met Frenkie de Jong als centrale verdediger in de basis, met 1-4. De ploeg van coach Hansi Flick plaatste zich daarmee steviger in de top acht van de Europese com...",
-      "bron": "NOS Voetbal",
-      "link": "https://nos.nl/l/2641016",
-      "datum": "2026-11-25T19:35:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "FC Barcelona wint met overtuigende cijfers in Azerbeidzjan, Frenkie de Jong krijgt ruim uur speeltijd",
-      "samenvatting": "FC Barcelona, met Frenkie de Jong als centrale verdediger in de basis, heeft woensdagavond de vierde overwinning van dit Champions League-seizoen geboekt. De Catalanen waren met 1-4 te sterk voor Sabah FC. De thuisploeg bood in Azerbeidzjan nog wel wat weerstand, maar kon uiteindelijk niet voorko...",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/fc-barcelona-wint-met-overtuigende-cijfers-in-azerbeidzjan-frenkie-de-jong-krijgt-ruim-uur-speeltijd~ae06af16/",
-      "datum": "2026-11-25T19:35:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Wout Weghorst weet uit eigen ervaring hoe mooi een Europees tripje met FC Twente kan zijn: ‘Dat was supergaaf’",
-      "samenvatting": "Wout Weghorst was erbij als supporter in de jaren dat FC Twente Champions League speelde. Donderdag, tegen Freiburg, zit zijn broertje op de tribune. Uit eigen ervaring weet Weghorst wat de bijna vierduizend Tukkers in Duitsland gaan beleven.",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/wout-weghorst-weet-uit-eigen-ervaring-hoe-mooi-een-europees-tripje-met-fc-twente-kan-zijn-dat-was-supergaaf~a6426c05/",
-      "datum": "2026-11-25T18:40:00+00:00",
-      "categorie": "oranje",
-      "hot": false,
-      "is_social": false
-    },
-    {
-      "titel": "Veurink blij met terugkeer Van Domselaar bij Oranje, afwezige Miedema 'niet belastbaar genoeg'",
-      "samenvatting": "\"Keuzes maken hoort erbij\", zegt Oranje-bondscoach Arjan Veurink over de concurrentie in zijn selectie voor de cruciale play-offs tegen Slovenië om een WK-ticket, volgende week dinsdag en zaterdag. Zo ontbreekt topscorer aller tijden Vivianne Miedema (104 goals in 132 interlands), die halverwege ...",
-      "bron": "NOS Voetbal",
-      "link": "https://nos.nl/l/2640996",
-      "datum": "2026-11-25T16:27:42+00:00",
-      "categorie": "oranje",
-      "hot": true,
-      "is_social": false
-    },
-    {
-      "titel": "Vivianne Miedema sluit zich volledig aan bij kritiek Lieke Martens: ‘Superjammer voor het Nederlandse vrouwenvoetbal’",
-      "samenvatting": "Vivianne Miedema is na blessureleed terug op het veld, al komen de cruciale WK-kwalificatiewedstrijden van Oranje nog nét te vroeg. Ook sluit ze zich in haar column aan bij Lieke Martens, die deze week kritisch was op de omstandigheden in de Nederlandse competitie.",
-      "bron": "AD Voetbal",
-      "link": "https://www.ad.nl/voetbal/vivianne-miedema-sluit-zich-volledig-aan-bij-kritiek-lieke-martens-superjammer-voor-het-nederlandse-vrouwenvoetbal~a6d0204be/",
-      "datum": "2026-11-25T15:00:00+00:00",
       "categorie": "oranje",
       "hot": false,
       "is_social": false
